@@ -1,0 +1,390 @@
+version: "3.1"
+nlu:
+- intent: greet
+  examples: |
+    - Hai
+    - Halo
+    - Selamat pagi
+    - Selamat siang
+    - Selamat sore
+    - Selamat malam
+    - Assalamualaikum
+    - Apa kabar?
+    - Hi, ada yang bisa dibantu?
+    - Halo, selamat datang!
+    - Hey bro
+    - Hoi
+    - Yo
+    - Hallo
+    - Hei
+    - Apa kabar bro
+    - Hy
+    - Haloo
+    - Selamat pagii
+    - Assalamualaikum wr wb
+    - Apa khabar
+    - Hei, ada apa?
+    - Hola
+    - Hay
+    - Selamt pagi
+    - Slmat siang
+    - Halo bro
+    - Heyy
+    - Hiii
+    - Apa kbr
+    - Selamat pg
+    - Halo, apa kabar?
+    - Hi bro
+    - Assalamu’alaikum
+    - Halo, selamat pg
+- intent: booking
+  examples: |
+    - Pesan [Reguler](service_type) [Malang-Juanda](route)
+    - Booking [Charter Drop](service_type) [Juanda-Malang](route)
+    - Reservasi [3 penumpang](passengers) untuk [Surabaya](route)
+    - Pesen travel [Malang-Juanda](route) buat besok
+    - Booking [MLG-JUANDA](route) tgl 15
+    - Mau ke bandara [Juanda](route) dr [Malang](route), ada travel?
+    - Butuh jemputan [Malang](route) ke [JUANDA](route) pagi
+    - Travel dr [Malng](route) ke bandara [JUANDA](route)
+    - Pesan kursi [MLG-JUANDA](route) utk [2 org](passengers)
+    - Carikan travel [Malang](route) [Juada](route) yg murah
+    - Reservasi [MLG-JUANDA](route) tgl 20
+    - Landing [Juanda](route) jam 10, butuh ke [Malang](route)
+    - Jemput dr bandara [Juanda](route) ke [Malang](route)
+    - Pesen travel [JUANDA-MLG](route) sore ini
+    - Mau ke [Surabaya](route) dr [Malang](route), ada travel?
+    - Booking [MLG-SBY](route) utk besok
+    - Pesen travel [Surabaya-Malang](route)
+    - Pesan [Reguler](service_type) [Malang-Juanda](route) for [Mary](name), [3 penumpang](passengers), [+628123456789](phone), [Jl. Kawi](address_pickup), flight [GA123](flight), [09:00](pickup_time)
+    - Pesen [Charter Harian](service_type) [Malang-Surabaya](route) dengan [Hiace](vehicle) untuk [12 jam](hours)
+    - Pesan cepat [Malang-Juanda](route) tgl [2025-06-15](pickup_date) jam [05:00](pickup_time) untuk [2 orang](passengers) atas nama [Budi](name), HP [08123456789](phone), jemput di [Hotel Tugu](address_pickup)
+    - Quick book [JUANDA-MLG](route): [3 org](passengers), tgl [20/06](pickup_date), jam [04:30](pickup_time), nama [Siti](name), no [08567890123](phone), jemput [Jl. Sudirman 5](address_pickup)
+    - Pesen instan dr bandara ke [Malang](route)
+    - Booking cepat [SBY-MLG](route)
+    - Reserv kilat [MLG-SBY](route)
+    - Mau pesen [reguler](service_type) ke [Juanda](route) dari [Malang](route)
+    - Pesen [2 org](passengers) buat [Malang-Surabaya](route)
+    - Booking travel [Malang](route) ke [Bandara Juanda](route)
+    - Jemputan [Juanda](route) ke [Malang](route) buat [4 orang](passengers)
+    - Pesan [Charter Drop](service_type) [Malang-Juanda](route) [7 orang](passengers) [4 alamat](addresses)
+    - Booking [Reguler](service_type) [Malang-Juanda](route) [3 penumpang](passengers)
+    - Pesen travel [Malang-Juanda](route) buat [lima orang](passengers)
+    - Reservasi [Juanda-Malang](route) untuk [empat penumpang](passengers)
+    - Mau travel dari [Malang](route) ke [Juanda](route)
+    - Saya mau pesan [reguler](service_type) untuk [Malang-Juanda](route)
+    - Pesen [Reguler](service_type) [Malang-Juandaa](route)
+    - Pesan [Regular](service_type) [Malang-Junda](route)
+    - Booking [Charter Drop](service_type) [Juanda-Mlng](route)
+    - Reservasi [tiga penumpang](passengers) ke [Suroboyo](route)
+    - Pesen [Malang-Juanda](route) besok
+    - Book [MLG-JUANDA](route) tanggal 15
+    - Mau ke [Juanda](route) dari [Malang](route), ada gak?
+    - Butuh jemput [Malang](route) ke [JUANDA](route) pagi ini
+    - Travel dari [Malangg](route) ke [JUANDA](route)
+    - Pesan [MLG-JUANDA](route) buat [dua orang](passengers)
+    - Cari travel [Malang](route) ke [Juanda](route) murah
+    - Reservasi [MLG-JUANDA](route) tgl 20 Juni
+    - Landing [Juandaa](route) jam 10, mau ke [Malang](route)
+    - Jemput dari [Juanda](route) ke [Malang](route)
+    - Pesen [JUANDA-MLG](route) sore
+    - Mau ke [Sby](route) dari [Malang](route)
+    - Booking [MLG-SBY](route) besok
+    - Pesen [Surabaya-Mlng](route)
+    - Pesan [Reguler](service_type) [Malang-Juanda](route) atas nama [Mery](name), [tiga org](passengers), [08123456789](phone), [Jln Kawi](address_pickup), pesawat [GA123](flight), [09.00](pickup_time)
+    - Pesen [Charter Harian](service_type) [Malang-SBY](route) pake [Hiace](vehicle) [12 jam](hours)
+    - Pesan [Malang-Juanda](route) tgl [15-06-2025](pickup_date) jam [5 pagi](pickup_time) buat [2 org](passengers) nama [Budi](name), [0812345678](phone), jemput [Hotel Tugu](address_pickup)
+    - Booking [JUANDA-MLG](route): [3 orang](passengers), [20 Juni](pickup_date), [04.30](pickup_time), nama [Sity](name), [08567890123](phone), [Jalan Sudirman 5](address_pickup)
+    - Pesan [Reguler](service_type) [Malang-Juanda](route)
+    - Pesan [Charter Drop](service_type) [Malang-Juanda](route)
+- intent: inform
+  examples: |
+    - [2025-06-15](pickup_date)
+    - besok
+    - lusa
+    - [3 penumpang](passengers)
+    - [dua orang](passengers)
+    - [satu penumpang](passengers)
+    - [empat orang](passengers)
+    - [lima penumpang](passengers)
+    - [enam orang](passengers)
+    - [tujuh penumpang](passengers)
+    - [Jl. Sudirman No. 123](address_pickup)
+    - [08:30](pickup_time)
+    - [08123456789](phone)
+    - [+628123456789](phone)
+    - [08567890123](phone)
+    - [08-5233-496932](phone)
+    - [0852-3349-6932](phone)
+    - [Garuda Indonesia](airline)
+    - [GA-123](flight)
+    - [Reguler](service_type)
+    - [Avanza](vehicle)
+    - Tanggal [5 juni](pickup_date)
+    - [Lion Air](airline)
+    - Jam [14:30](pickup_time)
+    - Nama [Budi Santoso](name)
+    - Jemput di [Hotel Tugu Malang](address_pickup)
+    - Antar ke [Terminal Bungurasih](address_dropoff)
+    - [Charter Harian](service_type)
+    - [Innova Zenix](vehicle)
+    - [tidak ada](address_dropoff)
+    - [ga ada](address_dropoff)
+    - [nggak ada](address_dropoff)
+    - [tanpa penerbangan](flight)
+    - [nggak pakai pesawat](airline)
+    - [07:00](pickup_time)
+    - [2025-06-20](pickup_date)
+    - [dua penumpang](passengers)
+    - [tiga orang](passengers)
+    - [Budi](name)
+    - [Jl. Candi 2](address_pickup)
+    - [Bandara Juanda](address_dropoff)
+    - [QZ 323](flight)
+    - [AirAsia](airline)
+    - [dekat stasiun](address_pickup)
+    - [di hotel](address_pickup)
+    - [4 alamat](addresses)
+    - [15 Juni 2025](pickup_date)
+    - [besok lusa](pickup_date)
+    - [3 org](passengers)
+    - [2 penumpang](passengers)
+    - [1 orang](passengers)
+    - [4 org](passengers)
+    - [5 penumpang](passengers)
+    - [6 orang](passengers)
+    - [7 org](passengers)
+    - [Jalan Sudirman 123](address_pickup)
+    - [08.30](pickup_time)
+    - [0812-345-6789](phone)
+    - [0856-789-0123](phone)
+    - [Garuda](airline)
+    - [GA123](flight)
+    - [Regular](service_type)
+    - [Avansa](vehicle)
+    - [5 Juni 2025](pickup_date)
+    - [LionAir](airline)
+    - [14.30](pickup_time)
+    - [Budy Santoso](name)
+    - [Hotel Tugu](address_pickup)
+    - [Terminal Bungur](address_dropoff)
+    - [Charter Drop](service_type)
+    - [Inova](vehicle)
+    - [gk ada](address_dropoff)
+    - [tdk ada](address_dropoff)
+    - [tanpa flight](flight)
+    - [ga pake pesawat](airline)
+    - [7 pagi](pickup_time)
+    - [20-06-2025](pickup_date)
+    - [dua org](passengers)
+    - [tiga penumpang](passengers)
+    - [Budy](name)
+    - [Jln Candi 2](address_pickup)
+    - [Juanda](address_dropoff)
+    - [QZ323](flight)
+    - [Air Asia](airline)
+    - [dkt stasiun](address_pickup)
+    - [hotel](address_pickup)
+    - [empat alamat](addresses)
+    - [1](passengers)
+    - [2](passengers)
+    - [3](passengers)
+    - [Billy Tian Sunarto](name)
+    - [Budi Santoso](name)
+    - [Siti Aminah](name)
+    - 1 orang
+    - 7 penumpang
+    - Billy Tian Sunarto
+    - KR-0A3CC9
+    - 085233496932
+    - Jl. Candi No.2
+    - Bandara Juanda
+    - 4 alamat
+    - QZ323
+    - AirAsia
+    - 07:30
+    - 2025-08-15
+- intent: recommend_service
+  examples: |
+    - Recommend a package for [Malang-Juanda](route)
+    - Suggest a service for [Juanda-Malang](route) during [Hari Raya](holiday)
+    - Sarankan layanan untuk [Malang-Surabaya](route)
+    - Rekomendasi travel [Malang-Juanda](route)
+    - Apa layanan terbaik buat [Surabaya-Malang](route)?
+    - Saran transportasi [Malang-Juanda](route) untuk [4 orang](passengers)
+    - Rekomendasi untuk [Juanda-Malang](route) di [Lebaran](holiday)
+- intent: get_price
+  examples: |
+    - What is the price for [Reguler](service_type) [Malang-Juanda](route) with [7 passengers](passengers)
+    - Price for [Charter Harian](service_type) [Malang-Surabaya](route) with [Hiace](vehicle) for [12 hours](hours)
+    - Harga [Charter Drop](service_type) [Avanza](vehicle) selama [Lebaran](holiday)
+    - Berapa harga [Reguler](service_type) [Malang-Juanda](route) buat [3 orang](passengers)?
+    - Harga [Charter Drop](service_type) [Malang-Juanda](route) [4 alamat](addresses)
+    - Berapa biaya [Reguler](service_type) untuk [lima penumpang](passengers) [Malang-Surabaya](route)?
+    - Harga travel [Juanda-Malang](route) untuk [empat orang](passengers)
+- intent: affirm
+  examples: |
+    - Ya
+    - Iya
+    - Betul
+    - Benar
+    - Oke
+    - Setuju
+    - Baik
+    - Konfirmasi
+    - Yoi
+    - Yup
+    - Bener
+    - Okelah
+    - Iya dong
+    - Lanjut
+    - Lanjutkan
+- intent: deny
+  examples: |
+    - Tidak
+    - Bukan
+    - Enggak
+    - Nggak
+    - Tidak setuju
+    - Beda
+    - Salah
+    - Nope
+    - Gak jadi
+    - Batal
+    - Ga tak
+    - Belum punya
+    - Nggak ada
+    - Ga ada
+    - Tidak ada
+    - Gak punya
+    - Belum
+    - Batalkan
+- intent: goodbye
+  examples: |
+    - Selamat tinggal
+    - Dadah
+    - Sampai jumpa
+    - Bye
+    - Makasih, sampai ketemu lagi
+    - Saya pergi dulu
+    - Terima kasih, bye
+    - Baik, sampai nanti
+    - Adios
+    - See you
+    - Dah
+    - Ciao
+- intent: check_reservation
+  examples: |
+    - Cek pesanan
+    - Cari pesanan
+    - Apakah kode booking [KIR0001](pnr) aktif?
+    - Cek status pesanan [KIR1234](pnr)
+    - Lihat detail booking [KR-ABC123](pnr)
+    - Pesanan saya dengan kode [KIR0001](pnr)
+    - Apakah booking [KR-XYZ789](pnr) masih valid?
+    - Cek pemesanan atas nama [Budi](name)
+    - Status booking saya
+    - Lihat pesanan dengan nomor [KIR5678](pnr)
+    - Cek kode [KR-123456](pnr)
+    - Cari reservasi [KR-DEF456](pnr)
+    - Cek [KR-0A3CC9](pnr)
+    - Cari pesanan [KR-123456](pnr)
+    - Status [KR-ABCDEF](pnr)
+    - cari pesanan KR-0A3CC9
+    - cek pesanan KIR0001
+- intent: thank_you
+  examples: |
+    - Terima kasih
+    - Makasih
+    - Thanks
+    - Thank you
+    - Terima kasih banyak
+    - Makasih ya
+    - Syukron
+    - Terimakasih atas bantuannya
+    - Makasih banyak
+    - Thank you so much
+    - Thx
+    - Makasih bro
+- intent: confirm_booking
+  examples: |
+    - konfirmasi
+    - ya
+    - setuju
+    - ok
+    - oke
+    - lanjut
+    - lanjutkan
+    - iya
+    - betul
+    - bener
+- intent: cancel_booking
+  examples: |
+    - batal
+    - cancel
+    - tidak
+    - no
+    - ga jadi
+    - nggak jadi
+    - batalkan
+    - gak mau
+    - stop
+    - nggak lanjut
+    - batalkan pesanan
+- intent: next_action
+  examples: |
+    - selesai
+    - buatkan reservasi lagi
+    - reservasi baru
+    - cari pesanan
+    - cek pesanan
+    - ulang
+    - pesan lagi
+    - booking baru
+    - pesen ulang
+- intent: restart
+  examples: |
+    - ulang dari awal
+    - reset
+    - mulai ulang
+    - ulang semua
+    - restart
+    - mulai dari awal
+    - ulangi dari pertama
+    - reset pesanan
+    - batalin dan mulai lagi
+    - ulang reservasi
+lookup_tables:
+  - name: route
+    elements:
+      - Malang-Juanda
+      - Juanda-Malang
+      - Malang-Surabaya
+      - Surabaya-Malang
+      - MLG-JUANDA
+      - JUANDA-MLG
+      - MLG-SBY
+      - SBY-MLG
+  - name: passengers
+    elements:
+      - satu penumpang
+      - dua orang
+      - tiga penumpang
+      - empat orang
+      - lima penumpang
+      - enam orang
+      - tujuh penumpang
+      - 1 orang
+      - 2 org
+      - 3 penumpang
+      - 4 orang
+      - 5 penumpang
+      - 6 orang
+      - 7 penumpang
+  - name: addresses
+    elements:
+      - 1 alamat
+      - 2 alamat
+      - 3 alamat
+      - 4 alamat
+

@@ -1,0 +1,1001 @@
+ID_Reservasi,Rute,Tanggal,Tipe_Reservasi,Nama,No_HP,Jumlah_Penumpang,Waktu_Penjemputan,Alamat_Jemput,Kendaraan,Harga,Airlines_Code,Airlines_Company,Departure_Airport,Arrival_Airport,Durasi,Alamat_Antar
+KR-0001,JUANDA-MALANG,24-11-2024,reguler,Maryanto Wibowo,08172883986,7,16:27,"Jl. Jalan Jakarta No. 76, JUANDA",V-51,1360000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0002,MALANG-JUANDA,10-10-2024,reguler,Dadap Manullang,08916637688,1,10:25,"Jl. Gg. Pasir Koja No. 49, MALANG",V-51,180000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0003,SURABAYA-MALANG,25-08-2024,charter_harian,Vega Mustofa,08666315787,7,22:26,"Jl. Jl. Kapten Muslihat No. 209, SURABAYA",H-2,1150000,,,,,10.0,"Jl. Gang Peta No. 94, MALANG"
+KR-0004,MALANG-SURABAYA,18-06-2024,charter_harian,R. Lidya Palastri,08054284143,9,09:31,"Jl. Jl. KH Amin Jasuta No. 152, MALANG",H-2,1800000,,,,,10.0,"Jl. Gg. Dipatiukur No. 107, SURABAYA"
+KR-0005,MALANG-JUANDA,27-01-2024,reguler,"Lintang Tampubolon, M.Farm",08305337237,7,12:32,"Jl. Gg. Jakarta No. 147, MALANG",H-2,1360000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0006,SURABAYA-MALANG,05-01-2024,charter_harian,Hana Melani,08297003152,3,08:06,"Jl. Gg. KH Amin Jasuta No. 177, SURABAYA",H-2,1000000,,,,,2.0,"Jl. Gg. R.E Martadinata No. 27, MALANG"
+KR-0007,JUANDA-MALANG,23-04-2025,reguler,drg. Fitriani Marbun,08310296181,8,02:20,"Jl. Jalan Dipatiukur No. 182, JUANDA",H-2,1565000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0008,SURABAYA-MALANG,15-09-2025,charter_harian,Kamila Wahyuni,08585110328,6,20:19,"Jl. Gg. Jamika No. 107, SURABAYA",X-2,1300000,,,,,8.0,"Jl. Gang Cihampelas No. 290, MALANG"
+KR-0009,MALANG-JUANDA,08-07-2025,charter_drop,"Garang Nasyiah, S.Gz",08193845342,5,21:01,"Jl. Gg. Joyoboyo No. 245, MALANG",V-50,570000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0010,JUANDA-MALANG,12-07-2025,charter_drop,"Ir. Gasti Suryatmi, M.M.",08398126704,3,16:20,"Jl. Jl. Cikapayang No. 73, JUANDA",H-2,420000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0011,MALANG-JUANDA,03-11-2025,reguler,"Upik Oktaviani, S.Ked",08122003431,10,12:38,"Jl. Gang Laswi No. 252, MALANG",H-2,1975000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0012,MALANG-SURABAYA,21-06-2025,charter_harian,Pia Winarsih,08606383184,10,07:23,"Jl. Jl. Joyoboyo No. 61, MALANG",H-2,1800000,,,,,8.0,"Jl. Jl. Jend. Sudirman No. 131, SURABAYA"
+KR-0013,MALANG-JUANDA,02-10-2024,reguler,"Ir. Kamal Halimah, S.Kom",08870483890,3,22:36,"Jl. Gang Ciumbuleuit No. 96, MALANG",S-2,690000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0014,MALANG-SURABAYA,19-12-2024,charter_harian,Darmanto Putra,08475494380,8,13:25,"Jl. Jalan Moch. Toha No. 39, MALANG",V-52,1800000,,,,,9.0,"Jl. Gang Ahmad Dahlan No. 115, SURABAYA"
+KR-0015,MALANG-SURABAYA,02-11-2024,charter_harian,Makara Halimah,08277109219,7,06:07,"Jl. Jalan Pasirkoja No. 154, MALANG",H-2,650000,,,,,7.0,"Jl. Jl. Merdeka No. 242, SURABAYA"
+KR-0016,MALANG-SURABAYA,12-03-2024,charter_harian,Usman Wibisono,08862875181,1,18:58,"Jl. Gang Soekarno Hatta No. 153, MALANG",V-50,1550000,,,,,4.0,"Jl. Gang Pacuan Kuda No. 279, SURABAYA"
+KR-0017,MALANG-JUANDA,21-08-2025,reguler,KH. Lasmono Situmorang,08292356869,7,10:16,"Jl. Gg. Rumah Sakit No. 150, MALANG",H-2,1360000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0018,JUANDA-MALANG,21-08-2025,charter_drop,Vivi Irawan,08402928636,2,14:43,"Jl. Jalan Sukabumi No. 127, JUANDA",H-2,395000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0019,SURABAYA-MALANG,12-01-2025,charter_harian,Bahuraksa Maryati,08267360478,9,12:29,"Jl. Jalan Stasiun Wonokromo No. 27, SURABAYA",Z-1,1800000,,,,,7.0,"Jl. Jl. Medokan Ayu No. 237, MALANG"
+KR-0020,SURABAYA-MALANG,27-04-2024,charter_harian,Mariadi Wibowo,08895831314,4,21:08,"Jl. Gg. Siliwangi No. 58, SURABAYA",Z-1,1300000,,,,,10.0,"Jl. Gg. Ciumbuleuit No. 57, MALANG"
+KR-0021,MALANG-SURABAYA,02-04-2025,charter_harian,Diana Salahudin,08028052865,5,10:33,"Jl. Jalan Veteran No. 112, MALANG",Z-1,1500000,,,,,9.0,"Jl. Jl. Ciumbuleuit No. 162, SURABAYA"
+KR-0022,MALANG-JUANDA,19-11-2024,charter_drop,"T. Kuncara Prayoga, S.IP",08970776807,5,21:24,"Jl. Gang Asia Afrika No. 157, MALANG",H-2,570000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0023,MALANG-SURABAYA,16-02-2025,charter_harian,"Farhunnisa Mangunsong, M.Ak",08031688447,8,20:09,"Jl. Gg. Soekarno Hatta No. 222, MALANG",Z-1,1900000,,,,,7.0,"Jl. Jalan Ahmad Yani No. 259, SURABAYA"
+KR-0024,MALANG-SURABAYA,28-09-2025,charter_harian,Baktianto Puspita,08830677761,1,07:30,"Jl. Jalan Cikutra Timur No. 295, MALANG",V-50,1200000,,,,,2.0,"Jl. Gang Cikutra Timur No. 265, SURABAYA"
+KR-0025,MALANG-SURABAYA,18-04-2025,charter_harian,Suci Habibi,08170292610,9,05:33,"Jl. Gang Kutai No. 257, MALANG",V-52,1000000,,,,,7.0,"Jl. Gg. Yos Sudarso No. 216, SURABAYA"
+KR-0026,MALANG-JUANDA,12-06-2025,charter_drop,"Dt. Aswani Handayani, S.IP",08361114776,9,10:53,"Jl. Jalan KH Amin Jasuta No. 62, MALANG",H-2,570000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0027,SURABAYA-MALANG,24-04-2025,charter_harian,Koko Hutasoit,08226585583,7,14:58,"Jl. Gg. Jend. Sudirman No. 283, SURABAYA",V-51,1200000,,,,,2.0,"Jl. Gg. Rajiman No. 97, MALANG"
+KR-0028,JUANDA-MALANG,26-08-2025,reguler,"Asirwada Narpati, S.Gz",08481297610,9,22:55,"Jl. Jalan Sukajadi No. 52, JUANDA",H-2,1920000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0029,JUANDA-MALANG,05-01-2024,reguler,"Chelsea Yolanda, S.Gz",08273035592,3,10:37,"Jl. Jalan KH Amin Jasuta No. 250, JUANDA",Z-1,540000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0030,JUANDA-MALANG,11-04-2024,charter_drop,Violet Palastri,08572716088,7,22:34,"Jl. Gang H.J Maemunah No. 10, JUANDA",R-1,670000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0031,MALANG-SURABAYA,01-12-2024,charter_harian,Mahfud Mustofa,08186464860,4,17:57,"Jl. Jalan Kutai No. 3, MALANG",H-2,1200000,,,,,2.0,"Jl. Jalan Moch. Toha No. 235, SURABAYA"
+KR-0032,MALANG-SURABAYA,29-04-2024,charter_harian,"dr. Hendra Permata, S.I.Kom",08301484241,9,22:41,"Jl. Jalan Rungkut Industri No. 30, MALANG",H-2,1350000,,,,,3.0,"Jl. Gg. Yos Sudarso No. 203, SURABAYA"
+KR-0033,MALANG-JUANDA,01-06-2024,reguler,Dt. Gaman Maryati,08951494136,2,04:54,"Jl. Gg. Kapten Muslihat No. 155, MALANG",Z-1,360000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0034,JUANDA-MALANG,23-04-2025,charter_drop,Umay Iswahyudi,08974892821,7,00:23,"Jl. Gg. Dipatiukur No. 57, JUANDA",Z-1,520000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0035,SURABAYA-MALANG,01-12-2024,charter_harian,R.A. Oni Hidayanto,08386475327,10,17:40,"Jl. Jl. Pasirkoja No. 74, SURABAYA",S-2,1200000,,,,,2.0,"Jl. Jl. Rajawali Timur No. 80, MALANG"
+KR-0036,MALANG-JUANDA,26-12-2025,charter_drop,"Sutan Rahman Ramadan, M.Ak",08005937406,10,03:46,"Jl. Jalan Cihampelas No. 270, MALANG",H-2,595000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0037,MALANG-SURABAYA,22-08-2024,charter_harian,"T. Luis Dongoran, S.Pt",08943118717,3,19:31,"Jl. Gg. Ciumbuleuit No. 27, MALANG",X-2,1250000,,,,,6.0,"Jl. Gang Jayawijaya No. 109, SURABAYA"
+KR-0038,SURABAYA-MALANG,26-04-2025,charter_harian,"Aswani Nainggolan, S.H.",08467824904,6,23:50,"Jl. Gang M.T Haryono No. 37, SURABAYA",V-51,1950000,,,,,7.0,"Jl. Jalan Stasiun Wonokromo No. 175, MALANG"
+KR-0039,SURABAYA-MALANG,20-11-2024,charter_harian,Kajen Ardianto,08093631539,10,10:27,"Jl. Jl. Kutai No. 105, SURABAYA",H-2,1200000,,,,,5.0,"Jl. Jalan Sadang Serang No. 102, MALANG"
+KR-0040,SURABAYA-MALANG,17-11-2024,charter_harian,"R. Ibrahim Susanti, S.IP",08127559432,10,17:33,"Jl. Jalan Jamika No. 16, SURABAYA",Z-1,1800000,,,,,6.0,"Jl. Jalan M.H Thamrin No. 75, MALANG"
+KR-0041,MALANG-SURABAYA,25-06-2025,charter_harian,Genta Thamrin,08227467915,7,13:39,"Jl. Jl. KH Amin Jasuta No. 21, MALANG",H-2,1000000,,,,,2.0,"Jl. Gg. BKR No. 231, SURABAYA"
+KR-0042,MALANG-JUANDA,08-01-2024,charter_drop,"Cut Maida Hartati, M.Ak",08166737275,2,01:26,"Jl. Gg. W.R. Supratman No. 287, MALANG",Z-1,395000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0043,MALANG-JUANDA,03-06-2025,charter_drop,Wira Hakim,08393646288,2,00:56,"Jl. Jl. Raya Setiabudhi No. 230, MALANG",Z-1,395000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0044,MALANG-JUANDA,30-09-2024,charter_drop,Kacung Yulianti,08019800560,5,14:54,"Jl. Jl. Kebonjati No. 73, MALANG",S-2,470000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0045,MALANG-JUANDA,30-07-2024,reguler,Bancar Wulandari,08226919115,10,16:30,"Jl. Jl. Ahmad Yani No. 168, MALANG",V-52,1975000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0046,MALANG-JUANDA,19-02-2025,charter_drop,Prabu Yulianti,08859745925,6,11:22,"Jl. Jalan Erlangga No. 63, MALANG",Z-1,495000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0047,JUANDA-MALANG,16-02-2024,reguler,"Diana Suartini, S.Pd",08828199424,3,11:10,"Jl. Gang Gedebage Selatan No. 279, JUANDA",H-2,540000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0048,JUANDA-MALANG,24-02-2024,charter_drop,Caraka Saptono,08478238610,1,11:26,"Jl. Jl. Cikutra Barat No. 265, JUANDA",H-2,395000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0049,MALANG-SURABAYA,28-09-2025,charter_harian,Cakrawala Wacana,08262930643,9,17:38,"Jl. Jalan W.R. Supratman No. 165, MALANG",H-2,1800000,,,,,2.0,"Jl. Gg. H.J Maemunah No. 7, SURABAYA"
+KR-0050,JUANDA-MALANG,10-05-2025,reguler,"Drs. Sadina Narpati, M.TI.",08954072680,10,23:19,"Jl. Jl. Kutisari Selatan No. 263, JUANDA",Z-1,2125000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0051,JUANDA-MALANG,23-09-2025,reguler,Genta Mulyani,08711128338,10,09:24,"Jl. Gang Antapani Lama No. 289, JUANDA",H-2,1975000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0052,JUANDA-MALANG,02-04-2025,charter_drop,"Sutan Harjo Astuti, M.Pd",08111796355,2,18:49,"Jl. Jl. Jamika No. 55, JUANDA",Z-1,950000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0053,MALANG-JUANDA,08-01-2024,charter_drop,Rahayu Iswahyudi,08059823942,6,00:01,"Jl. Jl. Bangka Raya No. 116, MALANG",R-1,495000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0054,MALANG-JUANDA,08-04-2025,charter_drop,"Saadat Sirait, S.Kom",08604786710,10,14:59,"Jl. Gang Suryakencana No. 65, MALANG",Z-1,595000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0055,SURABAYA-MALANG,03-01-2024,charter_harian,"Rahmi Maryadi, M.Farm",08353012427,8,12:39,"Jl. Jl. Jend. A. Yani No. 78, SURABAYA",V-52,1200000,,,,,7.0,"Jl. Gg. R.E Martadinata No. 8, MALANG"
+KR-0056,MALANG-SURABAYA,04-04-2025,charter_harian,"Sadina Salahudin, M.Kom.",08492210256,5,02:23,"Jl. Jalan Sadang Serang No. 167, MALANG",H-2,650000,,,,,4.0,"Jl. Jalan M.T Haryono No. 29, SURABAYA"
+KR-0057,JUANDA-MALANG,15-01-2025,reguler,Surya Marpaung,08434145124,2,22:31,"Jl. Jalan R.E Martadinata No. 50, JUANDA",Z-1,510000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0058,JUANDA-MALANG,25-01-2024,reguler,Lurhur Tarihoran,08989017435,7,00:20,"Jl. Gg. Cikapayang No. 92, JUANDA",H-2,1360000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0059,JUANDA-MALANG,12-09-2025,reguler,Irma Rajata,08679964539,5,05:40,"Jl. Jl. Dipatiukur No. 219, JUANDA",S-2,950000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0060,MALANG-SURABAYA,03-06-2025,charter_harian,Elisa Fujiati,08332265065,4,22:15,"Jl. Gg. Rungkut Industri No. 189, MALANG",H-2,1950000,,,,,1.0,"Jl. Jalan H.J Maemunah No. 272, SURABAYA"
+KR-0061,SURABAYA-MALANG,21-04-2025,charter_harian,Juli Simanjuntak,08229140400,8,22:19,"Jl. Gang Ahmad Dahlan No. 28, SURABAYA",V-50,1350000,,,,,2.0,"Jl. Gang Yos Sudarso No. 78, MALANG"
+KR-0062,MALANG-JUANDA,12-11-2024,charter_drop,Jane Budiman,08814365192,8,11:58,"Jl. Gang Monginsidi No. 56, MALANG",Z-1,545000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0063,MALANG-JUANDA,18-10-2025,charter_drop,"Hj. Cindy Wasita, S.IP",08353189101,2,20:16,"Jl. Jl. Pelajar Pejuang No. 222, MALANG",Z-1,495000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0064,JUANDA-MALANG,11-08-2025,reguler,Paulin Pranowo,08125255276,9,02:49,"Jl. Gang Rajiman No. 123, JUANDA",H-2,1770000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0065,JUANDA-MALANG,14-05-2025,charter_drop,Raditya Samosir,08604824346,5,20:47,"Jl. Gg. Lembong No. 241, JUANDA",Z-1,570000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0066,JUANDA-MALANG,31-10-2024,charter_drop,Dt. Anom Suwarno,08784799712,2,14:03,"Jl. Gg. Ahmad Yani No. 120, JUANDA",Z-1,395000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0067,JUANDA-MALANG,16-04-2025,charter_drop,Dipa Maryati,08701973791,1,07:25,"Jl. Jalan Cihampelas No. 238, JUANDA",V-52,395000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0068,MALANG-JUANDA,09-06-2025,charter_drop,Dt. Latif Nasyiah,08043323751,7,06:45,"Jl. Gang Erlangga No. 30, MALANG",Z-1,520000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0069,SURABAYA-MALANG,17-09-2025,charter_harian,Padmi Permata,08040605923,3,10:50,"Jl. Gang Pacuan Kuda No. 23, SURABAYA",S-2,1000000,,,,,5.0,"Jl. Jalan Rawamangun No. 174, MALANG"
+KR-0070,MALANG-SURABAYA,15-02-2025,charter_harian,Alambana Thamrin,08135110985,3,05:09,"Jl. Gg. Pelajar Pejuang No. 42, MALANG",Z-1,1200000,,,,,1.0,"Jl. Gg. Ciwastra No. 18, SURABAYA"
+KR-0071,JUANDA-MALANG,20-02-2024,charter_drop,Emin Pranowo,08862459173,2,08:03,"Jl. Jl. K.H. Wahid Hasyim No. 78, JUANDA",V-50,395000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0072,JUANDA-MALANG,03-04-2024,reguler,"Farah Agustina, S.Kom",08024331724,10,02:30,"Jl. Jalan Jakarta No. 207, JUANDA",V-52,1975000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0073,JUANDA-MALANG,07-12-2024,charter_drop,Cecep Tampubolon,08593474561,3,06:11,"Jl. Jalan Lembong No. 161, JUANDA",Z-1,420000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0074,SURABAYA-MALANG,13-02-2024,charter_harian,Adikara Oktaviani,08394258535,6,17:35,"Jl. Jl. Yos Sudarso No. 266, SURABAYA",Z-1,1800000,,,,,4.0,"Jl. Gg. Otto Iskandardinata No. 143, MALANG"
+KR-0075,JUANDA-MALANG,06-11-2024,charter_drop,"Adhiarja Hutapea, M.Kom.",08621828569,7,14:32,"Jl. Gg. Dr. Djunjunan No. 200, JUANDA",Z-1,520000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0076,SURABAYA-MALANG,18-05-2024,charter_harian,Pia Dabukke,08333788587,9,14:40,"Jl. Jalan Yos Sudarso No. 47, SURABAYA",Z-1,1000000,,,,,8.0,"Jl. Gg. Rajawali Timur No. 225, MALANG"
+KR-0077,JUANDA-MALANG,06-12-2025,charter_drop,"Hj. Dina Wijaya, S.H.",08183105838,9,07:09,"Jl. Gang H.J Maemunah No. 188, JUANDA",V-51,570000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0078,MALANG-SURABAYA,04-04-2024,charter_harian,"Ir. Indah Yuliarti, M.Ak",08771349904,10,18:45,"Jl. Gg. Astana Anyar No. 85, MALANG",Z-1,1250000,,,,,6.0,"Jl. Jalan Kebonjati No. 250, SURABAYA"
+KR-0079,MALANG-SURABAYA,27-02-2025,charter_harian,Ratih Nainggolan,08132924579,4,04:36,"Jl. Jalan Stasiun Wonokromo No. 64, MALANG",H-2,1800000,,,,,6.0,"Jl. Jalan Merdeka No. 167, SURABAYA"
+KR-0080,MALANG-JUANDA,07-01-2025,charter_drop,Ratna Puspasari,08128812791,3,05:24,"Jl. Jalan Rawamangun No. 260, MALANG",H-2,420000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0081,MALANG-JUANDA,13-08-2024,charter_drop,Gambira Winarno,08074827587,2,07:07,"Jl. Jl. Veteran No. 229, MALANG",H-2,395000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0082,MALANG-SURABAYA,27-07-2024,charter_harian,Lidya Napitupulu,08114995425,4,21:09,"Jl. Jl. Gardujati No. 4, MALANG",Z-1,1300000,,,,,8.0,"Jl. Gg. Jend. Sudirman No. 152, SURABAYA"
+KR-0083,MALANG-SURABAYA,07-11-2024,charter_harian,Hendri Nuraini,08339214298,10,05:35,"Jl. Gg. Kendalsari No. 202, MALANG",Z-1,1500000,,,,,3.0,"Jl. Jl. Soekarno Hatta No. 24, SURABAYA"
+KR-0084,MALANG-JUANDA,30-06-2025,charter_drop,"Darimin Widodo, M.Ak",08405816152,6,19:08,"Jl. Gg. Asia Afrika No. 66, MALANG",Z-1,545000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0085,JUANDA-MALANG,16-11-2024,reguler,"Ganda Puspita, M.Kom.",08838700440,8,02:45,"Jl. Gg. Jakarta No. 69, JUANDA",Z-1,1565000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0086,JUANDA-MALANG,16-06-2025,charter_drop,Hairyanto Ramadan,08643294386,5,10:44,"Jl. Jalan Raya Ujungberung No. 296, JUANDA",H-2,470000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0087,MALANG-JUANDA,11-01-2024,reguler,"Diah Halim, S.Pd",08470865095,4,21:24,"Jl. Jl. Siliwangi No. 3, MALANG",H-2,845000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0088,MALANG-SURABAYA,23-12-2024,charter_harian,Kayla Sitorus,08203252779,7,07:52,"Jl. Gang Wonoayu No. 37, MALANG",V-52,1500000,,,,,8.0,"Jl. Jl. BKR No. 37, SURABAYA"
+KR-0089,JUANDA-MALANG,06-09-2024,charter_drop,"Ir. Salsabila Padmasari, S.Gz",08838390087,10,10:28,"Jl. Gg. Jamika No. 112, JUANDA",R-1,595000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0090,SURABAYA-MALANG,07-02-2024,charter_harian,Utama Narpati,08391026454,9,19:02,"Jl. Gg. Wonoayu No. 39, SURABAYA",Z-1,1250000,,,,,6.0,"Jl. Jalan Pasir Koja No. 239, MALANG"
+KR-0091,JUANDA-MALANG,11-09-2024,charter_drop,"Dr. Eko Nainggolan, S.E.",08141182540,8,10:55,"Jl. Jalan Siliwangi No. 19, JUANDA",H-2,545000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0092,JUANDA-MALANG,24-08-2024,reguler,"R.M. Slamet Sinaga, M.Kom.",08633042078,8,07:55,"Jl. Jl. Soekarno Hatta No. 185, JUANDA",Z-1,1565000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0093,SURABAYA-MALANG,02-12-2024,charter_harian,"Safina Mahendra, S.H.",08423104254,3,14:44,"Jl. Gg. R.E Martadinata No. 119, SURABAYA",Z-1,1200000,,,,,3.0,"Jl. Gg. Sukajadi No. 155, MALANG"
+KR-0094,SURABAYA-MALANG,20-06-2024,charter_harian,Zulfa Simanjuntak,08888155518,3,10:39,"Jl. Gg. R.E Martadinata No. 109, SURABAYA",H-2,1000000,,,,,9.0,"Jl. Gg. Soekarno Hatta No. 99, MALANG"
+KR-0095,SURABAYA-MALANG,20-01-2025,charter_harian,Widya Susanti,08474641001,6,19:08,"Jl. Gg. Abdul Muis No. 102, SURABAYA",H-2,1250000,,,,,8.0,"Jl. Jalan Kendalsari No. 51, MALANG"
+KR-0096,MALANG-JUANDA,03-01-2024,charter_drop,Kardi Siregar,08850766754,1,23:25,"Jl. Gg. Jamika No. 196, MALANG",Z-1,545000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0097,SURABAYA-MALANG,09-01-2025,charter_harian,Hesti Waskita,08997089918,8,12:43,"Jl. Gg. Ahmad Dahlan No. 146, SURABAYA",Z-1,1000000,,,,,8.0,"Jl. Gang Gedebage Selatan No. 157, MALANG"
+KR-0098,MALANG-JUANDA,24-07-2025,reguler,"Farhunnisa Rahayu, M.Pd",08268729311,3,10:54,"Jl. Jl. Kutai No. 89, MALANG",Z-1,540000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0099,JUANDA-MALANG,18-04-2024,charter_drop,"Umaya Maheswara, S.Gz",08678711340,10,17:24,"Jl. Jl. Cihampelas No. 237, JUANDA",X-2,595000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0100,JUANDA-MALANG,02-01-2024,charter_drop,Tari Narpati,08371592841,6,20:37,"Jl. Jl. Dipenogoro No. 246, JUANDA",H-2,595000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0101,SURABAYA-MALANG,04-10-2024,charter_harian,Patricia Pertiwi,08873517390,4,05:22,"Jl. Jalan Waringin No. 193, SURABAYA",R-1,1200000,,,,,7.0,"Jl. Gang Waringin No. 180, MALANG"
+KR-0102,MALANG-SURABAYA,12-11-2025,charter_harian,"R.A. Ana Kuswoyo, S.E.",08072826389,4,12:57,"Jl. Gg. K.H. Wahid Hasyim No. 248, MALANG",V-50,1200000,,,,,3.0,"Jl. Gang K.H. Wahid Hasyim No. 182, SURABAYA"
+KR-0103,MALANG-JUANDA,03-06-2024,reguler,"drg. Calista Melani, M.Kom.",08296865937,9,08:15,"Jl. Jalan Ronggowarsito No. 9, MALANG",H-2,1770000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0104,MALANG-SURABAYA,14-12-2025,charter_harian,Zulaikha Siregar,08355518873,2,07:58,"Jl. Gang Peta No. 236, MALANG",V-51,1200000,,,,,1.0,"Jl. Gg. Kutai No. 58, SURABAYA"
+KR-0105,MALANG-JUANDA,01-05-2024,reguler,"Okta Ramadan, S.H.",08040533370,10,03:01,"Jl. Jl. Kutai No. 216, MALANG",X-2,1975000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0106,JUANDA-MALANG,27-07-2025,charter_drop,Vega Situmorang,08931332517,7,11:24,"Jl. Jl. Wonoayu No. 185, JUANDA",S-2,520000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0107,MALANG-SURABAYA,30-03-2025,charter_harian,"Harsana Irawan, S.Sos",08807129881,3,21:26,"Jl. Jl. Pacuan Kuda No. 50, MALANG",V-52,750000,,,,,9.0,"Jl. Gang Kapten Muslihat No. 165, SURABAYA"
+KR-0108,SURABAYA-MALANG,15-08-2024,charter_harian,Dalima Prayoga,08941438692,5,20:39,"Jl. Gg. S. Parman No. 18, SURABAYA",H-2,750000,,,,,6.0,"Jl. Jl. R.E Martadinata No. 195, MALANG"
+KR-0109,MALANG-SURABAYA,13-06-2025,charter_harian,"Sutan Kardi Sudiati, S.Farm",08896294920,3,14:15,"Jl. Gg. Suniaraja No. 281, MALANG",H-2,1000000,,,,,9.0,"Jl. Gang Waringin No. 185, SURABAYA"
+KR-0110,SURABAYA-MALANG,30-07-2024,charter_harian,Maras Winarsih,08126356808,9,17:04,"Jl. Gg. Sukabumi No. 115, SURABAYA",H-2,1200000,,,,,9.0,"Jl. Jl. Antapani Lama No. 245, MALANG"
+KR-0111,JUANDA-MALANG,16-08-2025,charter_drop,Dr. Fitria Riyanti,08885099065,8,12:31,"Jl. Gg. Pelajar Pejuang No. 107, JUANDA",V-50,545000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0112,MALANG-JUANDA,06-12-2025,reguler,Harja Halim,08667585828,2,08:13,"Jl. Gg. BKR No. 255, MALANG",H-2,360000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0113,MALANG-JUANDA,23-03-2024,reguler,Tgk. Prasetyo Dabukke,08594706875,3,11:44,"Jl. Gang Medokan Ayu No. 218, MALANG",S-2,540000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0114,MALANG-SURABAYA,11-09-2025,charter_harian,Cakrajiya Wulandari,08411196637,6,17:02,"Jl. Gang Tebet Barat Dalam No. 29, MALANG",Z-1,1500000,,,,,8.0,"Jl. Jl. Setiabudhi No. 26, SURABAYA"
+KR-0115,SURABAYA-MALANG,14-02-2024,charter_harian,Salsabila Prasasta,08773762742,10,15:40,"Jl. Jl. Laswi No. 159, SURABAYA",Z-1,1200000,,,,,4.0,"Jl. Jalan Ahmad Yani No. 109, MALANG"
+KR-0116,JUANDA-MALANG,20-03-2025,charter_drop,R. Rini Setiawan,08054504353,8,05:41,"Jl. Jl. Rungkut Industri No. 72, JUANDA",X-2,545000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0117,SURABAYA-MALANG,17-08-2025,charter_harian,drg. Calista Sihombing,08429964878,8,08:48,"Jl. Jalan Rawamangun No. 94, SURABAYA",H-2,1000000,,,,,6.0,"Jl. Gg. Kutisari Selatan No. 143, MALANG"
+KR-0118,JUANDA-MALANG,16-02-2024,charter_drop,Mutia Palastri,08605716127,1,03:18,"Jl. Gg. Rajiman No. 102, JUANDA",H-2,395000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0119,SURABAYA-MALANG,11-04-2025,charter_harian,KH. Akarsana Nugroho,08309560021,9,07:11,"Jl. Gang Rajiman No. 212, SURABAYA",H-2,1200000,,,,,5.0,"Jl. Gg. Raya Ujungberung No. 133, MALANG"
+KR-0120,MALANG-JUANDA,01-12-2024,charter_drop,Marsito Safitri,08575045157,4,16:25,"Jl. Jl. Kapten Muslihat No. 51, MALANG",H-2,445000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0121,JUANDA-MALANG,24-08-2025,charter_drop,KH. Kasusra Nuraini,08455147308,4,23:16,"Jl. Gg. Wonoayu No. 97, JUANDA",H-2,595000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0122,SURABAYA-MALANG,27-01-2024,charter_harian,Ida Zulkarnain,08495106216,5,22:53,"Jl. Jalan Kutai No. 174, SURABAYA",Z-1,1350000,,,,,5.0,"Jl. Jl. Medokan Ayu No. 171, MALANG"
+KR-0123,MALANG-SURABAYA,15-12-2024,charter_harian,R.A. Sari Budiyanto,08307441753,6,11:12,"Jl. Gang Suryakencana No. 78, MALANG",H-2,1200000,,,,,1.0,"Jl. Jl. Suniaraja No. 33, SURABAYA"
+KR-0124,JUANDA-MALANG,21-11-2025,reguler,Emil Manullang,08212176473,8,23:23,"Jl. Gg. Otto Iskandardinata No. 25, JUANDA",H-2,1715000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0125,MALANG-JUANDA,24-10-2025,charter_drop,"Satya Napitupulu, S.I.Kom",08232843941,2,16:44,"Jl. Jl. Kendalsari No. 83, MALANG",H-2,395000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0126,MALANG-SURABAYA,24-10-2025,charter_harian,"Lulut Puspita, S.Psi",08043785228,5,23:27,"Jl. Gang Jamika No. 209, MALANG",H-2,1650000,,,,,7.0,"Jl. Jl. Merdeka No. 10, SURABAYA"
+KR-0127,MALANG-SURABAYA,07-05-2025,charter_harian,Daliman Widodo,08444315567,10,07:11,"Jl. Gang Moch. Toha No. 66, MALANG",V-51,1000000,,,,,8.0,"Jl. Gang Pasir Koja No. 161, SURABAYA"
+KR-0128,JUANDA-MALANG,15-08-2024,reguler,Nilam Hutasoit,08854320076,9,12:23,"Jl. Gang Jakarta No. 266, JUANDA",H-2,1770000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0129,JUANDA-MALANG,02-04-2024,charter_drop,"Bahuraksa Usamah, S.Pd",08489169643,7,12:02,"Jl. Gang Rajawali Barat No. 198, JUANDA",H-2,520000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0130,MALANG-SURABAYA,09-05-2024,charter_harian,Zaenab Fujiati,08961202515,6,06:27,"Jl. Jl. Surapati No. 216, MALANG",S-2,1500000,,,,,9.0,"Jl. Jalan Stasiun Wonokromo No. 27, SURABAYA"
+KR-0131,MALANG-SURABAYA,17-11-2025,charter_harian,"Drs. Dadi Kurniawan, S.IP",08135475158,4,01:01,"Jl. Gg. Sukabumi No. 80, MALANG",S-2,1800000,,,,,4.0,"Jl. Gg. Bangka Raya No. 110, SURABAYA"
+KR-0132,MALANG-SURABAYA,14-01-2024,charter_harian,Syahrini Suwarno,08455091747,2,15:28,"Jl. Jl. Ciumbuleuit No. 14, MALANG",H-2,1200000,,,,,7.0,"Jl. Jalan Kiaracondong No. 225, SURABAYA"
+KR-0133,JUANDA-MALANG,13-10-2025,reguler,Hj. Ifa Yolanda,08919031335,6,19:12,"Jl. Gang Bangka Raya No. 149, JUANDA",Z-1,1205000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0134,MALANG-SURABAYA,04-01-2025,charter_harian,Embuh Suryono,08085778712,9,02:55,"Jl. Gg. Gegerkalong Hilir No. 163, MALANG",V-52,1800000,,,,,4.0,"Jl. Gang M.H Thamrin No. 79, SURABAYA"
+KR-0135,MALANG-JUANDA,20-02-2025,reguler,Jasmin Mansur,08151022905,7,18:14,"Jl. Jalan Dipenogoro No. 64, MALANG",Z-1,1410000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0136,MALANG-SURABAYA,17-05-2025,charter_harian,Eja Susanti,08933243927,7,00:18,"Jl. Gang Cikutra Barat No. 217, MALANG",Z-1,1500000,,,,,6.0,"Jl. Gang Antapani Lama No. 276, SURABAYA"
+KR-0137,JUANDA-MALANG,13-04-2024,reguler,Puji Agustina,08984994858,10,20:47,"Jl. Gang R.E Martadinata No. 64, JUANDA",R-1,2075000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0138,SURABAYA-MALANG,15-02-2024,charter_harian,"Kiandra Uyainah, S.E.I",08702683993,6,05:29,"Jl. Gang Antapani Lama No. 219, SURABAYA",H-2,1000000,,,,,5.0,"Jl. Jl. Soekarno Hatta No. 123, MALANG"
+KR-0139,SURABAYA-MALANG,22-10-2024,charter_harian,Aswani Hutagalung,08422696978,6,21:04,"Jl. Gang Kutisari Selatan No. 37, SURABAYA",Z-1,1100000,,,,,7.0,"Jl. Jalan Tubagus Ismail No. 203, MALANG"
+KR-0140,MALANG-SURABAYA,05-05-2024,charter_harian,R.M. Satya Saefullah,08244446021,6,00:02,"Jl. Gang Rajawali Barat No. 133, MALANG",Z-1,1200000,,,,,3.0,"Jl. Jl. Stasiun Wonokromo No. 244, SURABAYA"
+KR-0141,JUANDA-MALANG,21-07-2024,charter_drop,Juli Susanti,08110603148,10,23:51,"Jl. Jl. Ciwastra No. 182, JUANDA",X-2,745000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0142,SURABAYA-MALANG,02-04-2024,charter_harian,Kania Pranowo,08688368400,5,19:26,"Jl. Jalan Ciwastra No. 216, SURABAYA",H-2,1550000,,,,,5.0,"Jl. Gang Ronggowarsito No. 119, MALANG"
+KR-0143,JUANDA-MALANG,16-11-2025,reguler,drg. Nabila Hutapea,08094717001,2,13:12,"Jl. Gg. Kiaracondong No. 156, JUANDA",Z-1,360000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0144,JUANDA-MALANG,28-03-2024,reguler,Raden Mayasari,08880709149,5,12:12,"Jl. Jalan Tubagus Ismail No. 222, JUANDA",Z-1,950000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0145,MALANG-SURABAYA,23-12-2024,charter_harian,H. Gatot Mulyani,08461570180,6,02:26,"Jl. Gang Kapten Muslihat No. 173, MALANG",X-2,1200000,,,,,8.0,"Jl. Gg. Sentot Alibasa No. 242, SURABAYA"
+KR-0146,JUANDA-MALANG,06-08-2025,charter_drop,Cut Nabila Kusmawati,08254035165,3,10:00,"Jl. Gg. Medokan Ayu No. 53, JUANDA",Z-1,420000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0147,MALANG-JUANDA,05-04-2025,reguler,"Vanya Winarno, M.Kom.",08482306618,5,22:12,"Jl. Jalan Wonoayu No. 238, MALANG",H-2,1150000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0148,SURABAYA-MALANG,14-12-2024,charter_harian,"Puti Tarihoran, M.Ak",08013545507,1,07:34,"Jl. Jl. Kebonjati No. 3, SURABAYA",H-2,1000000,,,,,6.0,"Jl. Gang Rajiman No. 23, MALANG"
+KR-0149,SURABAYA-MALANG,18-08-2024,charter_harian,Jaiman Mansur,08855222280,1,10:57,"Jl. Jl. Jend. A. Yani No. 84, SURABAYA",S-2,1000000,,,,,10.0,"Jl. Jalan HOS. Cokroaminoto No. 135, MALANG"
+KR-0150,JUANDA-MALANG,28-02-2025,charter_drop,Dt. Akarsana Situmorang,08588962765,1,01:23,"Jl. Jl. Kiaracondong No. 294, JUANDA",Z-1,395000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0151,SURABAYA-MALANG,05-09-2024,charter_harian,Hafshah Hutapea,08513424072,4,19:34,"Jl. Jl. Cikutra Timur No. 15, SURABAYA",V-51,1550000,,,,,8.0,"Jl. Jl. Setiabudhi No. 223, MALANG"
+KR-0152,SURABAYA-MALANG,11-08-2024,charter_harian,Winda Budiyanto,08435879976,3,05:25,"Jl. Gang Raya Ujungberung No. 34, SURABAYA",H-2,1200000,,,,,3.0,"Jl. Jl. Yos Sudarso No. 257, MALANG"
+KR-0153,SURABAYA-MALANG,15-01-2024,charter_harian,"Raina Nainggolan, S.H.",08414070138,3,14:09,"Jl. Gang Rungkut Industri No. 52, SURABAYA",Z-1,1500000,,,,,7.0,"Jl. Gang Kutai No. 223, MALANG"
+KR-0154,MALANG-SURABAYA,11-04-2024,charter_harian,"Sutan Gandewa Mangunsong, S.E.I",08538714174,1,22:24,"Jl. Gang Kapten Muslihat No. 89, MALANG",Z-1,1150000,,,,,9.0,"Jl. Gang Kebonjati No. 13, SURABAYA"
+KR-0155,MALANG-JUANDA,24-10-2024,charter_drop,Prasetya Lestari,08091575446,2,09:57,"Jl. Jalan Veteran No. 238, MALANG",X-2,395000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0156,MALANG-SURABAYA,28-04-2024,charter_harian,Tantri Budiman,08743398262,3,06:30,"Jl. Gg. W.R. Supratman No. 47, MALANG",V-50,1200000,,,,,9.0,"Jl. Jalan Siliwangi No. 153, SURABAYA"
+KR-0157,MALANG-JUANDA,07-05-2024,charter_drop,"R. Eko Nashiruddin, M.Pd",08477854241,10,03:24,"Jl. Jalan Tebet Barat Dalam No. 279, MALANG",H-2,595000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0158,MALANG-JUANDA,12-07-2024,charter_drop,Lili Yuliarti,08764091996,9,12:25,"Jl. Jalan Rajiman No. 210, MALANG",Z-1,570000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0159,MALANG-JUANDA,20-12-2024,charter_drop,Kadir Hidayat,08884570666,6,03:43,"Jl. Jl. Jakarta No. 148, MALANG",V-50,495000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0160,SURABAYA-MALANG,13-05-2025,charter_harian,Adika Rajata,08467595957,1,20:24,"Jl. Jalan Rajawali Barat No. 248, SURABAYA",Z-1,1300000,,,,,1.0,"Jl. Jalan Kutai No. 148, MALANG"
+KR-0161,MALANG-JUANDA,20-05-2024,reguler,Ajimat Hutapea,08712826842,8,16:40,"Jl. Gg. Cihampelas No. 278, MALANG",H-2,1565000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0162,JUANDA-MALANG,08-05-2025,charter_drop,Yance Kurniawan,08510683188,8,10:07,"Jl. Gang K.H. Wahid Hasyim No. 157, JUANDA",H-2,545000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0163,MALANG-SURABAYA,28-07-2025,charter_harian,"Laksana Saputra, M.M.",08060304090,7,14:42,"Jl. Jl. PHH. Mustofa No. 231, MALANG",R-1,1500000,,,,,9.0,"Jl. Gang HOS. Cokroaminoto No. 135, SURABAYA"
+KR-0164,MALANG-JUANDA,10-12-2024,charter_drop,Yulia Suryono,08329959500,9,21:41,"Jl. Gang Erlangga No. 103, MALANG",H-2,670000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0165,MALANG-SURABAYA,10-11-2024,charter_harian,Lanang Mulyani,08231937574,8,13:08,"Jl. Gg. Ahmad Yani No. 9, MALANG",Z-1,650000,,,,,7.0,"Jl. Jl. Pasirkoja No. 290, SURABAYA"
+KR-0166,MALANG-SURABAYA,10-03-2025,charter_harian,Chelsea Tamba,08715940071,6,02:45,"Jl. Jalan Jamika No. 267, MALANG",H-2,1500000,,,,,7.0,"Jl. Gg. Pelajar Pejuang No. 250, SURABAYA"
+KR-0167,MALANG-SURABAYA,12-10-2025,charter_harian,Wawan Utami,08524951770,4,20:02,"Jl. Gang BKR No. 86, MALANG",H-2,1300000,,,,,9.0,"Jl. Jl. Merdeka No. 9, SURABAYA"
+KR-0168,SURABAYA-MALANG,13-09-2025,charter_harian,Ir. Raharja Rahmawati,08542330159,1,07:26,"Jl. Jalan Sukajadi No. 273, SURABAYA",H-2,1000000,,,,,5.0,"Jl. Jalan Ahmad Yani No. 169, MALANG"
+KR-0169,MALANG-SURABAYA,18-09-2025,charter_harian,Jasmin Halimah,08489223858,5,05:37,"Jl. Jl. Sukajadi No. 21, MALANG",V-52,1200000,,,,,10.0,"Jl. Jalan Otto Iskandardinata No. 101, SURABAYA"
+KR-0170,JUANDA-MALANG,28-07-2025,charter_drop,"Tgk. Labuh Hastuti, S.Ked",08313850777,9,19:33,"Jl. Jl. Sentot Alibasa No. 113, JUANDA",Z-1,620000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0171,MALANG-JUANDA,26-04-2024,reguler,"R. Enteng Sudiati, S.Kom",08907220493,1,10:52,"Jl. Gg. M.T Haryono No. 191, MALANG",R-1,180000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0172,MALANG-JUANDA,14-10-2025,charter_drop,"Mujur Lailasari, M.TI.",08731112946,3,14:24,"Jl. Gang S. Parman No. 256, MALANG",R-1,420000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0173,SURABAYA-MALANG,15-12-2024,charter_harian,"Jumadi Maheswara, M.Pd",08920169904,3,05:56,"Jl. Gg. Ronggowarsito No. 187, SURABAYA",H-2,1200000,,,,,9.0,"Jl. Jalan Bangka Raya No. 47, MALANG"
+KR-0174,MALANG-SURABAYA,10-09-2025,charter_harian,"Tgk. Raisa Pradana, S.Kom",08383213465,2,18:25,"Jl. Gg. Indragiri No. 152, MALANG",H-2,1850000,,,,,3.0,"Jl. Jalan KH Amin Jasuta No. 139, SURABAYA"
+KR-0175,JUANDA-MALANG,31-03-2024,charter_drop,Ciaobella Pranowo,08384150327,9,08:38,"Jl. Jalan Gedebage Selatan No. 286, JUANDA",H-2,570000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0176,JUANDA-MALANG,08-02-2025,reguler,"Hj. Aurora Winarno, M.Ak",08713135089,7,20:32,"Jl. Gg. Abdul Muis No. 107, JUANDA",H-2,1460000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0177,JUANDA-MALANG,20-08-2025,charter_drop,R. Talia Tampubolon,08113794548,4,16:54,"Jl. Jl. Kapten Muslihat No. 177, JUANDA",H-2,445000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0178,MALANG-SURABAYA,11-12-2024,charter_harian,Drs. Salman Utami,08854389236,6,09:31,"Jl. Jl. Kutai No. 287, MALANG",H-2,1500000,,,,,8.0,"Jl. Jalan Suryakencana No. 242, SURABAYA"
+KR-0179,MALANG-SURABAYA,07-11-2025,charter_harian,"R.A. Ajeng Simanjuntak, M.Kom.",08396035603,1,10:42,"Jl. Gg. Laswi No. 111, MALANG",H-2,1200000,,,,,8.0,"Jl. Gg. Soekarno Hatta No. 7, SURABAYA"
+KR-0180,MALANG-JUANDA,24-09-2024,charter_drop,R. Lili Prasetyo,08526408256,10,19:31,"Jl. Jl. Pasteur No. 249, MALANG",Z-1,645000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0181,MALANG-JUANDA,24-04-2024,reguler,"Gasti Suryono, M.M.",08615828344,10,15:08,"Jl. Gang Astana Anyar No. 246, MALANG",H-2,1975000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0182,MALANG-SURABAYA,31-05-2024,charter_harian,Hani Handayani,08750881909,9,11:09,"Jl. Jl. Asia Afrika No. 208, MALANG",Z-1,1200000,,,,,4.0,"Jl. Jalan Otto Iskandardinata No. 271, SURABAYA"
+KR-0183,MALANG-SURABAYA,05-09-2025,charter_harian,Jelita Purnawati,08354616275,4,22:15,"Jl. Jl. Raya Ujungberung No. 169, MALANG",H-2,1650000,,,,,4.0,"Jl. Jl. K.H. Wahid Hasyim No. 65, SURABAYA"
+KR-0184,MALANG-JUANDA,21-08-2024,reguler,"Danang Palastri, S.T.",08419856808,5,15:14,"Jl. Gg. Antapani Lama No. 125, MALANG",H-2,950000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0185,SURABAYA-MALANG,04-08-2025,charter_harian,Karen Yolanda,08488917465,1,13:12,"Jl. Jl. Jend. Sudirman No. 190, SURABAYA",H-2,1200000,,,,,5.0,"Jl. Jl. Jamika No. 231, MALANG"
+KR-0186,SURABAYA-MALANG,24-12-2024,charter_harian,"R. Maya Winarno, S.H.",08259512608,7,20:29,"Jl. Jl. Pasir Koja No. 122, SURABAYA",V-52,1300000,,,,,5.0,"Jl. Gg. Dipatiukur No. 127, MALANG"
+KR-0187,JUANDA-MALANG,07-09-2025,reguler,Dr. Tami Palastri,08738619939,7,02:18,"Jl. Jalan Indragiri No. 17, JUANDA",S-2,1360000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0188,MALANG-SURABAYA,10-05-2025,charter_harian,"Najwa Susanti, S.Psi",08106729172,7,04:00,"Jl. Jalan Kutai No. 9, MALANG",Z-1,1200000,,,,,9.0,"Jl. Gg. Rajawali Barat No. 146, SURABAYA"
+KR-0189,SURABAYA-MALANG,04-11-2024,charter_harian,Lurhur Narpati,08542117069,5,20:08,"Jl. Jalan Joyoboyo No. 68, SURABAYA",H-2,1600000,,,,,10.0,"Jl. Gang Ahmad Dahlan No. 120, MALANG"
+KR-0190,SURABAYA-MALANG,22-06-2025,charter_harian,"Cut Ani Saputra, S.E.",08873357050,9,14:04,"Jl. Jl. Ir. H. Djuanda No. 110, SURABAYA",V-52,1200000,,,,,5.0,"Jl. Jalan Rawamangun No. 2, MALANG"
+KR-0191,MALANG-SURABAYA,20-09-2025,charter_harian,"Latif Hariyah, S.E.",08532527816,10,21:44,"Jl. Jalan Moch. Ramdan No. 112, MALANG",Z-1,1100000,,,,,8.0,"Jl. Gang Cikutra Timur No. 91, SURABAYA"
+KR-0192,MALANG-JUANDA,27-10-2025,charter_drop,"Galiono Hariyah, S.Sos",08424665152,9,00:52,"Jl. Gg. Gardujati No. 253, MALANG",H-2,570000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0193,SURABAYA-MALANG,29-09-2024,charter_harian,Pranata Halim,08389634987,3,21:03,"Jl. Gang Waringin No. 227, SURABAYA",H-2,1300000,,,,,1.0,"Jl. Jl. W.R. Supratman No. 155, MALANG"
+KR-0194,MALANG-JUANDA,13-08-2024,reguler,Saiful Simbolon,08594669131,8,01:49,"Jl. Gg. Cihampelas No. 152, MALANG",H-2,1565000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0195,SURABAYA-MALANG,08-06-2025,charter_harian,"Rika Pangestu, M.TI.",08885051039,5,19:24,"Jl. Jalan Dr. Djunjunan No. 205, SURABAYA",Z-1,1050000,,,,,4.0,"Jl. Jl. Kutisari Selatan No. 229, MALANG"
+KR-0196,SURABAYA-MALANG,28-11-2025,charter_harian,R. Jamalia Wahyuni,08754107913,4,05:47,"Jl. Gg. Merdeka No. 277, SURABAYA",Z-1,1800000,,,,,1.0,"Jl. Gang Bangka Raya No. 224, MALANG"
+KR-0197,MALANG-JUANDA,07-06-2024,reguler,Unjani Hastuti,08206645206,10,18:28,"Jl. Gg. Cihampelas No. 297, MALANG",H-2,2025000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0198,MALANG-JUANDA,26-01-2024,charter_drop,drg. Gasti Simbolon,08708340728,9,21:46,"Jl. Jl. KH Amin Jasuta No. 118, MALANG",V-50,670000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0199,SURABAYA-MALANG,28-06-2024,charter_harian,"Lanang Laksita, S.Psi",08215880958,5,13:42,"Jl. Jalan Soekarno Hatta No. 127, SURABAYA",Z-1,1000000,,,,,6.0,"Jl. Gang Kiaracondong No. 99, MALANG"
+KR-0200,JUANDA-MALANG,19-07-2024,charter_drop,Wani Widodo,08248848197,3,19:48,"Jl. Jl. Ahmad Yani No. 152, JUANDA",X-2,470000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0201,SURABAYA-MALANG,17-07-2024,charter_harian,"T. Tugiman Adriansyah, S.Gz",08386542971,5,15:57,"Jl. Gang Kapten Muslihat No. 261, SURABAYA",H-2,1800000,,,,,9.0,"Jl. Gg. BKR No. 94, MALANG"
+KR-0202,JUANDA-MALANG,08-09-2025,charter_drop,Septi Zulkarnain,08717114242,6,04:47,"Jl. Jl. Indragiri No. 232, JUANDA",Z-1,495000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0203,JUANDA-MALANG,17-10-2025,reguler,"Cayadi Ardianto, S.Ked",08714575389,2,16:37,"Jl. Jalan Dr. Djunjunan No. 149, JUANDA",H-2,360000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0204,MALANG-JUANDA,13-07-2025,reguler,Chelsea Haryanto,08892322064,10,22:36,"Jl. Gg. S. Parman No. 12, MALANG",H-2,2125000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0205,MALANG-SURABAYA,28-05-2024,charter_harian,Jelita Simbolon,08819689608,9,05:19,"Jl. Jalan Wonoayu No. 38, MALANG",S-2,1800000,,,,,5.0,"Jl. Jl. Joyoboyo No. 108, SURABAYA"
+KR-0206,MALANG-SURABAYA,29-09-2025,charter_harian,drg. Tri Prasetya,08497699655,1,15:42,"Jl. Jl. Dipenogoro No. 189, MALANG",Z-1,650000,,,,,1.0,"Jl. Gang Jayawijaya No. 75, SURABAYA"
+KR-0207,MALANG-JUANDA,04-09-2025,reguler,"Dt. Yusuf Kusmawati, S.Gz",08676413821,7,20:16,"Jl. Jl. Kendalsari No. 111, MALANG",Z-1,1460000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0208,MALANG-SURABAYA,01-11-2025,charter_harian,Lanjar Mansur,08679122816,7,01:10,"Jl. Gg. Merdeka No. 116, MALANG",Z-1,1200000,,,,,7.0,"Jl. Jl. Otto Iskandardinata No. 102, SURABAYA"
+KR-0209,JUANDA-MALANG,29-05-2025,reguler,Cakrabuana Marpaung,08989499714,9,23:43,"Jl. Gg. HOS. Cokroaminoto No. 199, JUANDA",H-2,1920000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0210,JUANDA-MALANG,05-04-2025,reguler,drg. Nalar Astuti,08014819385,9,08:37,"Jl. Jl. Tubagus Ismail No. 229, JUANDA",Z-1,1800000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0211,SURABAYA-MALANG,30-01-2024,charter_harian,Prayogo Najmudin,08296570076,8,19:13,"Jl. Gang Dipatiukur No. 24, SURABAYA",Z-1,1550000,,,,,9.0,"Jl. Gang Pasirkoja No. 70, MALANG"
+KR-0212,JUANDA-MALANG,29-09-2024,charter_drop,Safina Suartini,08675731728,6,01:19,"Jl. Jalan Jakarta No. 45, JUANDA",Z-1,495000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0213,MALANG-JUANDA,22-05-2025,charter_drop,Drs. Paulin Hardiansyah,08499218536,9,01:37,"Jl. Jl. Jakarta No. 53, MALANG",Z-1,570000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0214,MALANG-JUANDA,12-07-2024,reguler,"Tgk. Betania Purwanti, S.Kom",08832792899,3,02:36,"Jl. Jl. Bangka Raya No. 64, MALANG",Z-1,540000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0215,JUANDA-MALANG,01-11-2024,reguler,Shania Simanjuntak,08381623766,8,15:04,"Jl. Gg. Setiabudhi No. 194, JUANDA",V-50,1565000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0216,MALANG-JUANDA,23-02-2025,reguler,Queen Sirait,08668751510,8,09:58,"Jl. Gg. Sentot Alibasa No. 183, MALANG",Z-1,1565000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0217,SURABAYA-MALANG,07-12-2025,charter_harian,"dr. Ciaobella Salahudin, S.Gz",08353127789,8,23:38,"Jl. Gg. Ciumbuleuit No. 149, SURABAYA",H-2,1350000,,,,,10.0,"Jl. Jalan Ahmad Dahlan No. 221, MALANG"
+KR-0218,MALANG-JUANDA,25-06-2025,charter_drop,Calista Mahendra,08366663432,3,11:55,"Jl. Gg. W.R. Supratman No. 215, MALANG",Z-1,420000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0219,SURABAYA-MALANG,06-02-2024,charter_harian,"Adikara Novitasari, S.Farm",08848590131,1,02:35,"Jl. Gang BKR No. 141, SURABAYA",Z-1,1800000,,,,,1.0,"Jl. Gang Moch. Ramdan No. 22, MALANG"
+KR-0220,SURABAYA-MALANG,26-06-2024,charter_harian,"Tgk. Yance Maulana, S.Gz",08189128923,7,20:45,"Jl. Jalan Sentot Alibasa No. 185, SURABAYA",H-2,1900000,,,,,5.0,"Jl. Jl. Indragiri No. 249, MALANG"
+KR-0221,JUANDA-MALANG,28-01-2024,reguler,"Kadir Wahyuni, S.H.",08340911594,8,16:56,"Jl. Gg. Sentot Alibasa No. 146, JUANDA",H-2,1565000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0222,MALANG-SURABAYA,12-10-2025,charter_harian,Maimunah Widodo,08066378862,1,12:46,"Jl. Gg. Jamika No. 142, MALANG",H-2,650000,,,,,5.0,"Jl. Jl. PHH. Mustofa No. 216, SURABAYA"
+KR-0223,MALANG-SURABAYA,30-01-2025,charter_harian,"Faizah Kusmawati, S.Kom",08370822445,1,10:14,"Jl. Gg. Pacuan Kuda No. 221, MALANG",Z-1,1500000,,,,,8.0,"Jl. Jalan Kapten Muslihat No. 177, SURABAYA"
+KR-0224,SURABAYA-MALANG,03-07-2024,charter_harian,Heru Irawan,08914563658,6,03:35,"Jl. Gang Sentot Alibasa No. 83, SURABAYA",V-50,1000000,,,,,10.0,"Jl. Gang Kebonjati No. 89, MALANG"
+KR-0225,MALANG-SURABAYA,27-09-2024,charter_harian,Michelle Permadi,08648542883,8,06:54,"Jl. Jl. Veteran No. 154, MALANG",S-2,650000,,,,,7.0,"Jl. Jalan Rumah Sakit No. 93, SURABAYA"
+KR-0226,MALANG-JUANDA,21-01-2024,reguler,Artanto Zulkarnain,08720433700,5,23:58,"Jl. Gg. Bangka Raya No. 92, MALANG",H-2,1100000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0227,MALANG-JUANDA,15-02-2024,reguler,R. Vanya Purwanti,08551236706,8,15:31,"Jl. Jalan Cempaka No. 176, MALANG",H-2,1565000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0228,SURABAYA-MALANG,07-11-2024,charter_harian,Salman Yulianti,08665287949,5,18:55,"Jl. Gang Antapani Lama No. 227, SURABAYA",V-50,1250000,,,,,1.0,"Jl. Jl. Lembong No. 122, MALANG"
+KR-0229,MALANG-JUANDA,15-06-2024,charter_drop,T. Teddy Sihombing,08734866323,6,22:49,"Jl. Gg. Rajawali Timur No. 189, MALANG",R-1,645000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0230,JUANDA-MALANG,19-09-2025,reguler,Zelda Zulaika,08284288328,7,00:59,"Jl. Gang Setiabudhi No. 86, JUANDA",Z-1,1360000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0231,SURABAYA-MALANG,02-12-2024,charter_harian,"Patricia Winarsih, S.T.",08764976654,3,06:23,"Jl. Gg. Bangka Raya No. 40, SURABAYA",H-2,1200000,,,,,1.0,"Jl. Jl. Surapati No. 154, MALANG"
+KR-0232,MALANG-JUANDA,22-05-2025,charter_drop,"Drs. Mahfud Suartini, S.Pd",08314237887,8,09:19,"Jl. Jl. Medokan Ayu No. 31, MALANG",H-2,545000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0233,MALANG-SURABAYA,06-01-2025,charter_harian,"R.M. Balamantri Hutapea, S.Kom",08568722109,10,22:00,"Jl. Jalan Antapani Lama No. 19, MALANG",Z-1,1950000,,,,,8.0,"Jl. Gang Medokan Ayu No. 160, SURABAYA"
+KR-0234,MALANG-JUANDA,05-04-2024,charter_drop,Bakiadi Megantara,08094908557,3,08:51,"Jl. Gang Indragiri No. 227, MALANG",Z-1,420000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0235,MALANG-SURABAYA,01-11-2025,charter_harian,Latika Samosir,08542969440,3,20:54,"Jl. Gang Ahmad Yani No. 164, MALANG",H-2,1300000,,,,,2.0,"Jl. Gang Sukajadi No. 85, SURABAYA"
+KR-0236,MALANG-JUANDA,02-01-2024,reguler,"Rachel Hassanah, S.T.",08430729848,10,17:51,"Jl. Gang Cihampelas No. 202, MALANG",Z-1,1975000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0237,MALANG-JUANDA,25-03-2025,reguler,Maryanto Kuswandari,08553186682,4,12:10,"Jl. Gg. Kutisari Selatan No. 177, MALANG",R-1,800000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0238,JUANDA-MALANG,15-08-2025,charter_drop,"Juli Habibi, S.Farm",08214466445,4,18:23,"Jl. Gang Ahmad Yani No. 23, JUANDA",R-1,495000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0239,MALANG-SURABAYA,28-02-2024,charter_harian,Budi Siregar,08032316469,7,16:53,"Jl. Jalan Merdeka No. 73, MALANG",R-1,1000000,,,,,4.0,"Jl. Gg. Surapati No. 170, SURABAYA"
+KR-0240,MALANG-JUANDA,31-01-2025,reguler,KH. Cahyadi Astuti,08779873923,5,15:35,"Jl. Gg. Dipenogoro No. 264, MALANG",V-52,950000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0241,MALANG-SURABAYA,21-10-2024,charter_harian,Almira Hidayat,08241348289,2,13:41,"Jl. Jl. Rajawali Barat No. 166, MALANG",H-2,1200000,,,,,10.0,"Jl. Gg. Dipenogoro No. 210, SURABAYA"
+KR-0242,JUANDA-MALANG,20-06-2025,charter_drop,"Ir. Mulya Mandasari, M.Kom.",08211126964,7,16:44,"Jl. Jl. Kapten Muslihat No. 108, JUANDA",Z-1,520000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0243,MALANG-SURABAYA,04-11-2024,charter_harian,Cici Hartati,08380148464,8,20:30,"Jl. Gang Pacuan Kuda No. 27, MALANG",V-52,1600000,,,,,6.0,"Jl. Jalan Cikutra Barat No. 212, SURABAYA"
+KR-0244,JUANDA-MALANG,10-11-2025,charter_drop,"Diah Kurniawan, M.Ak",08519497092,6,17:17,"Jl. Gang Rumah Sakit No. 135, JUANDA",V-50,495000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0245,JUANDA-MALANG,24-02-2025,charter_drop,R.M. Prayogo Tarihoran,08678652133,7,18:28,"Jl. Jl. Cihampelas No. 217, JUANDA",Z-1,570000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0246,SURABAYA-MALANG,28-03-2024,charter_harian,Ir. Jaswadi Mulyani,08790943044,8,10:06,"Jl. Jalan Gedebage Selatan No. 100, SURABAYA",V-52,1500000,,,,,5.0,"Jl. Gg. Wonoayu No. 117, MALANG"
+KR-0247,MALANG-JUANDA,20-12-2025,charter_drop,Farhunnisa Sihotang,08202542866,5,20:23,"Jl. Jalan Pasteur No. 67, MALANG",Z-1,570000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0248,JUANDA-MALANG,17-11-2024,charter_drop,Aurora Gunawan,08031228163,4,22:01,"Jl. Gg. Cikutra Timur No. 260, JUANDA",H-2,595000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0249,SURABAYA-MALANG,25-01-2024,charter_harian,"H. Wakiman Pertiwi, S.Gz",08926004186,6,00:37,"Jl. Gg. Rungkut Industri No. 153, SURABAYA",Z-1,1200000,,,,,3.0,"Jl. Jalan W.R. Supratman No. 241, MALANG"
+KR-0250,MALANG-JUANDA,09-12-2025,charter_drop,"Jabal Mayasari, M.TI.",08773653296,9,15:56,"Jl. Gg. Rajawali Barat No. 87, MALANG",Z-1,570000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0251,SURABAYA-MALANG,18-06-2024,charter_harian,Latika Padmasari,08878205654,9,21:16,"Jl. Jl. Cempaka No. 31, SURABAYA",Z-1,1900000,,,,,4.0,"Jl. Jl. Suryakencana No. 204, MALANG"
+KR-0252,SURABAYA-MALANG,07-02-2025,charter_harian,"Ganep Namaga, M.Kom.",08956519734,3,06:25,"Jl. Gg. Veteran No. 122, SURABAYA",Z-1,1200000,,,,,3.0,"Jl. Jl. Moch. Toha No. 185, MALANG"
+KR-0253,JUANDA-MALANG,19-11-2024,charter_drop,"R.A. Tania Saputra, M.TI.",08000618540,4,10:55,"Jl. Gg. Pasirkoja No. 88, JUANDA",V-52,445000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0254,MALANG-SURABAYA,29-01-2024,charter_harian,"H. Jaka Firgantoro, M.TI.",08122717827,6,07:09,"Jl. Gg. W.R. Supratman No. 117, MALANG",H-2,1000000,,,,,3.0,"Jl. Jalan Wonoayu No. 184, SURABAYA"
+KR-0255,MALANG-JUANDA,01-09-2025,charter_drop,R.A. Lintang Hasanah,08777623146,4,11:32,"Jl. Jalan M.H Thamrin No. 202, MALANG",X-2,445000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0256,JUANDA-MALANG,18-12-2025,charter_drop,"T. Among Tampubolon, M.M.",08137868823,2,13:26,"Jl. Gang Cempaka No. 179, JUANDA",H-2,395000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0257,JUANDA-MALANG,22-10-2024,charter_drop,Arsipatra Pradipta,08524897336,10,09:23,"Jl. Jl. Dr. Djunjunan No. 182, JUANDA",X-2,595000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0258,SURABAYA-MALANG,14-08-2025,charter_harian,Salimah Haryanti,08918833090,5,12:13,"Jl. Gg. Asia Afrika No. 99, SURABAYA",R-1,650000,,,,,5.0,"Jl. Jl. Waringin No. 233, MALANG"
+KR-0259,MALANG-JUANDA,07-02-2024,charter_drop,Hartana Kusmawati,08351262796,5,09:04,"Jl. Gg. Jend. A. Yani No. 128, MALANG",H-2,470000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0260,SURABAYA-MALANG,10-09-2025,charter_harian,Asmianto Halim,08359336742,5,13:45,"Jl. Jl. Suryakencana No. 286, SURABAYA",S-2,1500000,,,,,6.0,"Jl. Gang Suryakencana No. 111, MALANG"
+KR-0261,SURABAYA-MALANG,27-06-2025,charter_harian,R.A. Alika Waskita,08842716790,9,07:46,"Jl. Jalan K.H. Wahid Hasyim No. 236, SURABAYA",Z-1,650000,,,,,6.0,"Jl. Jalan Pacuan Kuda No. 94, MALANG"
+KR-0262,SURABAYA-MALANG,20-04-2024,charter_harian,Yunita Marpaung,08841851233,10,17:23,"Jl. Jalan Astana Anyar No. 282, SURABAYA",Z-1,1800000,,,,,8.0,"Jl. Jl. Rawamangun No. 87, MALANG"
+KR-0263,MALANG-SURABAYA,06-09-2024,charter_harian,"dr. Juli Napitupulu, S.H.",08319261804,6,13:54,"Jl. Gang Cempaka No. 6, MALANG",V-51,1000000,,,,,1.0,"Jl. Gg. Medokan Ayu No. 72, SURABAYA"
+KR-0264,JUANDA-MALANG,06-01-2025,reguler,Dt. Mulyanto Nababan,08604456728,1,19:43,"Jl. Jl. Tubagus Ismail No. 215, JUANDA",S-2,230000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0265,MALANG-SURABAYA,29-06-2025,charter_harian,"Unjani Andriani, S.Ked",08214778221,8,08:58,"Jl. Jl. Rajawali Barat No. 288, MALANG",Z-1,650000,,,,,8.0,"Jl. Jalan Yos Sudarso No. 300, SURABAYA"
+KR-0266,MALANG-SURABAYA,01-04-2024,charter_harian,dr. Ulya Suryatmi,08408755258,8,15:06,"Jl. Jl. Dipenogoro No. 249, MALANG",R-1,1800000,,,,,10.0,"Jl. Jalan Setiabudhi No. 117, SURABAYA"
+KR-0267,JUANDA-MALANG,25-08-2025,reguler,"T. Bancar Nasyidah, S.Sos",08287711709,9,23:42,"Jl. Jl. KH Amin Jasuta No. 153, JUANDA",S-2,1920000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0268,SURABAYA-MALANG,30-06-2024,charter_harian,Ulya Saragih,08920894546,3,22:06,"Jl. Jalan Astana Anyar No. 38, SURABAYA",H-2,1350000,,,,,9.0,"Jl. Jl. Asia Afrika No. 222, MALANG"
+KR-0269,MALANG-JUANDA,20-08-2024,charter_drop,Ida Laksita,08941613716,10,12:02,"Jl. Gg. Rajiman No. 220, MALANG",Z-1,595000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0270,JUANDA-MALANG,05-04-2025,charter_drop,Jane Simanjuntak,08142471040,2,19:28,"Jl. Jalan Rajawali Barat No. 239, JUANDA",Z-1,950000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0271,JUANDA-MALANG,24-11-2024,reguler,Eko Kuswoyo,08351000222,8,19:17,"Jl. Gg. W.R. Supratman No. 25, JUANDA",H-2,1615000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0272,MALANG-SURABAYA,04-01-2024,charter_harian,R.A. Genta Mulyani,08093664760,4,02:38,"Jl. Jalan Surapati No. 241, MALANG",V-50,650000,,,,,1.0,"Jl. Gg. Suryakencana No. 288, SURABAYA"
+KR-0273,MALANG-SURABAYA,25-03-2025,charter_harian,drg. Wardaya Oktaviani,08292418244,6,11:46,"Jl. Gang Gegerkalong Hilir No. 240, MALANG",V-51,1800000,,,,,7.0,"Jl. Jalan K.H. Wahid Hasyim No. 189, SURABAYA"
+KR-0274,MALANG-JUANDA,15-11-2024,reguler,Melinda Situmorang,08133494027,7,10:02,"Jl. Jl. Otto Iskandardinata No. 122, MALANG",R-1,1360000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0275,MALANG-SURABAYA,12-02-2025,charter_harian,"Dr. Surya Latupono, S.IP",08271858826,7,12:36,"Jl. Gang Kapten Muslihat No. 90, MALANG",S-2,1200000,,,,,3.0,"Jl. Gang Kutai No. 99, SURABAYA"
+KR-0276,SURABAYA-MALANG,19-01-2024,charter_harian,Puti Indah Namaga,08250049469,1,06:21,"Jl. Jalan Cempaka No. 294, SURABAYA",H-2,1000000,,,,,9.0,"Jl. Jalan Astana Anyar No. 240, MALANG"
+KR-0277,MALANG-JUANDA,04-10-2025,charter_drop,"Cut Ulva Lailasari, S.E.",08009874477,5,10:11,"Jl. Gg. Pasir Koja No. 257, MALANG",H-2,470000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0278,MALANG-SURABAYA,19-03-2025,charter_harian,Gada Maryati,08548856995,8,02:44,"Jl. Gang M.T Haryono No. 274, MALANG",S-2,1800000,,,,,1.0,"Jl. Gang Pasir Koja No. 293, SURABAYA"
+KR-0279,SURABAYA-MALANG,20-09-2025,charter_harian,Prayoga Putra,08355052637,10,22:26,"Jl. Jalan Ahmad Yani No. 24, SURABAYA",X-2,1150000,,,,,7.0,"Jl. Gg. Ciwastra No. 118, MALANG"
+KR-0280,MALANG-JUANDA,05-12-2024,reguler,Tasdik Simbolon,08348949528,5,13:44,"Jl. Jl. Ir. H. Djuanda No. 238, MALANG",H-2,950000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0281,JUANDA-MALANG,04-06-2025,charter_drop,Ir. Yuliana Gunawan,08378407671,1,18:47,"Jl. Gang Suniaraja No. 242, JUANDA",V-50,445000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0282,JUANDA-MALANG,05-06-2025,reguler,Pangeran Januar,08068487278,7,09:49,"Jl. Jalan Cihampelas No. 182, JUANDA",V-50,1360000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0283,MALANG-JUANDA,27-03-2025,reguler,Dono Saptono,08784365419,2,10:21,"Jl. Jalan Sukajadi No. 123, MALANG",V-51,400000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0284,MALANG-SURABAYA,29-05-2025,charter_harian,"Ade Purnawati, S.H.",08954957475,9,03:30,"Jl. Jalan Ahmad Dahlan No. 37, MALANG",X-2,1500000,,,,,1.0,"Jl. Gg. Dipatiukur No. 4, SURABAYA"
+KR-0285,JUANDA-MALANG,07-11-2024,charter_drop,Jasmin Wasita,08623209241,5,09:38,"Jl. Jl. Moch. Ramdan No. 141, JUANDA",H-2,470000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0286,MALANG-SURABAYA,31-03-2025,charter_harian,"R.M. Ridwan Prasasta, S.E.",08746466432,3,17:43,"Jl. Jl. HOS. Cokroaminoto No. 165, MALANG",Z-1,650000,,,,,8.0,"Jl. Gang Indragiri No. 131, SURABAYA"
+KR-0287,JUANDA-MALANG,01-03-2025,charter_drop,Banara Permadi,08220213078,2,18:30,"Jl. Gang Pasir Koja No. 149, JUANDA",Z-1,445000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0288,SURABAYA-MALANG,07-02-2025,charter_harian,Dina Pudjiastuti,08996931497,8,11:11,"Jl. Gang Antapani Lama No. 126, SURABAYA",H-2,650000,,,,,6.0,"Jl. Jl. BKR No. 267, MALANG"
+KR-0289,SURABAYA-MALANG,13-07-2025,charter_harian,"R. Kamila Gunarto, S.E.",08391183283,9,18:51,"Jl. Jl. Merdeka No. 179, SURABAYA",H-2,1250000,,,,,7.0,"Jl. Gg. Kutisari Selatan No. 20, MALANG"
+KR-0290,JUANDA-MALANG,22-11-2024,charter_drop,Hana Yulianti,08884437420,2,04:56,"Jl. Jl. KH Amin Jasuta No. 293, JUANDA",Z-1,395000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0291,JUANDA-MALANG,28-06-2025,charter_drop,Drs. Najwa Hariyah,08702481784,2,12:55,"Jl. Gg. Sukajadi No. 86, JUANDA",Z-1,395000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0292,MALANG-JUANDA,24-06-2024,charter_drop,Argono Rahmawati,08357501664,7,05:58,"Jl. Gg. Jayawijaya No. 113, MALANG",Z-1,520000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0293,JUANDA-MALANG,12-01-2025,charter_drop,Asirwanda Pradipta,08009888459,3,20:51,"Jl. Jalan Ir. H. Djuanda No. 290, JUANDA",H-2,520000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0294,JUANDA-MALANG,07-12-2025,charter_drop,"Nadia Kusumo, S.IP",08560899766,5,13:18,"Jl. Gg. Sukajadi No. 31, JUANDA",H-2,470000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0295,MALANG-SURABAYA,08-08-2024,charter_harian,Nasab Waluyo,08099473309,1,17:13,"Jl. Gang Gardujati No. 287, MALANG",Z-1,1500000,,,,,7.0,"Jl. Gang Pacuan Kuda No. 32, SURABAYA"
+KR-0296,SURABAYA-MALANG,22-11-2024,charter_harian,dr. Zamira Maryadi,08677309799,6,18:26,"Jl. Jl. Jayawijaya No. 12, SURABAYA",Z-1,1250000,,,,,4.0,"Jl. Jl. Gegerkalong Hilir No. 186, MALANG"
+KR-0297,MALANG-JUANDA,13-04-2024,reguler,Diah Safitri,08365020099,3,08:19,"Jl. Gg. Jakarta No. 193, MALANG",Z-1,540000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0298,JUANDA-MALANG,10-09-2025,reguler,"Puti Jane Samosir, S.T.",08824239387,6,02:18,"Jl. Gang Medokan Ayu No. 40, JUANDA",Z-1,1155000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0299,MALANG-SURABAYA,25-01-2024,charter_harian,Ifa Sihombing,08036466774,3,03:03,"Jl. Jl. Setiabudhi No. 188, MALANG",H-2,1000000,,,,,2.0,"Jl. Gg. Gegerkalong Hilir No. 90, SURABAYA"
+KR-0300,SURABAYA-MALANG,27-11-2025,charter_harian,Warta Wastuti,08456220669,8,09:22,"Jl. Jalan PHH. Mustofa No. 278, SURABAYA",V-51,1800000,,,,,8.0,"Jl. Jl. S. Parman No. 65, MALANG"
+KR-0301,JUANDA-MALANG,14-03-2024,charter_drop,"dr. Raina Hassanah, S.Ked",08511466614,8,04:59,"Jl. Jl. Rungkut Industri No. 262, JUANDA",R-1,545000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0302,MALANG-SURABAYA,30-04-2025,charter_harian,"Gamblang Budiman, S.E.",08959595483,6,00:19,"Jl. Jl. Rawamangun No. 46, MALANG",X-2,1800000,,,,,6.0,"Jl. Jalan Siliwangi No. 210, SURABAYA"
+KR-0303,MALANG-SURABAYA,09-03-2024,charter_harian,drg. Endah Maheswara,08527825257,7,21:32,"Jl. Gang Peta No. 30, MALANG",Z-1,1900000,,,,,9.0,"Jl. Gg. Kapten Muslihat No. 243, SURABAYA"
+KR-0304,MALANG-JUANDA,10-08-2025,reguler,"Tugiman Kusmawati, S.Pt",08286324294,7,15:24,"Jl. Gg. Pasteur No. 242, MALANG",Z-1,1360000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0305,SURABAYA-MALANG,21-01-2024,charter_harian,Warji Tarihoran,08674447678,1,01:01,"Jl. Gg. Pasteur No. 218, SURABAYA",H-2,650000,,,,,2.0,"Jl. Gang Rajiman No. 215, MALANG"
+KR-0306,MALANG-JUANDA,18-02-2024,reguler,Kawaya Laksita,08225296093,7,17:29,"Jl. Gg. Gegerkalong Hilir No. 4, MALANG",V-52,1360000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0307,MALANG-SURABAYA,01-09-2024,charter_harian,Tgk. Emin Hastuti,08758612207,6,03:21,"Jl. Gang Sukabumi No. 155, MALANG",S-2,1800000,,,,,6.0,"Jl. Jl. Dipatiukur No. 290, SURABAYA"
+KR-0308,MALANG-JUANDA,27-11-2024,reguler,Nilam Firmansyah,08517853532,5,12:13,"Jl. Jalan S. Parman No. 258, MALANG",Z-1,950000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0309,JUANDA-MALANG,29-08-2025,charter_drop,Putri Wasita,08110929997,4,21:54,"Jl. Jl. Jayawijaya No. 291, JUANDA",H-2,545000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0310,MALANG-SURABAYA,02-11-2025,charter_harian,Cengkir Yulianti,08463565115,8,18:05,"Jl. Gang Cihampelas No. 207, MALANG",V-51,1550000,,,,,4.0,"Jl. Jl. Pasteur No. 275, SURABAYA"
+KR-0311,SURABAYA-MALANG,15-03-2025,charter_harian,Cut Yunita Siregar,08541705397,4,06:51,"Jl. Gang Rawamangun No. 40, SURABAYA",V-50,1000000,,,,,9.0,"Jl. Jalan Raya Ujungberung No. 223, MALANG"
+KR-0312,JUANDA-MALANG,07-10-2024,reguler,Dian Oktaviani,08512094501,3,23:20,"Jl. Jalan Monginsidi No. 100, JUANDA",Z-1,690000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0313,MALANG-JUANDA,14-03-2024,reguler,Kani Sudiati,08464651462,9,19:34,"Jl. Gang Gegerkalong Hilir No. 104, MALANG",Z-1,1820000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0314,JUANDA-MALANG,31-07-2025,reguler,Najib Pratiwi,08975560748,4,13:06,"Jl. Gg. Surapati No. 154, JUANDA",H-2,745000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0315,MALANG-SURABAYA,29-01-2024,charter_harian,Ir. Janet Hastuti,08368748589,5,13:33,"Jl. Gang H.J Maemunah No. 49, MALANG",V-52,650000,,,,,7.0,"Jl. Gg. Jamika No. 13, SURABAYA"
+KR-0316,JUANDA-MALANG,05-07-2025,charter_drop,Ida Nurdiyanti,08209459787,8,12:05,"Jl. Gang Yos Sudarso No. 55, JUANDA",Z-1,545000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0317,MALANG-SURABAYA,27-12-2025,charter_harian,KH. Jagapati Hasanah,08689246797,3,17:58,"Jl. Gg. Dipatiukur No. 259, MALANG",Z-1,1200000,,,,,2.0,"Jl. Gg. Pelajar Pejuang No. 135, SURABAYA"
+KR-0318,SURABAYA-MALANG,16-10-2025,charter_harian,"Argono Dongoran, S.E.",08208853882,9,16:07,"Jl. Gg. Otto Iskandardinata No. 197, SURABAYA",V-52,1000000,,,,,9.0,"Jl. Jalan Ciumbuleuit No. 108, MALANG"
+KR-0319,MALANG-JUANDA,17-03-2024,charter_drop,Nilam Kusumo,08957406250,9,20:58,"Jl. Jalan Rawamangun No. 40, MALANG",H-2,670000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0320,SURABAYA-MALANG,03-09-2025,charter_harian,"Tirtayasa Suartini, S.Pt",08427390591,10,05:46,"Jl. Jalan Pasir Koja No. 188, SURABAYA",H-2,1000000,,,,,4.0,"Jl. Gg. Kutisari Selatan No. 12, MALANG"
+KR-0321,MALANG-SURABAYA,26-02-2025,charter_harian,Cemani Winarsih,08474962854,6,23:38,"Jl. Jalan Dipenogoro No. 197, MALANG",Z-1,1350000,,,,,1.0,"Jl. Gg. Lembong No. 67, SURABAYA"
+KR-0322,JUANDA-MALANG,08-02-2024,reguler,Almira Marpaung,08328993891,6,11:26,"Jl. Jalan Siliwangi No. 153, JUANDA",H-2,1155000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0323,SURABAYA-MALANG,07-01-2024,charter_harian,Jelita Palastri,08092280106,3,15:35,"Jl. Jl. Peta No. 164, SURABAYA",Z-1,1200000,,,,,8.0,"Jl. Jalan Surapati No. 63, MALANG"
+KR-0324,MALANG-JUANDA,18-02-2025,reguler,Victoria Saptono,08754420685,7,05:08,"Jl. Jalan R.E Martadinata No. 66, MALANG",Z-1,1360000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0325,MALANG-SURABAYA,28-01-2024,charter_harian,Baktiadi Firgantoro,08057859266,6,08:39,"Jl. Gang Ahmad Yani No. 72, MALANG",Z-1,1000000,,,,,6.0,"Jl. Gg. Rajiman No. 278, SURABAYA"
+KR-0326,SURABAYA-MALANG,11-04-2024,charter_harian,Gasti Usada,08863389940,8,00:11,"Jl. Gg. Rajiman No. 283, SURABAYA",V-51,1200000,,,,,5.0,"Jl. Jalan Suniaraja No. 39, MALANG"
+KR-0327,MALANG-JUANDA,05-07-2025,charter_drop,"Dt. Karta Adriansyah, S.Psi",08079869069,9,00:49,"Jl. Jalan Indragiri No. 131, MALANG",H-2,570000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0328,JUANDA-MALANG,12-06-2025,charter_drop,drg. Kasusra Mayasari,08431937520,6,22:02,"Jl. Gang Moch. Toha No. 14, JUANDA",H-2,645000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0329,MALANG-SURABAYA,19-05-2024,charter_harian,Tirta Uwais,08887620478,5,14:31,"Jl. Gg. Suniaraja No. 127, MALANG",R-1,1200000,,,,,5.0,"Jl. Gang Kebonjati No. 34, SURABAYA"
+KR-0330,MALANG-JUANDA,02-06-2024,reguler,"Belinda Andriani, M.Farm",08673155166,6,23:19,"Jl. Gang Sadang Serang No. 179, MALANG",Z-1,1305000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0331,SURABAYA-MALANG,22-08-2024,charter_harian,drg. Lega Megantara,08564363601,6,19:46,"Jl. Jalan Bangka Raya No. 275, SURABAYA",H-2,1850000,,,,,10.0,"Jl. Jl. PHH. Mustofa No. 201, MALANG"
+KR-0332,MALANG-JUANDA,15-02-2025,reguler,R. Nadine Wibisono,08862784795,9,06:28,"Jl. Jalan Jend. A. Yani No. 39, MALANG",H-2,1770000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0333,MALANG-SURABAYA,16-11-2025,charter_harian,Dr. Tasdik Wasita,08786981649,9,06:50,"Jl. Gang Rumah Sakit No. 128, MALANG",Z-1,1200000,,,,,10.0,"Jl. Gg. Suryakencana No. 265, SURABAYA"
+KR-0334,MALANG-SURABAYA,31-08-2024,charter_harian,Nurul Manullang,08118132994,5,13:59,"Jl. Jalan Rajiman No. 121, MALANG",H-2,650000,,,,,5.0,"Jl. Gang Kapten Muslihat No. 56, SURABAYA"
+KR-0335,MALANG-JUANDA,08-08-2025,charter_drop,Rahmi Usada,08296348899,8,10:07,"Jl. Gg. Monginsidi No. 293, MALANG",H-2,545000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0336,MALANG-SURABAYA,19-07-2025,charter_harian,"Drs. Nadine Hardiansyah, S.E.",08217147830,8,06:55,"Jl. Gg. Abdul Muis No. 71, MALANG",Z-1,650000,,,,,6.0,"Jl. Gang Ahmad Yani No. 211, SURABAYA"
+KR-0337,MALANG-JUANDA,12-10-2025,charter_drop,Drs. Hasim Haryanti,08344600134,6,04:11,"Jl. Gg. M.H Thamrin No. 219, MALANG",Z-1,495000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0338,MALANG-JUANDA,20-03-2025,reguler,Atma Saefullah,08102635435,2,23:51,"Jl. Gg. Kiaracondong No. 253, MALANG",S-2,510000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0339,MALANG-SURABAYA,27-05-2025,charter_harian,Queen Setiawan,08445222856,1,15:32,"Jl. Jalan Otto Iskandardinata No. 171, MALANG",H-2,1200000,,,,,10.0,"Jl. Gg. Ahmad Yani No. 296, SURABAYA"
+KR-0340,SURABAYA-MALANG,09-02-2025,charter_harian,Icha Agustina,08959415150,2,02:36,"Jl. Jl. Dipenogoro No. 174, SURABAYA",H-2,650000,,,,,7.0,"Jl. Gang Wonoayu No. 295, MALANG"
+KR-0341,JUANDA-MALANG,07-02-2025,reguler,Shakila Nurdiyanti,08399390757,8,10:22,"Jl. Gang Pelajar Pejuang No. 226, JUANDA",Z-1,1565000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0342,SURABAYA-MALANG,23-08-2025,charter_harian,Laras Winarno,08690824231,4,10:38,"Jl. Gg. Pacuan Kuda No. 214, SURABAYA",H-2,1200000,,,,,10.0,"Jl. Gg. Kiaracondong No. 110, MALANG"
+KR-0343,SURABAYA-MALANG,26-02-2024,charter_harian,"dr. Asmuni Wahyudin, S.E.",08262137717,9,22:02,"Jl. Gang Rajawali Barat No. 28, SURABAYA",H-2,1150000,,,,,9.0,"Jl. Jl. Laswi No. 30, MALANG"
+KR-0344,JUANDA-MALANG,21-08-2025,charter_drop,Slamet Nugroho,08619254808,6,09:09,"Jl. Gang KH Amin Jasuta No. 125, JUANDA",Z-1,495000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0345,JUANDA-MALANG,23-07-2025,reguler,Puti Ika Sihombing,08379304597,4,17:59,"Jl. Gang Dipenogoro No. 283, JUANDA",H-2,745000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0346,MALANG-SURABAYA,11-08-2024,charter_harian,Danang Saragih,08338641964,8,10:07,"Jl. Gg. Antapani Lama No. 283, MALANG",Z-1,650000,,,,,3.0,"Jl. Jl. Cempaka No. 107, SURABAYA"
+KR-0347,JUANDA-MALANG,11-05-2025,reguler,Ir. Rafi Mardhiyah,08866148213,10,16:06,"Jl. Jalan Cempaka No. 222, JUANDA",Z-1,1975000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0348,SURABAYA-MALANG,03-08-2025,charter_harian,"Galuh Damanik, S.I.Kom",08279151918,5,15:09,"Jl. Gg. Jamika No. 14, SURABAYA",Z-1,650000,,,,,8.0,"Jl. Jl. Merdeka No. 185, MALANG"
+KR-0349,MALANG-SURABAYA,01-02-2024,charter_harian,Kasiyah Anggraini,08499450562,6,08:55,"Jl. Jl. HOS. Cokroaminoto No. 46, MALANG",Z-1,1200000,,,,,7.0,"Jl. Gg. Tubagus Ismail No. 177, SURABAYA"
+KR-0350,MALANG-SURABAYA,04-07-2024,charter_harian,Dr. Emin Nurdiyanti,08358214137,7,16:31,"Jl. Gang Rajawali Barat No. 290, MALANG",Z-1,1800000,,,,,10.0,"Jl. Gg. Joyoboyo No. 282, SURABAYA"
+KR-0351,JUANDA-MALANG,21-10-2025,charter_drop,dr. Puti Adriansyah,08235534807,3,16:46,"Jl. Gg. Gegerkalong Hilir No. 164, JUANDA",Z-1,420000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0352,SURABAYA-MALANG,11-09-2024,charter_harian,"R.M. Hardana Saragih, S.T.",08883093805,9,22:31,"Jl. Gg. Ahmad Yani No. 243, SURABAYA",H-2,1350000,,,,,9.0,"Jl. Gg. Surapati No. 118, MALANG"
+KR-0353,SURABAYA-MALANG,14-08-2024,charter_harian,Talia Hakim,08200891255,9,17:40,"Jl. Jl. R.E Martadinata No. 115, SURABAYA",H-2,650000,,,,,4.0,"Jl. Jl. Ronggowarsito No. 11, MALANG"
+KR-0354,MALANG-SURABAYA,16-12-2024,charter_harian,Ulya Firgantoro,08445823667,1,19:51,"Jl. Jalan HOS. Cokroaminoto No. 244, MALANG",V-52,1850000,,,,,1.0,"Jl. Jl. Tubagus Ismail No. 121, SURABAYA"
+KR-0355,JUANDA-MALANG,12-04-2025,reguler,Dr. Unjani Suryatmi,08784711310,10,20:18,"Jl. Jalan Cikutra Timur No. 206, JUANDA",H-2,2075000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0356,SURABAYA-MALANG,13-02-2025,charter_harian,"Cut Ayu Farida, S.T.",08135410505,3,12:40,"Jl. Gang Kendalsari No. 285, SURABAYA",R-1,1800000,,,,,8.0,"Jl. Gang Erlangga No. 56, MALANG"
+KR-0357,MALANG-JUANDA,28-11-2025,charter_drop,Ade Kuswoyo,08439831511,7,08:46,"Jl. Gg. Ciwastra No. 227, MALANG",H-2,520000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0358,SURABAYA-MALANG,18-09-2025,charter_harian,Restu Marpaung,08956051147,8,00:32,"Jl. Gg. Pasir Koja No. 117, SURABAYA",H-2,1000000,,,,,7.0,"Jl. Jalan Rajawali Timur No. 180, MALANG"
+KR-0359,MALANG-SURABAYA,20-06-2024,charter_harian,"Aslijan Pranowo, M.TI.",08936351834,1,06:31,"Jl. Jl. Asia Afrika No. 17, MALANG",V-50,1200000,,,,,7.0,"Jl. Gg. Ronggowarsito No. 36, SURABAYA"
+KR-0360,SURABAYA-MALANG,02-02-2025,charter_harian,Johan Agustina,08572092411,4,10:47,"Jl. Jl. Moch. Toha No. 42, SURABAYA",H-2,1800000,,,,,9.0,"Jl. Gg. Antapani Lama No. 182, MALANG"
+KR-0361,MALANG-SURABAYA,13-12-2025,charter_harian,Laila Anggriawan,08853370022,6,21:01,"Jl. Gg. Cikutra Timur No. 285, MALANG",H-2,1600000,,,,,1.0,"Jl. Gg. Asia Afrika No. 8, SURABAYA"
+KR-0362,MALANG-SURABAYA,20-02-2024,charter_harian,Dian Mayasari,08150320017,8,09:52,"Jl. Jl. Otto Iskandardinata No. 185, MALANG",H-2,1200000,,,,,4.0,"Jl. Gang HOS. Cokroaminoto No. 52, SURABAYA"
+KR-0363,SURABAYA-MALANG,28-06-2025,charter_harian,Cinthia Prabowo,08840044378,10,08:19,"Jl. Gg. Cikapayang No. 166, SURABAYA",V-50,1000000,,,,,2.0,"Jl. Jl. Suniaraja No. 25, MALANG"
+KR-0364,JUANDA-MALANG,11-06-2024,charter_drop,Prayoga Riyanti,08762098397,1,14:48,"Jl. Gang Cempaka No. 44, JUANDA",V-51,395000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0365,SURABAYA-MALANG,03-12-2024,charter_harian,Ibun Aryani,08992579391,3,15:44,"Jl. Gg. Jakarta No. 23, SURABAYA",S-2,650000,,,,,5.0,"Jl. Jalan BKR No. 14, MALANG"
+KR-0366,JUANDA-MALANG,18-11-2025,reguler,Wadi Prabowo,08965161034,1,23:27,"Jl. Gang Rajawali Timur No. 203, JUANDA",H-2,330000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0367,MALANG-SURABAYA,19-07-2025,charter_harian,Dadi Andriani,08559011705,2,00:22,"Jl. Gg. Pasir Koja No. 62, MALANG",H-2,1200000,,,,,5.0,"Jl. Jalan Dr. Djunjunan No. 86, SURABAYA"
+KR-0368,SURABAYA-MALANG,23-09-2025,charter_harian,Janet Utami,08127605986,10,11:03,"Jl. Jl. Jayawijaya No. 74, SURABAYA",X-2,1800000,,,,,10.0,"Jl. Jalan Tebet Barat Dalam No. 115, MALANG"
+KR-0369,MALANG-JUANDA,22-01-2025,reguler,"Drs. Bahuraksa Aryani, M.M.",08015116759,3,07:40,"Jl. Gg. Cikapayang No. 89, MALANG",V-52,540000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0370,MALANG-SURABAYA,21-01-2025,charter_harian,H. Halim Nugroho,08075825088,2,17:19,"Jl. Jalan Ahmad Yani No. 245, MALANG",Z-1,650000,,,,,2.0,"Jl. Gang Ronggowarsito No. 11, SURABAYA"
+KR-0371,MALANG-JUANDA,14-01-2024,charter_drop,"Irma Wibisono, S.Farm",08076388040,4,18:54,"Jl. Gang H.J Maemunah No. 238, MALANG",V-52,495000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0372,SURABAYA-MALANG,20-08-2025,charter_harian,Ian Padmasari,08580625894,4,04:29,"Jl. Jl. Erlangga No. 97, SURABAYA",Z-1,1800000,,,,,10.0,"Jl. Gang Rungkut Industri No. 284, MALANG"
+KR-0373,MALANG-JUANDA,01-05-2025,charter_drop,Puti Kurniawan,08099770650,6,21:46,"Jl. Jalan Gegerkalong Hilir No. 262, MALANG",Z-1,595000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0374,MALANG-SURABAYA,27-06-2025,charter_harian,Limar Prasasta,08409268846,8,03:02,"Jl. Jalan Abdul Muis No. 200, MALANG",H-2,1200000,,,,,10.0,"Jl. Gg. Rajiman No. 243, SURABAYA"
+KR-0375,MALANG-JUANDA,13-09-2024,reguler,Puji Permadi,08663855991,7,23:07,"Jl. Jalan Jamika No. 28, MALANG",H-2,1510000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0376,MALANG-SURABAYA,19-02-2025,charter_harian,"Adhiarja Tarihoran, M.Farm",08790295558,8,15:51,"Jl. Jl. Kendalsari No. 65, MALANG",H-2,650000,,,,,10.0,"Jl. Gg. Indragiri No. 135, SURABAYA"
+KR-0377,MALANG-SURABAYA,26-05-2024,charter_harian,Pangeran Thamrin,08280041676,7,01:49,"Jl. Jl. Cikutra Timur No. 54, MALANG",Z-1,1000000,,,,,9.0,"Jl. Jalan Rajawali Barat No. 278, SURABAYA"
+KR-0378,SURABAYA-MALANG,27-07-2025,charter_harian,Puti Halimah,08563781932,4,13:01,"Jl. Gang Veteran No. 10, SURABAYA",V-50,1000000,,,,,3.0,"Jl. Gang Rajiman No. 171, MALANG"
+KR-0379,SURABAYA-MALANG,20-05-2025,charter_harian,"Dr. Balamantri Laksmiwati, S.E.",08067658441,10,08:07,"Jl. Gang Sukajadi No. 57, SURABAYA",S-2,1800000,,,,,1.0,"Jl. Gg. Cikutra Timur No. 51, MALANG"
+KR-0380,SURABAYA-MALANG,05-01-2024,charter_harian,Karta Melani,08139616767,7,20:28,"Jl. Gang Ahmad Dahlan No. 168, SURABAYA",H-2,1900000,,,,,10.0,"Jl. Gang S. Parman No. 124, MALANG"
+KR-0381,MALANG-JUANDA,15-06-2024,reguler,"Drs. Nilam Farida, S.Sos",08732555131,6,09:33,"Jl. Gang Dipenogoro No. 166, MALANG",H-2,1155000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0382,JUANDA-MALANG,13-06-2024,reguler,"Jaka Iswahyudi, S.Pt",08050913508,9,23:30,"Jl. Gang Wonoayu No. 81, JUANDA",Z-1,1920000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0383,SURABAYA-MALANG,25-10-2025,charter_harian,Bahuraksa Kusmawati,08843399049,5,00:12,"Jl. Jl. Raya Ujungberung No. 90, SURABAYA",Z-1,1800000,,,,,6.0,"Jl. Gang Pelajar Pejuang No. 166, MALANG"
+KR-0384,MALANG-JUANDA,16-03-2025,charter_drop,Paulin Melani,08884275364,10,04:07,"Jl. Jl. Peta No. 172, MALANG",H-2,595000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0385,SURABAYA-MALANG,06-04-2024,charter_harian,Ayu Wijayanti,08908535927,3,17:06,"Jl. Gg. H.J Maemunah No. 12, SURABAYA",H-2,1000000,,,,,7.0,"Jl. Jalan Sadang Serang No. 61, MALANG"
+KR-0386,JUANDA-MALANG,23-01-2025,charter_drop,Daryani Firmansyah,08266020023,3,21:52,"Jl. Jalan Erlangga No. 48, JUANDA",Z-1,520000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0387,MALANG-JUANDA,21-05-2024,charter_drop,Taswir Wijaya,08413164266,10,15:03,"Jl. Gg. S. Parman No. 128, MALANG",H-2,595000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0388,JUANDA-MALANG,06-03-2024,reguler,Rahmi Irawan,08492829959,8,23:52,"Jl. Jalan Erlangga No. 86, JUANDA",X-2,1715000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0389,SURABAYA-MALANG,30-06-2025,charter_harian,Tgk. Dasa Aryani,08958266383,9,07:32,"Jl. Jalan Ahmad Dahlan No. 268, SURABAYA",Z-1,1000000,,,,,3.0,"Jl. Gang Sentot Alibasa No. 7, MALANG"
+KR-0390,MALANG-SURABAYA,16-05-2024,charter_harian,Cahyanto Safitri,08598589339,4,04:21,"Jl. Gg. BKR No. 163, MALANG",Z-1,1000000,,,,,4.0,"Jl. Gang Ciwastra No. 243, SURABAYA"
+KR-0391,JUANDA-MALANG,27-12-2024,reguler,Hj. Zizi Dongoran,08384866426,8,01:17,"Jl. Gg. Pacuan Kuda No. 146, JUANDA",H-2,1565000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0392,MALANG-SURABAYA,10-08-2024,charter_harian,Farah Sitorus,08667196791,10,21:40,"Jl. Jl. Jayawijaya No. 288, MALANG",H-2,1600000,,,,,1.0,"Jl. Jalan Cikutra Timur No. 76, SURABAYA"
+KR-0393,SURABAYA-MALANG,15-04-2025,charter_harian,Kenes Mulyani,08080787357,8,12:44,"Jl. Jalan Ronggowarsito No. 288, SURABAYA",Z-1,1000000,,,,,4.0,"Jl. Jalan Ir. H. Djuanda No. 219, MALANG"
+KR-0394,MALANG-JUANDA,04-12-2024,reguler,"Tgk. Widya Nashiruddin, S.T.",08030516119,3,17:40,"Jl. Gg. Ahmad Yani No. 128, MALANG",Z-1,540000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0395,MALANG-SURABAYA,06-06-2024,charter_harian,Cayadi Budiman,08589042506,3,14:30,"Jl. Jl. Ronggowarsito No. 129, MALANG",Z-1,1200000,,,,,9.0,"Jl. Gg. Cikutra Timur No. 48, SURABAYA"
+KR-0396,SURABAYA-MALANG,21-01-2024,charter_harian,"Puti Vicky Wijayanti, S.H.",08278772453,9,08:23,"Jl. Gang Waringin No. 177, SURABAYA",Z-1,1800000,,,,,6.0,"Jl. Jl. Ahmad Yani No. 268, MALANG"
+KR-0397,SURABAYA-MALANG,21-05-2025,charter_harian,Nyana Handayani,08185823530,8,20:24,"Jl. Jalan W.R. Supratman No. 91, SURABAYA",Z-1,1600000,,,,,10.0,"Jl. Gang Asia Afrika No. 210, MALANG"
+KR-0398,JUANDA-MALANG,16-08-2024,charter_drop,Arsipatra Setiawan,08935426950,3,16:14,"Jl. Jl. W.R. Supratman No. 162, JUANDA",H-2,420000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0399,SURABAYA-MALANG,10-07-2024,charter_harian,Drs. Taufan Astuti,08278217459,5,00:08,"Jl. Gang Sukabumi No. 134, SURABAYA",Z-1,1200000,,,,,2.0,"Jl. Jalan Bangka Raya No. 153, MALANG"
+KR-0400,SURABAYA-MALANG,01-08-2025,charter_harian,Ilyas Habibi,08735523392,2,12:47,"Jl. Gang KH Amin Jasuta No. 89, SURABAYA",V-52,1800000,,,,,5.0,"Jl. Jl. Setiabudhi No. 271, MALANG"
+KR-0401,MALANG-SURABAYA,13-02-2024,charter_harian,"drg. Nilam Kurniawan, S.Pd",08258684118,1,09:40,"Jl. Jalan Pacuan Kuda No. 116, MALANG",H-2,1200000,,,,,1.0,"Jl. Gang S. Parman No. 233, SURABAYA"
+KR-0402,SURABAYA-MALANG,01-10-2024,charter_harian,H. Irfan Rahmawati,08086763564,1,20:54,"Jl. Jalan Kutai No. 20, SURABAYA",V-51,1100000,,,,,3.0,"Jl. Jl. Jayawijaya No. 174, MALANG"
+KR-0403,SURABAYA-MALANG,10-07-2025,charter_harian,Narji Andriani,08819936985,4,05:20,"Jl. Gg. Kutisari Selatan No. 84, SURABAYA",V-52,650000,,,,,9.0,"Jl. Gang Moch. Ramdan No. 137, MALANG"
+KR-0404,JUANDA-MALANG,09-11-2024,reguler,T. Wadi Utami,08739026813,2,10:21,"Jl. Jalan Jakarta No. 40, JUANDA",S-2,360000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0405,MALANG-SURABAYA,06-08-2024,charter_harian,Darijan Hidayat,08535344981,10,03:15,"Jl. Gg. Peta No. 118, MALANG",S-2,1200000,,,,,8.0,"Jl. Gang Monginsidi No. 138, SURABAYA"
+KR-0406,SURABAYA-MALANG,07-02-2024,charter_harian,"Praba Gunawan, S.E.I",08959682074,2,04:42,"Jl. Jalan Cempaka No. 208, SURABAYA",S-2,1200000,,,,,9.0,"Jl. Gg. Jakarta No. 286, MALANG"
+KR-0407,JUANDA-MALANG,23-10-2024,charter_drop,Najwa Dongoran,08580023881,8,16:35,"Jl. Jl. Tubagus Ismail No. 299, JUANDA",H-2,545000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0408,JUANDA-MALANG,24-07-2025,charter_drop,Ayu Megantara,08656536861,3,22:03,"Jl. Gg. Antapani Lama No. 62, JUANDA",H-2,570000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0409,MALANG-JUANDA,28-02-2024,charter_drop,Faizah Pradana,08455599379,1,11:39,"Jl. Jalan Gardujati No. 67, MALANG",V-50,395000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0410,MALANG-SURABAYA,23-04-2025,charter_harian,"dr. Hamima Habibi, S.Sos",08895400257,9,15:50,"Jl. Gg. M.H Thamrin No. 66, MALANG",Z-1,1500000,,,,,6.0,"Jl. Jl. Sukajadi No. 155, SURABAYA"
+KR-0411,SURABAYA-MALANG,14-07-2024,charter_harian,Hasim Saptono,08530228089,7,02:02,"Jl. Jl. M.H Thamrin No. 158, SURABAYA",Z-1,1200000,,,,,4.0,"Jl. Jalan Kendalsari No. 287, MALANG"
+KR-0412,MALANG-SURABAYA,13-05-2024,charter_harian,Clara Haryanti,08799172617,4,11:21,"Jl. Gang Rawamangun No. 139, MALANG",R-1,1800000,,,,,8.0,"Jl. Gg. Rumah Sakit No. 13, SURABAYA"
+KR-0413,MALANG-SURABAYA,11-11-2025,charter_harian,Kani Palastri,08625700209,3,13:41,"Jl. Gang Surapati No. 164, MALANG",Z-1,1200000,,,,,5.0,"Jl. Jl. Moch. Ramdan No. 60, SURABAYA"
+KR-0414,JUANDA-MALANG,15-08-2025,reguler,"Ir. Cinthia Wijaya, S.Ked",08841653744,9,21:33,"Jl. Jl. Joyoboyo No. 43, JUANDA",V-51,1870000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0415,SURABAYA-MALANG,28-08-2025,charter_harian,Karja Sitorus,08140171211,7,13:40,"Jl. Jalan Waringin No. 259, SURABAYA",H-2,1800000,,,,,3.0,"Jl. Jalan Tebet Barat Dalam No. 163, MALANG"
+KR-0416,MALANG-JUANDA,03-09-2024,reguler,Tgk. Karya Ardianto,08164518382,8,22:51,"Jl. Gg. Siliwangi No. 239, MALANG",R-1,1715000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0417,MALANG-JUANDA,18-07-2025,charter_drop,"Mutia Mardhiyah, M.Ak",08366770897,5,09:56,"Jl. Jalan Monginsidi No. 74, MALANG",R-1,470000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0418,MALANG-JUANDA,26-03-2025,charter_drop,Queen Hastuti,08511590129,7,07:30,"Jl. Jl. Medokan Ayu No. 132, MALANG",H-2,900000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0419,MALANG-JUANDA,17-09-2025,reguler,Hilda Uwais,08377291680,1,21:57,"Jl. Jl. Cikapayang No. 90, MALANG",H-2,280000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0420,MALANG-SURABAYA,08-07-2024,charter_harian,"R. Yoga Pratiwi, S.E.",08854301911,10,19:23,"Jl. Gang Ir. H. Djuanda No. 221, MALANG",X-2,1850000,,,,,6.0,"Jl. Gg. Raya Setiabudhi No. 99, SURABAYA"
+KR-0421,MALANG-SURABAYA,05-03-2024,charter_harian,"Lamar Mahendra, S.H.",08684634452,7,08:04,"Jl. Gang Jend. Sudirman No. 197, MALANG",Z-1,1200000,,,,,9.0,"Jl. Gg. Bangka Raya No. 89, SURABAYA"
+KR-0422,MALANG-SURABAYA,13-01-2025,charter_harian,Elma Pratiwi,08156087874,7,06:04,"Jl. Jalan Tebet Barat Dalam No. 148, MALANG",H-2,1200000,,,,,2.0,"Jl. Jl. Ahmad Yani No. 89, SURABAYA"
+KR-0423,MALANG-JUANDA,07-08-2024,charter_drop,Kani Melani,08071948996,5,19:36,"Jl. Jalan H.J Maemunah No. 215, MALANG",H-2,520000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0424,MALANG-JUANDA,09-04-2025,reguler,Drs. Anastasia Wijayanti,08863313282,5,05:34,"Jl. Gg. S. Parman No. 242, MALANG",Z-1,950000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0425,MALANG-SURABAYA,15-05-2025,charter_harian,"Sutan Bahuwarna Tarihoran, S.Pt",08877573969,8,11:05,"Jl. Jalan Jend. A. Yani No. 93, MALANG",X-2,1800000,,,,,5.0,"Jl. Jalan M.H Thamrin No. 218, SURABAYA"
+KR-0426,SURABAYA-MALANG,07-08-2025,charter_harian,Jamal Sihotang,08197574845,6,18:14,"Jl. Jl. Sentot Alibasa No. 27, SURABAYA",H-2,1850000,,,,,7.0,"Jl. Jalan Gegerkalong Hilir No. 123, MALANG"
+KR-0427,SURABAYA-MALANG,19-04-2024,charter_harian,Ghaliyati Waluyo,08535319555,1,16:51,"Jl. Gang Bangka Raya No. 196, SURABAYA",H-2,1200000,,,,,5.0,"Jl. Gg. Joyoboyo No. 272, MALANG"
+KR-0428,JUANDA-MALANG,03-07-2024,charter_drop,Dr. Wardi Widodo,08211377782,3,03:53,"Jl. Gang Dipenogoro No. 135, JUANDA",V-50,420000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0429,JUANDA-MALANG,08-05-2025,charter_drop,"Kamal Pradipta, S.Pd",08892359361,6,01:22,"Jl. Jl. Raya Ujungberung No. 247, JUANDA",Z-1,495000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0430,MALANG-SURABAYA,14-09-2025,charter_harian,Olivia Wahyuni,08280608273,7,15:53,"Jl. Gang H.J Maemunah No. 173, MALANG",H-2,1000000,,,,,1.0,"Jl. Jalan Ciwastra No. 174, SURABAYA"
+KR-0431,MALANG-SURABAYA,31-08-2024,charter_harian,"Ratih Habibi, M.Pd",08361249376,2,15:24,"Jl. Jl. Astana Anyar No. 207, MALANG",Z-1,1200000,,,,,6.0,"Jl. Gang Cikutra Barat No. 257, SURABAYA"
+KR-0432,MALANG-SURABAYA,31-08-2025,charter_harian,Pia Mulyani,08607725392,9,10:37,"Jl. Jalan Waringin No. 108, MALANG",H-2,1000000,,,,,2.0,"Jl. Gg. Laswi No. 250, SURABAYA"
+KR-0433,MALANG-SURABAYA,17-09-2024,charter_harian,"dr. Rika Widiastuti, S.Kom",08710899652,7,14:09,"Jl. Gang Gardujati No. 71, MALANG",H-2,1500000,,,,,1.0,"Jl. Gg. K.H. Wahid Hasyim No. 225, SURABAYA"
+KR-0434,MALANG-JUANDA,13-05-2025,reguler,"dr. Balamantri Tamba, S.IP",08526987554,6,01:28,"Jl. Jalan Rungkut Industri No. 72, MALANG",Z-1,1155000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0435,MALANG-SURABAYA,03-04-2025,charter_harian,Salsabila Najmudin,08033560433,5,18:12,"Jl. Jl. Suryakencana No. 147, MALANG",V-52,1250000,,,,,2.0,"Jl. Gg. Gegerkalong Hilir No. 166, SURABAYA"
+KR-0436,SURABAYA-MALANG,13-04-2024,charter_harian,T. Luthfi Purwanti,08606813226,2,10:04,"Jl. Gang H.J Maemunah No. 181, SURABAYA",H-2,1200000,,,,,3.0,"Jl. Gang Pacuan Kuda No. 264, MALANG"
+KR-0437,MALANG-JUANDA,26-11-2024,charter_drop,Yoga Astuti,08899015944,5,00:58,"Jl. Gang Jakarta No. 79, MALANG",H-2,470000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0438,SURABAYA-MALANG,25-03-2024,charter_harian,Victoria Pertiwi,08529245185,8,14:38,"Jl. Gang Jend. Sudirman No. 277, SURABAYA",H-2,1500000,,,,,8.0,"Jl. Gg. Stasiun Wonokromo No. 32, MALANG"
+KR-0439,MALANG-JUANDA,04-12-2024,charter_drop,Kawaya Astuti,08061904144,10,22:52,"Jl. Gg. Moch. Toha No. 244, MALANG",X-2,745000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0440,MALANG-JUANDA,13-09-2025,charter_drop,Sidiq Saefullah,08290963900,9,14:29,"Jl. Jalan Sentot Alibasa No. 220, MALANG",Z-1,570000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0441,MALANG-JUANDA,29-02-2024,charter_drop,Jail Sihotang,08443878806,1,20:51,"Jl. Gang Suniaraja No. 279, MALANG",H-2,495000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0442,MALANG-SURABAYA,11-08-2024,charter_harian,"Syahrini Riyanti, M.Pd",08033438780,9,14:50,"Jl. Gg. Moch. Toha No. 275, MALANG",S-2,650000,,,,,1.0,"Jl. Gg. Setiabudhi No. 104, SURABAYA"
+KR-0443,SURABAYA-MALANG,06-10-2024,charter_harian,"Tgk. Okto Pangestu, M.M.",08675894547,8,09:32,"Jl. Jalan Rajiman No. 159, SURABAYA",Z-1,1800000,,,,,3.0,"Jl. Gang Kutai No. 29, MALANG"
+KR-0444,JUANDA-MALANG,09-01-2024,charter_drop,"Lala Melani, S.Sos",08811913012,1,03:02,"Jl. Gang Sukajadi No. 125, JUANDA",Z-1,395000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0445,JUANDA-MALANG,08-04-2024,charter_drop,"Puput Saragih, S.H.",08222258320,4,04:22,"Jl. Jalan Raya Ujungberung No. 273, JUANDA",Z-1,445000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0446,MALANG-SURABAYA,03-01-2024,charter_harian,Ratih Megantara,08517985107,4,08:23,"Jl. Jl. Kutisari Selatan No. 123, MALANG",Z-1,1200000,,,,,5.0,"Jl. Gang Kapten Muslihat No. 180, SURABAYA"
+KR-0447,JUANDA-MALANG,02-05-2024,reguler,Galih Halim,08341777020,10,01:57,"Jl. Gang KH Amin Jasuta No. 259, JUANDA",H-2,1975000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0448,SURABAYA-MALANG,24-10-2024,charter_harian,Lukita Mayasari,08174379870,10,06:15,"Jl. Gang S. Parman No. 279, SURABAYA",H-2,650000,,,,,9.0,"Jl. Jalan HOS. Cokroaminoto No. 2, MALANG"
+KR-0449,MALANG-SURABAYA,19-02-2025,charter_harian,"R.M. Mujur Prayoga, M.M.",08313338899,9,02:31,"Jl. Jalan Otto Iskandardinata No. 248, MALANG",H-2,1800000,,,,,7.0,"Jl. Gg. M.T Haryono No. 88, SURABAYA"
+KR-0450,MALANG-JUANDA,25-09-2025,reguler,Umay Tamba,08182711020,5,04:38,"Jl. Gang Pasirkoja No. 54, MALANG",V-50,950000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0451,MALANG-JUANDA,29-05-2024,reguler,Irma Nasyiah,08679626102,6,19:55,"Jl. Gg. Rungkut Industri No. 103, MALANG",H-2,1205000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0452,MALANG-JUANDA,20-05-2025,reguler,"Cut Ayu Hartati, M.Farm",08519469379,9,09:01,"Jl. Jl. Monginsidi No. 191, MALANG",X-2,1770000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0453,MALANG-SURABAYA,26-04-2024,charter_harian,Ira Sihotang,08793929938,3,16:51,"Jl. Jl. Moch. Toha No. 177, MALANG",R-1,1000000,,,,,1.0,"Jl. Gang Ciumbuleuit No. 186, SURABAYA"
+KR-0454,JUANDA-MALANG,25-03-2024,reguler,"Eko Tarihoran, S.Psi",08990366752,8,05:12,"Jl. Jl. Kutai No. 103, JUANDA",S-2,1565000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0455,MALANG-JUANDA,10-11-2024,reguler,"Sutan Prakosa Lailasari, S.Pt",08690798829,4,19:13,"Jl. Jl. Kutisari Selatan No. 184, MALANG",V-52,795000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0456,JUANDA-MALANG,25-07-2024,charter_drop,Radit Ramadan,08261632462,3,02:53,"Jl. Jalan R.E Martadinata No. 297, JUANDA",Z-1,420000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0457,SURABAYA-MALANG,26-08-2024,charter_harian,Hesti Mandasari,08914990163,8,13:01,"Jl. Jalan Asia Afrika No. 172, SURABAYA",R-1,1200000,,,,,9.0,"Jl. Jl. Gegerkalong Hilir No. 229, MALANG"
+KR-0458,SURABAYA-MALANG,02-04-2025,charter_harian,Tari Firgantoro,08158958322,8,02:59,"Jl. Gg. Rajawali Timur No. 64, SURABAYA",H-2,1000000,,,,,5.0,"Jl. Jalan Dr. Djunjunan No. 228, MALANG"
+KR-0459,SURABAYA-MALANG,08-05-2025,charter_harian,"KH. Gamani Mulyani, M.Pd",08176334125,9,08:27,"Jl. Jl. Gardujati No. 146, SURABAYA",V-52,1200000,,,,,6.0,"Jl. Jalan Rumah Sakit No. 84, MALANG"
+KR-0460,SURABAYA-MALANG,25-02-2025,charter_harian,Irnanto Permadi,08894213052,4,03:11,"Jl. Jl. Cihampelas No. 18, SURABAYA",H-2,1800000,,,,,8.0,"Jl. Jalan Merdeka No. 127, MALANG"
+KR-0461,JUANDA-MALANG,18-12-2024,charter_drop,R. Mariadi Saefullah,08884807739,8,01:43,"Jl. Jl. Sadang Serang No. 280, JUANDA",V-52,545000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0462,SURABAYA-MALANG,16-01-2024,charter_harian,Tari Namaga,08494659490,2,18:13,"Jl. Jl. Jayawijaya No. 143, SURABAYA",Z-1,1550000,,,,,6.0,"Jl. Gg. Tubagus Ismail No. 148, MALANG"
+KR-0463,SURABAYA-MALANG,16-04-2024,charter_harian,Putu Marbun,08981868347,10,01:45,"Jl. Jalan Tebet Barat Dalam No. 15, SURABAYA",H-2,1800000,,,,,1.0,"Jl. Jalan Laswi No. 297, MALANG"
+KR-0464,SURABAYA-MALANG,05-01-2025,charter_harian,Garan Damanik,08877046631,5,19:43,"Jl. Jalan Cihampelas No. 187, SURABAYA",V-51,1250000,,,,,6.0,"Jl. Gg. Kapten Muslihat No. 155, MALANG"
+KR-0465,SURABAYA-MALANG,13-09-2025,charter_harian,Padmi Kusumo,08504363560,10,04:27,"Jl. Jl. Merdeka No. 130, SURABAYA",H-2,1500000,,,,,2.0,"Jl. Jalan Jend. A. Yani No. 82, MALANG"
+KR-0466,SURABAYA-MALANG,21-03-2024,charter_harian,"Ida Prasetyo, M.Kom.",08404926588,6,17:18,"Jl. Gg. Rungkut Industri No. 42, SURABAYA",H-2,1200000,,,,,10.0,"Jl. Gg. R.E Martadinata No. 96, MALANG"
+KR-0467,MALANG-JUANDA,09-01-2024,charter_drop,Darmaji Suryono,08629310111,10,23:14,"Jl. Jalan Suryakencana No. 110, MALANG",H-2,745000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0468,SURABAYA-MALANG,31-01-2025,charter_harian,R.A. Natalia Rahayu,08571298203,7,18:20,"Jl. Gang Jamika No. 193, SURABAYA",X-2,700000,,,,,8.0,"Jl. Jalan Kutisari Selatan No. 142, MALANG"
+KR-0469,MALANG-SURABAYA,11-09-2024,charter_harian,Eka Yolanda,08617599147,1,18:47,"Jl. Jalan Ciwastra No. 183, MALANG",V-51,1050000,,,,,4.0,"Jl. Jalan BKR No. 149, SURABAYA"
+KR-0470,SURABAYA-MALANG,18-11-2024,charter_harian,"R.A. Rachel Yulianti, M.Ak",08275710002,1,16:13,"Jl. Gang Ir. H. Djuanda No. 239, SURABAYA",H-2,1200000,,,,,10.0,"Jl. Gang Otto Iskandardinata No. 229, MALANG"
+KR-0471,MALANG-JUANDA,09-02-2025,charter_drop,"Tgk. Kayla Prabowo, S.IP",08876656869,8,05:35,"Jl. Jalan Wonoayu No. 19, MALANG",H-2,545000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0472,MALANG-SURABAYA,09-03-2024,charter_harian,Kemba Gunawan,08226011677,6,06:54,"Jl. Gg. Peta No. 101, MALANG",S-2,1500000,,,,,7.0,"Jl. Gg. Jend. A. Yani No. 240, SURABAYA"
+KR-0473,MALANG-JUANDA,29-07-2024,charter_drop,"Harimurti Purwanti, S.IP",08465420674,4,00:20,"Jl. Gang PHH. Mustofa No. 213, MALANG",H-2,445000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0474,JUANDA-MALANG,23-01-2025,charter_drop,Maimunah Rajasa,08024794296,3,11:40,"Jl. Jalan Kebonjati No. 188, JUANDA",Z-1,420000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0475,MALANG-SURABAYA,19-11-2024,charter_harian,Nugraha Hidayanto,08472256697,6,02:56,"Jl. Gg. S. Parman No. 122, MALANG",H-2,1000000,,,,,9.0,"Jl. Gg. Jakarta No. 132, SURABAYA"
+KR-0476,JUANDA-MALANG,28-11-2024,reguler,Ir. Alika Pudjiastuti,08453698617,2,23:47,"Jl. Gang Jakarta No. 250, JUANDA",R-1,510000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0477,JUANDA-MALANG,16-03-2024,charter_drop,"Ir. Eko Iswahyudi, S.Farm",08011102086,3,01:11,"Jl. Jl. Peta No. 164, JUANDA",H-2,420000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0478,MALANG-JUANDA,16-02-2025,reguler,Mutia Mustofa,08307384608,1,18:44,"Jl. Jl. Abdul Muis No. 147, MALANG",H-2,230000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0479,MALANG-SURABAYA,29-05-2025,charter_harian,Ana Nashiruddin,08156925249,9,07:19,"Jl. Jl. Monginsidi No. 194, MALANG",Z-1,1000000,,,,,6.0,"Jl. Jl. H.J Maemunah No. 131, SURABAYA"
+KR-0480,MALANG-SURABAYA,30-01-2025,charter_harian,Salwa Hartati,08121433220,2,09:25,"Jl. Gang Suniaraja No. 32, MALANG",H-2,1200000,,,,,8.0,"Jl. Gg. Pasirkoja No. 154, SURABAYA"
+KR-0481,MALANG-JUANDA,08-12-2025,reguler,Mahesa Nasyidah,08023474355,7,13:54,"Jl. Gang Rawamangun No. 168, MALANG",V-50,1360000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0482,JUANDA-MALANG,18-04-2024,reguler,Ibrahim Nasyidah,08516824459,10,17:04,"Jl. Gg. Gegerkalong Hilir No. 27, JUANDA",Z-1,1975000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0483,MALANG-SURABAYA,22-08-2024,charter_harian,"Marsito Yuliarti, S.H.",08521965580,7,06:19,"Jl. Gg. W.R. Supratman No. 5, MALANG",V-51,1200000,,,,,6.0,"Jl. Jalan Pasir Koja No. 110, SURABAYA"
+KR-0484,MALANG-JUANDA,30-01-2024,charter_drop,Drs. Vanesa Hutapea,08347451691,5,11:28,"Jl. Gg. Siliwangi No. 190, MALANG",Z-1,470000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0485,MALANG-JUANDA,02-07-2024,charter_drop,"Puspa Anggraini, S.Ked",08308062066,9,08:47,"Jl. Jalan Suniaraja No. 230, MALANG",R-1,570000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0486,MALANG-SURABAYA,22-01-2025,charter_harian,Titin Hariyah,08997755099,9,01:47,"Jl. Gg. R.E Martadinata No. 99, MALANG",X-2,1800000,,,,,8.0,"Jl. Gg. Raya Setiabudhi No. 172, SURABAYA"
+KR-0487,SURABAYA-MALANG,16-09-2024,charter_harian,"dr. Elisa Hutapea, M.M.",08650738171,7,09:13,"Jl. Jalan Lembong No. 104, SURABAYA",H-2,1200000,,,,,8.0,"Jl. Gang Ronggowarsito No. 107, MALANG"
+KR-0488,MALANG-SURABAYA,21-07-2025,charter_harian,Humaira Halim,08932409254,7,16:54,"Jl. Gg. Suryakencana No. 161, MALANG",Z-1,1200000,,,,,5.0,"Jl. Gg. Sukajadi No. 194, SURABAYA"
+KR-0489,JUANDA-MALANG,06-08-2024,charter_drop,Usyi Siregar,08953866682,2,14:11,"Jl. Gang Merdeka No. 247, JUANDA",Z-1,395000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0490,JUANDA-MALANG,14-03-2024,charter_drop,Tari Halimah,08209577856,2,03:38,"Jl. Jl. Yos Sudarso No. 278, JUANDA",Z-1,395000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0491,JUANDA-MALANG,02-06-2024,reguler,Yunita Tarihoran,08060474381,1,22:32,"Jl. Jl. Jamika No. 65, JUANDA",S-2,330000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0492,MALANG-SURABAYA,18-06-2024,charter_harian,Gandi Haryanti,08436739150,7,09:22,"Jl. Jalan Kebonjati No. 183, MALANG",H-2,1200000,,,,,4.0,"Jl. Jl. Pacuan Kuda No. 184, SURABAYA"
+KR-0493,MALANG-SURABAYA,10-01-2024,charter_harian,Sari Halimah,08814472439,3,07:40,"Jl. Gg. Laswi No. 39, MALANG",Z-1,1200000,,,,,9.0,"Jl. Gang Kebonjati No. 147, SURABAYA"
+KR-0494,JUANDA-MALANG,07-04-2024,charter_drop,Kurnia Palastri,08342611433,7,20:00,"Jl. Gg. Suryakencana No. 34, JUANDA",H-2,620000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0495,MALANG-SURABAYA,30-10-2025,charter_harian,"Anita Rahayu, S.Sos",08070662462,5,07:10,"Jl. Jalan Tubagus Ismail No. 149, MALANG",H-2,1500000,,,,,4.0,"Jl. Gang Sukajadi No. 273, SURABAYA"
+KR-0496,SURABAYA-MALANG,09-10-2025,charter_harian,dr. Alika Widiastuti,08955342620,6,22:41,"Jl. Gg. Kutai No. 51, SURABAYA",Z-1,800000,,,,,8.0,"Jl. Gg. BKR No. 261, MALANG"
+KR-0497,SURABAYA-MALANG,29-12-2024,charter_harian,Lala Budiman,08715270486,6,21:44,"Jl. Jl. Ahmad Yani No. 28, SURABAYA",H-2,1600000,,,,,7.0,"Jl. Gang Medokan Ayu No. 49, MALANG"
+KR-0498,JUANDA-MALANG,10-10-2024,reguler,Mahfud Zulkarnain,08808659916,7,21:56,"Jl. Gg. Setiabudhi No. 182, JUANDA",Z-1,1460000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0499,SURABAYA-MALANG,21-04-2024,charter_harian,KH. Cahyono Permata,08597101356,3,21:15,"Jl. Jl. Jend. A. Yani No. 258, SURABAYA",X-2,1600000,,,,,7.0,"Jl. Jl. Siliwangi No. 90, MALANG"
+KR-0500,JUANDA-MALANG,09-01-2025,reguler,Shakila Saptono,08139377518,5,08:29,"Jl. Jalan Veteran No. 67, JUANDA",V-50,950000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0501,MALANG-JUANDA,21-10-2025,charter_drop,"Dr. Oni Nugroho, M.Ak",08224017712,5,19:02,"Jl. Jalan Ir. H. Djuanda No. 27, MALANG",X-2,520000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0502,SURABAYA-MALANG,05-03-2025,charter_harian,Wirda Prabowo,08240814996,5,21:04,"Jl. Jalan Ahmad Dahlan No. 34, SURABAYA",Z-1,1600000,,,,,6.0,"Jl. Jl. Cihampelas No. 243, MALANG"
+KR-0503,MALANG-SURABAYA,02-05-2024,charter_harian,"Daruna Thamrin, M.Farm",08701302341,1,20:11,"Jl. Jl. Sukajadi No. 97, MALANG",R-1,1300000,,,,,5.0,"Jl. Jl. Stasiun Wonokromo No. 279, SURABAYA"
+KR-0504,JUANDA-MALANG,10-01-2025,reguler,dr. Among Hidayanto,08348150177,5,09:18,"Jl. Gg. Monginsidi No. 26, JUANDA",H-2,950000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0505,MALANG-JUANDA,16-12-2024,charter_drop,Rahmi Nugroho,08532747960,2,20:40,"Jl. Gang Rajiman No. 216, MALANG",R-1,495000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0506,MALANG-SURABAYA,28-04-2024,charter_harian,Wakiman Prayoga,08153965178,2,15:56,"Jl. Jalan HOS. Cokroaminoto No. 77, MALANG",Z-1,1200000,,,,,6.0,"Jl. Jalan Sukabumi No. 278, SURABAYA"
+KR-0507,MALANG-JUANDA,02-03-2024,reguler,Jane Andriani,08166119905,2,12:10,"Jl. Gang Lembong No. 126, MALANG",Z-1,360000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0508,SURABAYA-MALANG,12-11-2025,charter_harian,Rama Dongoran,08658859035,1,00:03,"Jl. Jalan Rajawali Barat No. 55, SURABAYA",S-2,1500000,,,,,1.0,"Jl. Gg. Veteran No. 255, MALANG"
+KR-0509,MALANG-SURABAYA,29-12-2024,charter_harian,Sarah Hidayanto,08495344364,9,05:10,"Jl. Jl. Setiabudhi No. 54, MALANG",H-2,650000,,,,,3.0,"Jl. Jl. Laswi No. 216, SURABAYA"
+KR-0510,MALANG-SURABAYA,11-01-2024,charter_harian,Zamira Winarsih,08680254850,9,09:55,"Jl. Gg. Joyoboyo No. 67, MALANG",R-1,1200000,,,,,8.0,"Jl. Jalan Sentot Alibasa No. 173, SURABAYA"
+KR-0511,SURABAYA-MALANG,25-03-2025,charter_harian,"Syahrini Sihombing, S.Pt",08435239321,2,10:38,"Jl. Jl. Jend. A. Yani No. 21, SURABAYA",Z-1,1800000,,,,,3.0,"Jl. Jalan Pasir Koja No. 74, MALANG"
+KR-0512,MALANG-JUANDA,12-05-2025,reguler,Betania Prastuti,08513124059,7,13:37,"Jl. Jl. Tebet Barat Dalam No. 29, MALANG",H-2,1360000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0513,MALANG-SURABAYA,30-06-2024,charter_harian,"Dr. Raisa Maheswara, M.Pd",08994106655,6,08:48,"Jl. Jalan H.J Maemunah No. 177, MALANG",Z-1,1000000,,,,,5.0,"Jl. Jl. Antapani Lama No. 279, SURABAYA"
+KR-0514,MALANG-SURABAYA,23-04-2025,charter_harian,Icha Wacana,08353738037,9,01:57,"Jl. Jl. Rajiman No. 120, MALANG",V-52,1800000,,,,,6.0,"Jl. Jalan Siliwangi No. 168, SURABAYA"
+KR-0515,SURABAYA-MALANG,16-01-2025,charter_harian,Heru Iswahyudi,08694167310,6,09:53,"Jl. Jalan Rawamangun No. 31, SURABAYA",R-1,1800000,,,,,4.0,"Jl. Jalan Laswi No. 269, MALANG"
+KR-0516,JUANDA-MALANG,10-10-2024,charter_drop,"Dr. Jinawi Mustofa, M.M.",08131935682,8,01:18,"Jl. Jl. BKR No. 296, JUANDA",Z-1,545000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0517,SURABAYA-MALANG,03-09-2025,charter_harian,"Ir. Rika Yolanda, S.Kom",08529869449,4,08:33,"Jl. Gang Surapati No. 279, SURABAYA",H-2,1000000,,,,,6.0,"Jl. Gang M.H Thamrin No. 43, MALANG"
+KR-0518,MALANG-JUANDA,23-09-2025,reguler,"Karsana Pertiwi, S.Gz",08211122372,5,00:45,"Jl. Gang Pasir Koja No. 4, MALANG",Z-1,950000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0519,JUANDA-MALANG,29-01-2025,charter_drop,"Atma Prasetya, S.Pt",08833472123,5,07:21,"Jl. Gg. Kapten Muslihat No. 68, JUANDA",H-2,470000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0520,MALANG-SURABAYA,13-03-2025,charter_harian,Gandi Tarihoran,08704692064,9,00:00,"Jl. Jalan R.E Martadinata No. 223, MALANG",H-2,1200000,,,,,3.0,"Jl. Jalan Astana Anyar No. 29, SURABAYA"
+KR-0521,MALANG-SURABAYA,10-06-2024,charter_harian,"KH. Indra Iswahyudi, S.Pd",08212772803,7,06:11,"Jl. Gg. Pacuan Kuda No. 224, MALANG",Z-1,650000,,,,,7.0,"Jl. Gg. Moch. Ramdan No. 110, SURABAYA"
+KR-0522,JUANDA-MALANG,05-08-2024,charter_drop,"Ridwan Wacana, S.E.",08170272722,3,16:56,"Jl. Gang Jayawijaya No. 212, JUANDA",H-2,420000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0523,MALANG-SURABAYA,04-02-2025,charter_harian,Arsipatra Hastuti,08677282865,8,17:23,"Jl. Gang Rajiman No. 6, MALANG",Z-1,1200000,,,,,7.0,"Jl. Jl. Gegerkalong Hilir No. 40, SURABAYA"
+KR-0524,MALANG-JUANDA,04-05-2025,reguler,Silvia Setiawan,08491498740,4,22:33,"Jl. Jl. Wonoayu No. 255, MALANG",V-52,895000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0525,MALANG-SURABAYA,04-12-2024,charter_harian,Zahra Salahudin,08672613862,1,20:19,"Jl. Gang Kebonjati No. 44, MALANG",H-2,1300000,,,,,7.0,"Jl. Gg. HOS. Cokroaminoto No. 216, SURABAYA"
+KR-0526,SURABAYA-MALANG,08-08-2025,charter_harian,"R.A. Mila Maheswara, S.Psi",08575365670,1,01:27,"Jl. Jalan Suniaraja No. 206, SURABAYA",Z-1,650000,,,,,7.0,"Jl. Jl. Ahmad Yani No. 66, MALANG"
+KR-0527,MALANG-SURABAYA,18-05-2025,charter_harian,Sutan Yahya Pranowo,08650340084,4,00:09,"Jl. Jalan Astana Anyar No. 147, MALANG",Z-1,1800000,,,,,10.0,"Jl. Gg. M.T Haryono No. 251, SURABAYA"
+KR-0528,MALANG-JUANDA,05-10-2024,reguler,Rahmi Wastuti,08758212035,7,02:54,"Jl. Gg. Rajawali Timur No. 142, MALANG",V-52,1360000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0529,JUANDA-MALANG,07-08-2024,charter_drop,Dinda Gunarto,08838113375,8,21:46,"Jl. Jalan S. Parman No. 262, JUANDA",H-2,645000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0530,MALANG-JUANDA,18-12-2025,charter_drop,Drs. Julia Wibisono,08061824538,2,21:58,"Jl. Gang Raya Setiabudhi No. 24, MALANG",Z-1,495000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0531,MALANG-JUANDA,04-09-2024,charter_drop,Jelita Simanjuntak,08371088119,4,05:35,"Jl. Gg. Ciwastra No. 163, MALANG",Z-1,445000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0532,JUANDA-MALANG,14-08-2025,reguler,Usyi Uwais,08435635675,7,15:21,"Jl. Jl. KH Amin Jasuta No. 191, JUANDA",H-2,1360000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0533,MALANG-JUANDA,14-10-2025,reguler,Tgk. Unjani Winarsih,08438421573,10,05:16,"Jl. Jalan BKR No. 61, MALANG",H-2,1975000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0534,JUANDA-MALANG,13-04-2025,charter_drop,"Ifa Suartini, M.Kom.",08286774780,1,20:01,"Jl. Gg. Ahmad Yani No. 116, JUANDA",H-2,495000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0535,SURABAYA-MALANG,14-01-2025,charter_harian,Wage Kusumo,08975488346,7,03:04,"Jl. Gg. Astana Anyar No. 79, SURABAYA",H-2,1500000,,,,,3.0,"Jl. Jalan Dr. Djunjunan No. 22, MALANG"
+KR-0536,MALANG-JUANDA,07-07-2025,charter_drop,Pia Aryani,08266265442,10,02:59,"Jl. Jalan Rajawali Barat No. 4, MALANG",H-2,595000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0537,MALANG-JUANDA,20-06-2024,charter_drop,Wardi Lazuardi,08868598215,5,20:48,"Jl. Jalan Gedebage Selatan No. 235, MALANG",H-2,570000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0538,SURABAYA-MALANG,27-04-2024,charter_harian,Cemani Uyainah,08571893495,4,09:30,"Jl. Gg. R.E Martadinata No. 36, SURABAYA",Z-1,1200000,,,,,8.0,"Jl. Gg. Monginsidi No. 46, MALANG"
+KR-0539,SURABAYA-MALANG,06-06-2024,charter_harian,Mahdi Aryani,08758166702,7,06:12,"Jl. Gang Moch. Ramdan No. 151, SURABAYA",X-2,1800000,,,,,5.0,"Jl. Jalan Bangka Raya No. 118, MALANG"
+KR-0540,MALANG-JUANDA,18-12-2025,reguler,"Harsana Hutagalung, S.E.I",08182312705,10,05:23,"Jl. Jl. Ronggowarsito No. 123, MALANG",Z-1,1975000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0541,MALANG-SURABAYA,24-09-2025,charter_harian,Putu Anggriawan,08903272017,4,17:17,"Jl. Gang Jend. A. Yani No. 216, MALANG",Z-1,1500000,,,,,6.0,"Jl. Jl. Indragiri No. 29, SURABAYA"
+KR-0542,SURABAYA-MALANG,29-02-2024,charter_harian,Uli Prasetya,08655120218,9,02:49,"Jl. Gg. Gardujati No. 105, SURABAYA",V-51,1200000,,,,,2.0,"Jl. Gg. Kiaracondong No. 166, MALANG"
+KR-0543,JUANDA-MALANG,25-10-2024,reguler,Patricia Agustina,08774975711,10,12:04,"Jl. Gang Suryakencana No. 123, JUANDA",H-2,1975000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0544,MALANG-JUANDA,17-10-2025,reguler,Zalindra Prayoga,08775948399,10,17:05,"Jl. Jl. Cikapayang No. 84, MALANG",H-2,1975000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0545,JUANDA-MALANG,23-11-2024,charter_drop,Hairyanto Melani,08017600381,2,15:43,"Jl. Jalan M.H Thamrin No. 39, JUANDA",H-2,395000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0546,MALANG-SURABAYA,16-04-2025,charter_harian,"Jarwadi Safitri, M.Ak",08945759871,1,05:41,"Jl. Gg. Gedebage Selatan No. 201, MALANG",Z-1,1200000,,,,,10.0,"Jl. Gg. Pasirkoja No. 289, SURABAYA"
+KR-0547,MALANG-JUANDA,20-07-2024,charter_drop,Halima Mardhiyah,08781672566,8,17:09,"Jl. Jalan Waringin No. 206, MALANG",H-2,545000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0548,MALANG-JUANDA,16-10-2025,charter_drop,Vanesa Palastri,08929927594,8,18:13,"Jl. Gang Bangka Raya No. 233, MALANG",X-2,595000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0549,MALANG-JUANDA,29-12-2025,charter_drop,dr. Paulin Pratiwi,08881372375,2,13:40,"Jl. Gang Peta No. 62, MALANG",X-2,395000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0550,MALANG-SURABAYA,28-09-2025,charter_harian,"Adhiarja Sihombing, S.Kom",08243607888,1,05:51,"Jl. Jl. Rajiman No. 91, MALANG",Z-1,1000000,,,,,2.0,"Jl. Gg. Rajawali Barat No. 221, SURABAYA"
+KR-0551,MALANG-SURABAYA,07-06-2024,charter_harian,Elisa Wahyudin,08310928693,7,19:01,"Jl. Gang Moch. Toha No. 11, MALANG",H-2,1250000,,,,,2.0,"Jl. Jalan Ciumbuleuit No. 230, SURABAYA"
+KR-0552,MALANG-SURABAYA,18-04-2025,charter_harian,"Ir. Ikin Rahimah, S.Gz",08009223243,9,01:08,"Jl. Jl. Surapati No. 114, MALANG",H-2,1500000,,,,,4.0,"Jl. Gang Cikapayang No. 197, SURABAYA"
+KR-0553,SURABAYA-MALANG,27-08-2025,charter_harian,Clara Maulana,08294879527,2,22:10,"Jl. Jl. Rumah Sakit No. 285, SURABAYA",Z-1,1950000,,,,,8.0,"Jl. Gg. Jakarta No. 12, MALANG"
+KR-0554,SURABAYA-MALANG,31-12-2024,charter_harian,Febi Pangestu,08670007996,3,15:37,"Jl. Jl. Siliwangi No. 113, SURABAYA",R-1,1200000,,,,,5.0,"Jl. Jalan Pasirkoja No. 147, MALANG"
+KR-0555,MALANG-SURABAYA,03-03-2025,charter_harian,"Dr. Ajeng Zulaika, M.TI.",08880811890,6,23:46,"Jl. Jalan Ronggowarsito No. 31, MALANG",S-2,1350000,,,,,1.0,"Jl. Jalan Dipenogoro No. 5, SURABAYA"
+KR-0556,MALANG-JUANDA,10-09-2025,reguler,"Dr. Maimunah Mansur, S.Kom",08475436149,4,23:31,"Jl. Gg. Ir. H. Djuanda No. 297, MALANG",Z-1,895000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0557,SURABAYA-MALANG,28-01-2024,charter_harian,"R.M. Maryadi Halim, S.I.Kom",08123470195,1,09:12,"Jl. Jl. Jakarta No. 47, SURABAYA",Z-1,1000000,,,,,5.0,"Jl. Jl. Yos Sudarso No. 92, MALANG"
+KR-0558,JUANDA-MALANG,05-07-2025,reguler,R. Yance Setiawan,08752885173,10,11:07,"Jl. Jalan Jayawijaya No. 151, JUANDA",Z-1,1975000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0559,MALANG-SURABAYA,26-11-2025,charter_harian,Almira Suryono,08448483666,3,17:19,"Jl. Jalan Surapati No. 104, MALANG",V-50,1500000,,,,,9.0,"Jl. Jalan Ahmad Dahlan No. 48, SURABAYA"
+KR-0560,SURABAYA-MALANG,11-10-2025,charter_harian,Bagiya Samosir,08159160897,7,18:49,"Jl. Gg. Cikutra Barat No. 33, SURABAYA",H-2,1550000,,,,,3.0,"Jl. Jl. Suryakencana No. 73, MALANG"
+KR-0561,SURABAYA-MALANG,01-02-2024,charter_harian,"Hj. Tari Aryani, M.TI.",08706554401,5,02:42,"Jl. Gang Pasirkoja No. 139, SURABAYA",Z-1,1800000,,,,,6.0,"Jl. Gg. Jamika No. 100, MALANG"
+KR-0562,SURABAYA-MALANG,29-07-2024,charter_harian,Salsabila Pradipta,08843980715,10,16:48,"Jl. Gg. Ahmad Yani No. 157, SURABAYA",Z-1,1000000,,,,,2.0,"Jl. Jl. Sentot Alibasa No. 157, MALANG"
+KR-0563,MALANG-JUANDA,18-06-2024,reguler,"Rini Halim, M.Ak",08139542419,4,03:27,"Jl. Jalan PHH. Mustofa No. 286, MALANG",Z-1,745000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0564,MALANG-SURABAYA,01-07-2024,charter_harian,dr. Umi Januar,08566438219,9,19:45,"Jl. Gg. Moch. Toha No. 41, MALANG",Z-1,1050000,,,,,2.0,"Jl. Gg. HOS. Cokroaminoto No. 1, SURABAYA"
+KR-0565,JUANDA-MALANG,25-09-2024,reguler,Almira Damanik,08016120695,10,19:37,"Jl. Jalan Cihampelas No. 82, JUANDA",H-2,2025000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0566,MALANG-JUANDA,27-09-2025,reguler,Edi Sudiati,08099037262,7,13:11,"Jl. Jalan Cikapayang No. 161, MALANG",V-51,1360000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0567,SURABAYA-MALANG,29-03-2025,charter_harian,Drs. Putri Prasasta,08546270933,6,13:39,"Jl. Jl. HOS. Cokroaminoto No. 117, SURABAYA",V-52,1200000,,,,,5.0,"Jl. Jalan K.H. Wahid Hasyim No. 33, MALANG"
+KR-0568,JUANDA-MALANG,02-07-2025,charter_drop,Purwa Hutasoit,08712490953,6,21:45,"Jl. Gang Kapten Muslihat No. 244, JUANDA",Z-1,595000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0569,SURABAYA-MALANG,04-07-2024,charter_harian,Caraka Rahmawati,08430467701,10,03:14,"Jl. Gang Kiaracondong No. 65, SURABAYA",H-2,1200000,,,,,6.0,"Jl. Gg. Sentot Alibasa No. 51, MALANG"
+KR-0570,MALANG-JUANDA,20-06-2025,reguler,Maras Simbolon,08005914350,1,20:38,"Jl. Gang Lembong No. 51, MALANG",H-2,280000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0571,MALANG-SURABAYA,03-08-2024,charter_harian,Maya Suryono,08896742714,5,13:00,"Jl. Jl. Kendalsari No. 273, MALANG",R-1,1200000,,,,,2.0,"Jl. Jl. Medokan Ayu No. 88, SURABAYA"
+KR-0572,SURABAYA-MALANG,02-12-2024,charter_harian,drg. Wulan Putra,08783227200,5,16:05,"Jl. Gang KH Amin Jasuta No. 140, SURABAYA",R-1,1200000,,,,,1.0,"Jl. Gg. BKR No. 299, MALANG"
+KR-0573,JUANDA-MALANG,02-10-2024,charter_drop,"R.M. Rosman Pangestu, M.Ak",08010009216,6,21:20,"Jl. Jl. Tubagus Ismail No. 236, JUANDA",Z-1,595000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0574,MALANG-JUANDA,14-07-2025,reguler,Martaka Sihotang,08266420635,4,23:35,"Jl. Gg. Kutisari Selatan No. 152, MALANG",H-2,895000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0575,MALANG-JUANDA,06-06-2025,reguler,Cakrawala Sudiati,08173153118,7,09:35,"Jl. Gg. Setiabudhi No. 91, MALANG",Z-1,1360000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0576,MALANG-SURABAYA,14-07-2024,charter_harian,"Cut Restu Damanik, S.Ked",08219993400,9,18:01,"Jl. Jalan Joyoboyo No. 102, MALANG",H-2,1050000,,,,,3.0,"Jl. Gang Merdeka No. 68, SURABAYA"
+KR-0577,SURABAYA-MALANG,10-06-2024,charter_harian,Luis Yolanda,08998081027,6,20:39,"Jl. Gg. Kutisari Selatan No. 263, SURABAYA",Z-1,1300000,,,,,3.0,"Jl. Jalan K.H. Wahid Hasyim No. 25, MALANG"
+KR-0578,MALANG-JUANDA,06-12-2024,charter_drop,Anita Utami,08217129747,9,20:42,"Jl. Gang Astana Anyar No. 33, MALANG",X-2,670000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0579,MALANG-SURABAYA,01-09-2025,charter_harian,R. Baktiono Dabukke,08927751743,8,10:27,"Jl. Jalan Indragiri No. 76, MALANG",H-2,650000,,,,,8.0,"Jl. Gang Dr. Djunjunan No. 205, SURABAYA"
+KR-0580,SURABAYA-MALANG,08-06-2025,charter_harian,Gatra Nababan,08439161299,2,18:46,"Jl. Jl. Cempaka No. 155, SURABAYA",Z-1,700000,,,,,10.0,"Jl. Gg. Jend. A. Yani No. 136, MALANG"
+KR-0581,SURABAYA-MALANG,23-09-2024,charter_harian,Violet Mangunsong,08698577862,8,12:34,"Jl. Jalan Suryakencana No. 97, SURABAYA",H-2,1200000,,,,,9.0,"Jl. Jalan Cikapayang No. 179, MALANG"
+KR-0582,MALANG-JUANDA,27-04-2024,charter_drop,Kayla Rahimah,08301218902,6,18:41,"Jl. Jalan Soekarno Hatta No. 164, MALANG",H-2,545000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0583,MALANG-SURABAYA,26-11-2024,charter_harian,Dr. Pangeran Gunawan,08201087669,3,06:10,"Jl. Gg. Kapten Muslihat No. 114, MALANG",Z-1,1200000,,,,,10.0,"Jl. Jl. Jend. Sudirman No. 34, SURABAYA"
+KR-0584,SURABAYA-MALANG,24-09-2024,charter_harian,"Tina Pratiwi, S.Pd",08826249325,7,16:17,"Jl. Gang Kapten Muslihat No. 146, SURABAYA",Z-1,1000000,,,,,8.0,"Jl. Gg. Astana Anyar No. 213, MALANG"
+KR-0585,SURABAYA-MALANG,04-11-2025,charter_harian,Warsa Nashiruddin,08902321440,6,13:21,"Jl. Jl. Pasirkoja No. 74, SURABAYA",Z-1,1000000,,,,,1.0,"Jl. Gg. Tubagus Ismail No. 21, MALANG"
+KR-0586,MALANG-SURABAYA,15-03-2025,charter_harian,"Dt. Kariman Pranowo, M.Pd",08542027521,7,06:00,"Jl. Gang Rajawali Barat No. 75, MALANG",R-1,650000,,,,,6.0,"Jl. Gang Jend. A. Yani No. 34, SURABAYA"
+KR-0587,MALANG-SURABAYA,05-04-2025,charter_harian,Karimah Pradipta,08611168495,6,03:15,"Jl. Jalan M.H Thamrin No. 224, MALANG",H-2,1800000,,,,,3.0,"Jl. Jl. Rajawali Barat No. 248, SURABAYA"
+KR-0588,MALANG-JUANDA,25-05-2024,reguler,Eka Dabukke,08255231527,3,23:38,"Jl. Gg. Setiabudhi No. 106, MALANG",R-1,690000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0589,JUANDA-MALANG,06-02-2024,reguler,Farah Rahimah,08492415504,9,19:16,"Jl. Jl. Setiabudhi No. 58, JUANDA",X-2,1820000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0590,MALANG-JUANDA,14-09-2025,reguler,Tira Pudjiastuti,08816609623,4,22:45,"Jl. Jalan Gardujati No. 12, MALANG",R-1,895000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0591,SURABAYA-MALANG,20-10-2025,charter_harian,Hamima Palastri,08319016475,7,12:29,"Jl. Jl. K.H. Wahid Hasyim No. 273, SURABAYA",R-1,1200000,,,,,5.0,"Jl. Gang Antapani Lama No. 197, MALANG"
+KR-0592,MALANG-SURABAYA,16-07-2024,charter_harian,Carub Oktaviani,08049656655,1,07:15,"Jl. Jalan Lembong No. 78, MALANG",H-2,650000,,,,,4.0,"Jl. Gg. Tubagus Ismail No. 242, SURABAYA"
+KR-0593,MALANG-JUANDA,24-12-2025,reguler,R.A. Paris Siregar,08884535724,6,02:18,"Jl. Gg. Dr. Djunjunan No. 159, MALANG",Z-1,1155000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0594,SURABAYA-MALANG,10-01-2025,charter_harian,"Zamira Kuswoyo, S.E.I",08764395897,9,04:39,"Jl. Gg. Kutai No. 100, SURABAYA",Z-1,1000000,,,,,1.0,"Jl. Gg. Medokan Ayu No. 72, MALANG"
+KR-0595,JUANDA-MALANG,09-12-2024,reguler,"Karna Budiyanto, M.TI.",08739309990,2,06:03,"Jl. Gang Rajawali Barat No. 59, JUANDA",Z-1,360000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0596,SURABAYA-MALANG,24-05-2024,charter_harian,"H. Ajimin Yolanda, S.Ked",08463979491,7,12:43,"Jl. Jalan Kendalsari No. 15, SURABAYA",V-50,1000000,,,,,4.0,"Jl. Jalan Cikutra Barat No. 54, MALANG"
+KR-0597,JUANDA-MALANG,12-09-2025,charter_drop,Kezia Farida,08905412925,2,10:31,"Jl. Jl. Moch. Ramdan No. 5, JUANDA",H-2,395000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0598,JUANDA-MALANG,08-08-2024,reguler,Tgk. Ratih Namaga,08722572062,4,08:17,"Jl. Gang Indragiri No. 180, JUANDA",H-2,745000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0599,MALANG-SURABAYA,29-11-2024,charter_harian,Anom Halimah,08892686525,7,09:40,"Jl. Gang Pasir Koja No. 79, MALANG",Z-1,650000,,,,,9.0,"Jl. Jl. Setiabudhi No. 68, SURABAYA"
+KR-0600,SURABAYA-MALANG,13-07-2024,charter_harian,Eman Hardiansyah,08864636335,10,15:55,"Jl. Jl. Otto Iskandardinata No. 185, SURABAYA",Z-1,1200000,,,,,5.0,"Jl. Jalan Cempaka No. 202, MALANG"
+KR-0601,MALANG-SURABAYA,20-06-2024,charter_harian,Safina Sirait,08016385911,3,06:13,"Jl. Jl. Raya Ujungberung No. 38, MALANG",Z-1,1200000,,,,,6.0,"Jl. Jalan W.R. Supratman No. 295, SURABAYA"
+KR-0602,MALANG-JUANDA,26-06-2024,charter_drop,"dr. Aurora Mahendra, M.M.",08662390563,8,00:43,"Jl. Gang Jend. Sudirman No. 145, MALANG",H-2,545000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0603,SURABAYA-MALANG,03-07-2024,charter_harian,Oman Prabowo,08270171011,6,15:23,"Jl. Gang Stasiun Wonokromo No. 75, SURABAYA",R-1,1200000,,,,,1.0,"Jl. Jl. Kutisari Selatan No. 186, MALANG"
+KR-0604,MALANG-SURABAYA,26-04-2024,charter_harian,R. Yuliana Thamrin,08722053084,10,10:29,"Jl. Jalan Ciwastra No. 131, MALANG",X-2,1000000,,,,,6.0,"Jl. Gang Joyoboyo No. 109, SURABAYA"
+KR-0605,MALANG-SURABAYA,17-04-2025,charter_harian,Putri Megantara,08477853998,2,13:27,"Jl. Jl. Ciwastra No. 182, MALANG",Z-1,1500000,,,,,3.0,"Jl. Gang Cihampelas No. 254, SURABAYA"
+KR-0606,SURABAYA-MALANG,15-04-2025,charter_harian,Samiah Iswahyudi,08088044730,2,04:53,"Jl. Jl. S. Parman No. 227, SURABAYA",S-2,1200000,,,,,7.0,"Jl. Jalan Jamika No. 16, MALANG"
+KR-0607,JUANDA-MALANG,24-10-2024,reguler,"Tgk. Ganjaran Zulaika, S.T.",08847526273,5,09:24,"Jl. Gang Rajiman No. 209, JUANDA",H-2,950000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0608,SURABAYA-MALANG,01-10-2024,charter_harian,"Asmuni Hutagalung, S.Pd",08017536489,2,18:00,"Jl. Jl. Dipenogoro No. 124, SURABAYA",R-1,1550000,,,,,4.0,"Jl. Gg. Rumah Sakit No. 201, MALANG"
+KR-0609,MALANG-JUANDA,05-08-2024,reguler,Talia Padmasari,08460174652,10,16:16,"Jl. Gg. Raya Ujungberung No. 227, MALANG",H-2,1975000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0610,SURABAYA-MALANG,06-03-2025,charter_harian,Tomi Iswahyudi,08611125987,5,16:21,"Jl. Gang Tebet Barat Dalam No. 194, SURABAYA",R-1,650000,,,,,9.0,"Jl. Gang K.H. Wahid Hasyim No. 91, MALANG"
+KR-0611,JUANDA-MALANG,08-12-2025,charter_drop,R. Sari Kuswoyo,08016746467,3,18:28,"Jl. Jalan Pelajar Pejuang No. 235, JUANDA",X-2,470000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0612,MALANG-SURABAYA,13-04-2024,charter_harian,"R.A. Shania Sirait, S.I.Kom",08679777942,5,10:45,"Jl. Jalan H.J Maemunah No. 116, MALANG",H-2,1500000,,,,,9.0,"Jl. Jalan Ciwastra No. 49, SURABAYA"
+KR-0613,SURABAYA-MALANG,14-02-2024,charter_harian,Zaenab Mulyani,08385030365,7,08:22,"Jl. Jl. Laswi No. 146, SURABAYA",H-2,1000000,,,,,7.0,"Jl. Jl. Pasteur No. 85, MALANG"
+KR-0614,JUANDA-MALANG,27-07-2025,charter_drop,Gilda Sihombing,08680086975,6,04:42,"Jl. Jalan Kebonjati No. 23, JUANDA",Z-1,495000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0615,SURABAYA-MALANG,04-06-2024,charter_harian,Omar Uwais,08643166944,8,04:49,"Jl. Jl. Rajiman No. 169, SURABAYA",H-2,1200000,,,,,4.0,"Jl. Gg. Suniaraja No. 103, MALANG"
+KR-0616,MALANG-SURABAYA,22-03-2025,charter_harian,Yance Suartini,08522852045,1,11:18,"Jl. Gg. R.E Martadinata No. 40, MALANG",R-1,1500000,,,,,8.0,"Jl. Jl. Moch. Toha No. 264, SURABAYA"
+KR-0617,SURABAYA-MALANG,10-10-2024,charter_harian,Vanesa Sudiati,08787886363,10,18:32,"Jl. Jl. H.J Maemunah No. 294, SURABAYA",H-2,1250000,,,,,6.0,"Jl. Gang Ronggowarsito No. 118, MALANG"
+KR-0618,MALANG-JUANDA,13-04-2024,reguler,Indra Palastri,08056452722,2,19:00,"Jl. Jalan Kendalsari No. 17, MALANG",H-2,410000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0619,JUANDA-MALANG,19-11-2024,charter_drop,Gasti Winarno,08377660234,3,22:27,"Jl. Gang Pelajar Pejuang No. 156, JUANDA",Z-1,570000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0620,JUANDA-MALANG,20-11-2024,reguler,Sabar Hastuti,08510056396,9,10:38,"Jl. Gang Monginsidi No. 275, JUANDA",Z-1,1770000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0621,SURABAYA-MALANG,25-04-2025,charter_harian,R.A. Sarah Andriani,08922921675,6,14:50,"Jl. Jl. Lembong No. 219, SURABAYA",R-1,650000,,,,,10.0,"Jl. Gang Raya Setiabudhi No. 190, MALANG"
+KR-0622,MALANG-JUANDA,28-11-2025,charter_drop,Jasmin Kuswandari,08269558535,7,07:27,"Jl. Jalan Gardujati No. 17, MALANG",S-2,520000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0623,JUANDA-MALANG,10-04-2024,reguler,Cahya Permadi,08914261675,7,23:07,"Jl. Gg. Otto Iskandardinata No. 42, JUANDA",Z-1,1510000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0624,MALANG-JUANDA,03-02-2024,charter_drop,Agus Nuraini,08698712516,1,07:35,"Jl. Jalan Monginsidi No. 262, MALANG",Z-1,395000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0625,JUANDA-MALANG,17-03-2025,charter_drop,Radika Permadi,08695850130,2,00:05,"Jl. Jl. Rumah Sakit No. 206, JUANDA",S-2,395000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0626,MALANG-SURABAYA,28-01-2025,charter_harian,"Puti Ika Hartati, S.Pd",08579398145,5,11:21,"Jl. Gang Ahmad Dahlan No. 280, MALANG",H-2,1500000,,,,,3.0,"Jl. Jl. Tubagus Ismail No. 153, SURABAYA"
+KR-0627,MALANG-JUANDA,03-08-2024,reguler,"dr. Bakianto Hutasoit, S.E.",08622202831,1,04:22,"Jl. Gg. Moch. Toha No. 5, MALANG",S-2,180000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0628,SURABAYA-MALANG,10-01-2025,charter_harian,Tgk. Paiman Nashiruddin,08455901811,10,11:57,"Jl. Jalan Kebonjati No. 133, SURABAYA",Z-1,1000000,,,,,4.0,"Jl. Gg. Sentot Alibasa No. 194, MALANG"
+KR-0629,JUANDA-MALANG,15-08-2025,charter_drop,Kamaria Pratama,08632041421,5,11:22,"Jl. Jalan Jayawijaya No. 273, JUANDA",Z-1,470000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0630,SURABAYA-MALANG,14-11-2025,charter_harian,Kemba Natsir,08882843557,9,10:08,"Jl. Jl. Peta No. 220, SURABAYA",H-2,1500000,,,,,10.0,"Jl. Gg. Astana Anyar No. 259, MALANG"
+KR-0631,MALANG-SURABAYA,23-10-2025,charter_harian,Dr. Oni Safitri,08117150185,5,21:32,"Jl. Gang KH Amin Jasuta No. 85, MALANG",Z-1,1900000,,,,,3.0,"Jl. Gang PHH. Mustofa No. 57, SURABAYA"
+KR-0632,JUANDA-MALANG,26-07-2024,reguler,Virman Maryadi,08718366025,9,11:14,"Jl. Gg. Kebonjati No. 154, JUANDA",H-2,1770000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0633,MALANG-SURABAYA,18-05-2024,charter_harian,Puti Gabriella Budiyanto,08272594913,4,17:49,"Jl. Gang Erlangga No. 50, MALANG",Z-1,1800000,,,,,2.0,"Jl. Jalan Ciwastra No. 169, SURABAYA"
+KR-0634,MALANG-SURABAYA,15-02-2025,charter_harian,Edi Wacana,08545570869,1,21:01,"Jl. Gang Antapani Lama No. 293, MALANG",H-2,1900000,,,,,8.0,"Jl. Jl. M.T Haryono No. 133, SURABAYA"
+KR-0635,JUANDA-MALANG,31-05-2024,charter_drop,Prayoga Lestari,08127760773,10,03:29,"Jl. Gang K.H. Wahid Hasyim No. 289, JUANDA",S-2,595000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0636,MALANG-SURABAYA,27-12-2024,charter_harian,Adikara Suartini,08351023241,2,06:16,"Jl. Jalan R.E Martadinata No. 254, MALANG",S-2,1200000,,,,,8.0,"Jl. Gang BKR No. 57, SURABAYA"
+KR-0637,MALANG-SURABAYA,01-04-2024,charter_harian,Gangsar Rajata,08153416408,7,00:02,"Jl. Gang Gegerkalong Hilir No. 159, MALANG",Z-1,650000,,,,,9.0,"Jl. Jalan Medokan Ayu No. 281, SURABAYA"
+KR-0638,JUANDA-MALANG,28-01-2024,charter_drop,Tgk. Olga Jailani,08582267720,9,21:21,"Jl. Gang Kutisari Selatan No. 59, JUANDA",S-2,670000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0639,MALANG-SURABAYA,14-10-2025,charter_harian,Samsul Rahimah,08858192438,5,03:34,"Jl. Jalan Cikutra Timur No. 290, MALANG",Z-1,1800000,,,,,1.0,"Jl. Gg. Joyoboyo No. 209, SURABAYA"
+KR-0640,MALANG-JUANDA,28-02-2024,reguler,Laila Najmudin,08280455333,10,17:33,"Jl. Gang Kutisari Selatan No. 229, MALANG",Z-1,1975000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0641,JUANDA-MALANG,09-08-2025,reguler,Lanjar Wulandari,08044842658,6,05:33,"Jl. Gg. Sentot Alibasa No. 299, JUANDA",H-2,1155000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0642,JUANDA-MALANG,21-05-2025,charter_drop,"H. Cakrabirawa Megantara, S.Gz",08286396297,2,23:25,"Jl. Gang Surapati No. 52, JUANDA",H-2,545000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0643,JUANDA-MALANG,08-11-2024,charter_drop,Dt. Darmanto Suwarno,08689372600,4,10:59,"Jl. Jalan Gardujati No. 234, JUANDA",S-2,445000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0644,MALANG-JUANDA,16-09-2024,reguler,KH. Ilyas Wulandari,08416801261,2,22:53,"Jl. Jalan Kendalsari No. 287, MALANG",Z-1,510000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0645,JUANDA-MALANG,27-09-2024,charter_drop,"drg. Gada Pratiwi, S.H.",08311157180,2,18:36,"Jl. Gg. Ahmad Dahlan No. 67, JUANDA",Z-1,445000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0646,MALANG-JUANDA,30-05-2024,charter_drop,Teddy Usamah,08704766359,5,12:44,"Jl. Jl. W.R. Supratman No. 230, MALANG",H-2,470000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0647,MALANG-SURABAYA,26-05-2024,charter_harian,Ami Farida,08981455692,9,17:22,"Jl. Jalan Dr. Djunjunan No. 187, MALANG",H-2,1500000,,,,,9.0,"Jl. Jl. Ciwastra No. 92, SURABAYA"
+KR-0648,SURABAYA-MALANG,28-09-2024,charter_harian,Tgk. Ade Rajasa,08505921435,7,11:28,"Jl. Gg. Otto Iskandardinata No. 168, SURABAYA",H-2,650000,,,,,1.0,"Jl. Gg. Tebet Barat Dalam No. 63, MALANG"
+KR-0649,MALANG-SURABAYA,20-09-2024,charter_harian,Novi Santoso,08998789187,5,10:30,"Jl. Jalan KH Amin Jasuta No. 230, MALANG",R-1,1000000,,,,,1.0,"Jl. Jl. Otto Iskandardinata No. 198, SURABAYA"
+KR-0650,MALANG-SURABAYA,02-08-2024,charter_harian,"R. Cahyono Rajasa, S.Kom",08525680320,9,23:05,"Jl. Jalan Cikutra Barat No. 73, MALANG",R-1,1950000,,,,,2.0,"Jl. Gang Raya Ujungberung No. 216, SURABAYA"
+KR-0651,SURABAYA-MALANG,25-08-2024,charter_harian,Okta Prastuti,08252141532,8,11:26,"Jl. Jl. Wonoayu No. 110, SURABAYA",H-2,1000000,,,,,3.0,"Jl. Gg. Sadang Serang No. 78, MALANG"
+KR-0652,JUANDA-MALANG,03-11-2024,reguler,"Dt. Garan Ramadan, S.Farm",08654449833,8,23:15,"Jl. Gg. Jayawijaya No. 35, JUANDA",H-2,1715000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0653,SURABAYA-MALANG,09-08-2024,charter_harian,"T. Nalar Wastuti, S.Pt",08517089492,8,14:47,"Jl. Gang Yos Sudarso No. 299, SURABAYA",Z-1,1800000,,,,,3.0,"Jl. Jl. Jayawijaya No. 175, MALANG"
+KR-0654,SURABAYA-MALANG,13-09-2025,charter_harian,Baktiadi Gunawan,08758431784,4,22:58,"Jl. Jalan Waringin No. 267, SURABAYA",V-52,1150000,,,,,4.0,"Jl. Jl. Jamika No. 111, MALANG"
+KR-0655,MALANG-SURABAYA,02-02-2024,charter_harian,Harsana Novitasari,08812102359,8,19:34,"Jl. Gg. Joyoboyo No. 279, MALANG",H-2,1550000,,,,,3.0,"Jl. Gg. Tubagus Ismail No. 228, SURABAYA"
+KR-0656,MALANG-SURABAYA,16-03-2024,charter_harian,R. Sadina Permadi,08820014369,9,11:31,"Jl. Jalan PHH. Mustofa No. 19, MALANG",R-1,1000000,,,,,7.0,"Jl. Gg. Kendalsari No. 260, SURABAYA"
+KR-0657,MALANG-SURABAYA,16-09-2024,charter_harian,Hj. Ayu Mangunsong,08791857153,6,10:36,"Jl. Gg. Sentot Alibasa No. 274, MALANG",Z-1,1000000,,,,,4.0,"Jl. Jl. Bangka Raya No. 2, SURABAYA"
+KR-0658,MALANG-SURABAYA,24-02-2024,charter_harian,Bakianto Hutapea,08649357459,4,05:04,"Jl. Gg. Cikapayang No. 155, MALANG",Z-1,1200000,,,,,7.0,"Jl. Gang Rajawali Barat No. 226, SURABAYA"
+KR-0659,MALANG-SURABAYA,14-04-2024,charter_harian,"drg. Zahra Mandala, S.Pd",08931191840,4,06:26,"Jl. Gg. Kutai No. 108, MALANG",S-2,1500000,,,,,10.0,"Jl. Gang HOS. Cokroaminoto No. 283, SURABAYA"
+KR-0660,MALANG-SURABAYA,10-01-2025,charter_harian,Ana Zulkarnain,08671044289,3,21:55,"Jl. Jalan Cihampelas No. 115, MALANG",Z-1,1300000,,,,,9.0,"Jl. Gg. Jend. Sudirman No. 293, SURABAYA"
+KR-0661,MALANG-JUANDA,18-08-2025,reguler,Olga Wasita,08332407496,3,17:01,"Jl. Gg. Waringin No. 99, MALANG",H-2,540000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0662,MALANG-JUANDA,06-08-2024,reguler,R.A. Humaira Santoso,08963568643,6,08:26,"Jl. Gg. Rawamangun No. 145, MALANG",V-51,1155000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0663,SURABAYA-MALANG,02-05-2024,charter_harian,Saadat Winarno,08069898653,3,04:08,"Jl. Gg. BKR No. 248, SURABAYA",Z-1,1200000,,,,,4.0,"Jl. Jl. Ronggowarsito No. 282, MALANG"
+KR-0664,JUANDA-MALANG,06-04-2025,reguler,"drg. Oman Rajasa, S.T.",08880870802,9,20:25,"Jl. Gang Ir. H. Djuanda No. 57, JUANDA",Z-1,1900000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0665,SURABAYA-MALANG,18-11-2025,charter_harian,Sutan Daru Jailani,08957914597,10,23:44,"Jl. Jalan Moch. Ramdan No. 286, SURABAYA",H-2,1150000,,,,,1.0,"Jl. Gg. Ahmad Dahlan No. 251, MALANG"
+KR-0666,JUANDA-MALANG,28-12-2025,reguler,Yessi Waskita,08260863844,6,13:39,"Jl. Jl. Joyoboyo No. 222, JUANDA",H-2,1155000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0667,SURABAYA-MALANG,13-07-2024,charter_harian,"Timbul Hardiansyah, S.H.",08146190938,2,09:23,"Jl. Gg. Dipatiukur No. 224, SURABAYA",H-2,1000000,,,,,7.0,"Jl. Gang Peta No. 115, MALANG"
+KR-0668,MALANG-JUANDA,01-03-2025,charter_drop,Iriana Sinaga,08546111339,6,17:37,"Jl. Jl. Moch. Ramdan No. 54, MALANG",Z-1,495000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0669,MALANG-JUANDA,06-07-2024,reguler,Salwa Melani,08412911083,6,11:23,"Jl. Gg. Bangka Raya No. 263, MALANG",H-2,1155000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0670,JUANDA-MALANG,07-01-2025,charter_drop,"Tgk. Prima Haryanto, S.I.Kom",08495803384,3,11:33,"Jl. Jalan Setiabudhi No. 242, JUANDA",X-2,420000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0671,JUANDA-MALANG,09-08-2024,reguler,Nyana Suryatmi,08506462385,8,07:16,"Jl. Gg. PHH. Mustofa No. 195, JUANDA",Z-1,1565000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0672,JUANDA-MALANG,24-08-2024,charter_drop,"Drs. Dwi Simanjuntak, S.H.",08113621043,1,16:43,"Jl. Jalan Cikutra Timur No. 82, JUANDA",Z-1,395000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0673,MALANG-SURABAYA,27-06-2024,charter_harian,Kanda Pratiwi,08104686152,7,13:01,"Jl. Jalan Dr. Djunjunan No. 173, MALANG",V-50,1500000,,,,,8.0,"Jl. Gg. HOS. Cokroaminoto No. 272, SURABAYA"
+KR-0674,MALANG-SURABAYA,11-01-2025,charter_harian,"Drs. Syahrini Waskita, S.IP",08094993095,8,23:37,"Jl. Jl. Gardujati No. 223, MALANG",Z-1,1350000,,,,,4.0,"Jl. Jalan Sadang Serang No. 220, SURABAYA"
+KR-0675,JUANDA-MALANG,20-12-2025,reguler,Yulia Nainggolan,08492032622,9,12:26,"Jl. Gg. Peta No. 227, JUANDA",H-2,1770000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0676,MALANG-JUANDA,04-01-2024,charter_drop,Carub Maryati,08709618794,9,06:25,"Jl. Jalan Dipenogoro No. 14, MALANG",Z-1,570000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0677,SURABAYA-MALANG,12-04-2024,charter_harian,"R.A. Kani Wibisono, S.Ked",08667739784,7,17:49,"Jl. Jalan W.R. Supratman No. 74, SURABAYA",Z-1,1000000,,,,,1.0,"Jl. Jalan Raya Ujungberung No. 139, MALANG"
+KR-0678,MALANG-SURABAYA,08-06-2024,charter_harian,Jagapati Padmasari,08083003690,1,03:03,"Jl. Jl. Ir. H. Djuanda No. 70, MALANG",H-2,1200000,,,,,3.0,"Jl. Gg. S. Parman No. 147, SURABAYA"
+KR-0679,SURABAYA-MALANG,20-07-2025,charter_harian,Kunthara Namaga,08891861009,2,12:05,"Jl. Jalan Merdeka No. 91, SURABAYA",Z-1,1200000,,,,,6.0,"Jl. Jl. Kebonjati No. 3, MALANG"
+KR-0680,MALANG-SURABAYA,01-12-2025,charter_harian,Cagak Prastuti,08806820854,1,18:08,"Jl. Gg. Waringin No. 102, MALANG",R-1,1250000,,,,,6.0,"Jl. Jl. Pelajar Pejuang No. 65, SURABAYA"
+KR-0681,MALANG-JUANDA,16-01-2024,charter_drop,"R.A. Nadia Yolanda, S.IP",08486244000,10,10:05,"Jl. Jl. Ahmad Dahlan No. 225, MALANG",S-2,595000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0682,SURABAYA-MALANG,30-08-2025,charter_harian,R. Pandu Budiyanto,08487502960,2,15:33,"Jl. Jalan Veteran No. 15, SURABAYA",V-52,1200000,,,,,4.0,"Jl. Gang Medokan Ayu No. 103, MALANG"
+KR-0683,MALANG-SURABAYA,25-01-2024,charter_harian,Putu Gunarto,08430351262,5,10:49,"Jl. Jl. M.T Haryono No. 253, MALANG",V-52,1000000,,,,,8.0,"Jl. Gang Gedebage Selatan No. 272, SURABAYA"
+KR-0684,SURABAYA-MALANG,15-11-2025,charter_harian,Najib Widiastuti,08580394302,2,19:32,"Jl. Jalan Jend. Sudirman No. 251, SURABAYA",Z-1,1250000,,,,,4.0,"Jl. Gang Sentot Alibasa No. 67, MALANG"
+KR-0685,MALANG-SURABAYA,24-12-2024,charter_harian,Icha Kusumo,08184136428,2,06:09,"Jl. Gg. Joyoboyo No. 56, MALANG",V-50,1500000,,,,,6.0,"Jl. Gang Ronggowarsito No. 13, SURABAYA"
+KR-0686,SURABAYA-MALANG,13-07-2024,charter_harian,Patricia Hariyah,08488937555,3,20:22,"Jl. Jl. Ronggowarsito No. 101, SURABAYA",Z-1,1600000,,,,,9.0,"Jl. Gang PHH. Mustofa No. 118, MALANG"
+KR-0687,JUANDA-MALANG,23-08-2024,charter_drop,Ulva Waskita,08226498203,3,04:56,"Jl. Gang Suryakencana No. 260, JUANDA",Z-1,420000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0688,MALANG-SURABAYA,13-01-2025,charter_harian,Ophelia Haryanti,08163674399,8,11:08,"Jl. Gg. Siliwangi No. 135, MALANG",Z-1,650000,,,,,6.0,"Jl. Jalan Kebonjati No. 20, SURABAYA"
+KR-0689,MALANG-SURABAYA,12-01-2025,charter_harian,Nurul Widiastuti,08952478411,8,22:46,"Jl. Gg. Rungkut Industri No. 156, MALANG",H-2,800000,,,,,8.0,"Jl. Gg. Dipenogoro No. 7, SURABAYA"
+KR-0690,SURABAYA-MALANG,06-03-2024,charter_harian,Agnes Sitompul,08096807520,6,00:20,"Jl. Jalan Rajawali Barat No. 49, SURABAYA",H-2,1800000,,,,,9.0,"Jl. Jl. Soekarno Hatta No. 74, MALANG"
+KR-0691,SURABAYA-MALANG,13-04-2024,charter_harian,"Sutan Raden Winarno, S.E.",08091551801,2,16:58,"Jl. Jl. M.H Thamrin No. 113, SURABAYA",Z-1,1000000,,,,,7.0,"Jl. Jl. R.E Martadinata No. 30, MALANG"
+KR-0692,JUANDA-MALANG,01-06-2025,charter_drop,Dian Waskita,08397705991,7,19:35,"Jl. Gang Jakarta No. 147, JUANDA",R-1,570000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0693,SURABAYA-MALANG,01-12-2025,charter_harian,"Drs. Lintang Fujiati, M.TI.",08175419930,2,00:56,"Jl. Jl. Dr. Djunjunan No. 30, SURABAYA",H-2,1200000,,,,,10.0,"Jl. Jl. Jend. Sudirman No. 172, MALANG"
+KR-0694,MALANG-SURABAYA,03-09-2024,charter_harian,Eli Winarsih,08340863437,9,04:57,"Jl. Jl. Rawamangun No. 29, MALANG",Z-1,650000,,,,,7.0,"Jl. Jalan Dipenogoro No. 274, SURABAYA"
+KR-0695,MALANG-SURABAYA,12-04-2024,charter_harian,dr. Putu Napitupulu,08039735569,1,18:08,"Jl. Gg. Monginsidi No. 92, MALANG",V-51,1250000,,,,,4.0,"Jl. Jalan HOS. Cokroaminoto No. 180, SURABAYA"
+KR-0696,SURABAYA-MALANG,10-05-2025,charter_harian,"drg. Karen Sitorus, M.Kom.",08904596346,9,10:54,"Jl. Gg. M.T Haryono No. 284, SURABAYA",H-2,1500000,,,,,6.0,"Jl. Gang Gegerkalong Hilir No. 158, MALANG"
+KR-0697,MALANG-SURABAYA,05-02-2025,charter_harian,Tina Uwais,08896308305,9,09:47,"Jl. Jl. Kutisari Selatan No. 282, MALANG",V-52,1000000,,,,,4.0,"Jl. Gang Sentot Alibasa No. 230, SURABAYA"
+KR-0698,JUANDA-MALANG,12-09-2025,charter_drop,"Gatot Farida, S.Pd",08423962988,2,06:02,"Jl. Jl. Tebet Barat Dalam No. 42, JUANDA",V-51,395000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0699,SURABAYA-MALANG,05-10-2025,charter_harian,Gaduh Adriansyah,08780001114,7,15:14,"Jl. Jl. H.J Maemunah No. 42, SURABAYA",V-50,1200000,,,,,1.0,"Jl. Jl. Ahmad Dahlan No. 149, MALANG"
+KR-0700,SURABAYA-MALANG,29-04-2025,charter_harian,"R. Legawa Handayani, M.M.",08978037410,5,06:38,"Jl. Gang Cikapayang No. 270, SURABAYA",Z-1,1000000,,,,,6.0,"Jl. Gang Kebonjati No. 72, MALANG"
+KR-0701,SURABAYA-MALANG,04-05-2024,charter_harian,"T. Baktiono Rahimah, S.I.Kom",08420929943,9,03:44,"Jl. Gg. Monginsidi No. 102, SURABAYA",R-1,1500000,,,,,3.0,"Jl. Jl. Cihampelas No. 189, MALANG"
+KR-0702,MALANG-SURABAYA,16-03-2024,charter_harian,Salimah Winarno,08806955263,8,16:45,"Jl. Gang Stasiun Wonokromo No. 226, MALANG",Z-1,650000,,,,,1.0,"Jl. Jalan Kapten Muslihat No. 149, SURABAYA"
+KR-0703,MALANG-JUANDA,19-10-2024,charter_drop,Paulin Mangunsong,08725563903,7,06:33,"Jl. Gang K.H. Wahid Hasyim No. 300, MALANG",Z-1,520000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0704,MALANG-JUANDA,03-10-2025,charter_drop,Farah Hutapea,08553792466,6,02:58,"Jl. Gang Cikapayang No. 89, MALANG",H-2,495000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0705,JUANDA-MALANG,09-07-2024,reguler,Cut Puput Hariyah,08188561679,10,10:19,"Jl. Jl. Rajiman No. 63, JUANDA",H-2,1975000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0706,JUANDA-MALANG,03-08-2024,reguler,KH. Edward Hutapea,08011165676,7,11:08,"Jl. Jalan Asia Afrika No. 109, JUANDA",Z-1,1360000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0707,MALANG-SURABAYA,07-04-2024,charter_harian,"R.A. Shakila Hasanah, S.E.I",08986626191,5,17:52,"Jl. Jl. Rajawali Timur No. 50, MALANG",Z-1,1200000,,,,,7.0,"Jl. Gang Kendalsari No. 121, SURABAYA"
+KR-0708,MALANG-JUANDA,01-12-2024,charter_drop,"Latif Nurdiyanti, S.Farm",08022930216,3,10:49,"Jl. Gg. Tubagus Ismail No. 118, MALANG",H-2,420000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0709,SURABAYA-MALANG,01-02-2025,charter_harian,"Eli Farida, S.I.Kom",08075077376,1,16:43,"Jl. Jl. Cikutra Timur No. 147, SURABAYA",H-2,1200000,,,,,4.0,"Jl. Jl. Bangka Raya No. 50, MALANG"
+KR-0710,MALANG-SURABAYA,08-04-2024,charter_harian,"R.M. Ajiman Jailani, S.Farm",08438131999,2,08:44,"Jl. Gg. Ir. H. Djuanda No. 248, MALANG",R-1,1500000,,,,,7.0,"Jl. Gg. Siliwangi No. 2, SURABAYA"
+KR-0711,JUANDA-MALANG,30-04-2025,charter_drop,Gilda Santoso,08580804154,1,00:02,"Jl. Gang Monginsidi No. 253, JUANDA",Z-1,395000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0712,SURABAYA-MALANG,25-02-2024,charter_harian,Karen Widiastuti,08737577579,4,06:59,"Jl. Gg. Setiabudhi No. 235, SURABAYA",Z-1,1800000,,,,,9.0,"Jl. Jalan Dr. Djunjunan No. 204, MALANG"
+KR-0713,JUANDA-MALANG,25-01-2024,charter_drop,Kezia Laksita,08622232394,8,05:40,"Jl. Gg. Rungkut Industri No. 115, JUANDA",H-2,545000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0714,JUANDA-MALANG,01-03-2025,reguler,Reksa Sudiati,08242856037,5,04:08,"Jl. Jl. Stasiun Wonokromo No. 196, JUANDA",X-2,950000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0715,MALANG-SURABAYA,15-03-2024,charter_harian,Silvia Wijaya,08180490284,10,02:50,"Jl. Jl. Ir. H. Djuanda No. 189, MALANG",V-51,1000000,,,,,1.0,"Jl. Jalan Laswi No. 295, SURABAYA"
+KR-0716,MALANG-SURABAYA,11-03-2024,charter_harian,Atma Purwanti,08333026758,2,07:52,"Jl. Jalan Monginsidi No. 45, MALANG",H-2,1800000,,,,,7.0,"Jl. Gang Merdeka No. 181, SURABAYA"
+KR-0717,MALANG-SURABAYA,05-11-2024,charter_harian,Zaenab Wulandari,08799829343,3,09:42,"Jl. Jl. Abdul Muis No. 277, MALANG",Z-1,1800000,,,,,7.0,"Jl. Gg. Bangka Raya No. 233, SURABAYA"
+KR-0718,MALANG-JUANDA,20-02-2024,charter_drop,Padma Maulana,08708791939,4,09:04,"Jl. Gang Gardujati No. 22, MALANG",R-1,445000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0719,SURABAYA-MALANG,16-10-2025,charter_harian,"R. Dariati Latupono, M.Kom.",08350162898,10,13:11,"Jl. Jl. Dipenogoro No. 88, SURABAYA",S-2,1200000,,,,,3.0,"Jl. Jalan Dipatiukur No. 106, MALANG"
+KR-0720,MALANG-SURABAYA,07-07-2025,charter_harian,Vega Najmudin,08963460673,1,00:00,"Jl. Jalan Gedebage Selatan No. 134, MALANG",V-51,1000000,,,,,10.0,"Jl. Gang M.T Haryono No. 96, SURABAYA"
+KR-0721,MALANG-JUANDA,09-02-2025,reguler,Nasim Sitompul,08464243725,4,07:24,"Jl. Gang Tubagus Ismail No. 231, MALANG",Z-1,745000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0722,MALANG-JUANDA,04-06-2024,reguler,R.M. Prabawa Hardiansyah,08318235924,2,02:34,"Jl. Gang Ahmad Dahlan No. 7, MALANG",V-52,360000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0723,MALANG-JUANDA,14-11-2024,charter_drop,Dr. Najwa Prasetya,08623773287,1,04:44,"Jl. Jalan S. Parman No. 85, MALANG",H-2,395000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0724,SURABAYA-MALANG,10-02-2024,charter_harian,Edison Dongoran,08270884180,6,18:06,"Jl. Gg. Ronggowarsito No. 244, SURABAYA",H-2,1050000,,,,,5.0,"Jl. Gg. W.R. Supratman No. 112, MALANG"
+KR-0725,JUANDA-MALANG,24-10-2024,charter_drop,Fitria Puspasari,08581999824,6,21:33,"Jl. Gg. H.J Maemunah No. 281, JUANDA",Z-1,595000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0726,MALANG-JUANDA,18-11-2025,reguler,Ratna Pangestu,08991654929,6,12:41,"Jl. Gg. Kutai No. 290, MALANG",H-2,1155000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0727,MALANG-SURABAYA,27-06-2025,charter_harian,"Dono Nasyidah, M.M.",08314549120,5,18:55,"Jl. Gang Ir. H. Djuanda No. 96, MALANG",H-2,700000,,,,,8.0,"Jl. Jalan Kendalsari No. 6, SURABAYA"
+KR-0728,SURABAYA-MALANG,03-11-2025,charter_harian,"dr. Eli Haryanti, S.E.",08574852077,3,21:28,"Jl. Jl. Peta No. 88, SURABAYA",Z-1,1600000,,,,,4.0,"Jl. Gang Wonoayu No. 82, MALANG"
+KR-0729,MALANG-JUANDA,08-09-2025,reguler,Balidin Kuswandari,08900628309,6,17:54,"Jl. Jalan Pasteur No. 230, MALANG",H-2,1155000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0730,MALANG-JUANDA,23-06-2024,reguler,Cahyo Mulyani,08330692583,4,09:02,"Jl. Gang Moch. Toha No. 184, MALANG",H-2,745000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0731,SURABAYA-MALANG,27-02-2025,charter_harian,Lulut Laksita,08374343294,5,08:36,"Jl. Gang Siliwangi No. 120, SURABAYA",R-1,1200000,,,,,6.0,"Jl. Jalan Dr. Djunjunan No. 214, MALANG"
+KR-0732,SURABAYA-MALANG,10-05-2025,charter_harian,Restu Tamba,08801123522,3,03:24,"Jl. Gang Tubagus Ismail No. 70, SURABAYA",Z-1,1000000,,,,,8.0,"Jl. Gang Erlangga No. 144, MALANG"
+KR-0733,MALANG-JUANDA,10-03-2024,reguler,"T. Oskar Mandasari, S.T.",08317289826,3,06:45,"Jl. Jl. Jend. Sudirman No. 298, MALANG",Z-1,540000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0734,MALANG-JUANDA,18-12-2025,charter_drop,Putri Wijayanti,08330810423,6,09:03,"Jl. Gang Dipenogoro No. 48, MALANG",R-1,495000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0735,JUANDA-MALANG,03-01-2024,reguler,Jessica Rajata,08252008875,5,10:17,"Jl. Jalan Cikapayang No. 267, JUANDA",S-2,950000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0736,JUANDA-MALANG,13-03-2025,charter_drop,Shakila Purnawati,08321025679,6,16:22,"Jl. Jalan Merdeka No. 258, JUANDA",Z-1,495000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0737,SURABAYA-MALANG,30-01-2024,charter_harian,Kasiyah Usada,08083749903,8,04:00,"Jl. Gg. Otto Iskandardinata No. 248, SURABAYA",Z-1,1800000,,,,,1.0,"Jl. Jalan Gedebage Selatan No. 53, MALANG"
+KR-0738,SURABAYA-MALANG,10-01-2025,charter_harian,Eli Uwais,08746456102,6,14:56,"Jl. Jl. KH Amin Jasuta No. 183, SURABAYA",V-51,1000000,,,,,2.0,"Jl. Gg. Dipatiukur No. 23, MALANG"
+KR-0739,MALANG-SURABAYA,28-06-2025,charter_harian,Genta Wacana,08516852528,4,19:39,"Jl. Jl. Cikutra Barat No. 189, MALANG",V-51,1050000,,,,,10.0,"Jl. Gang Tubagus Ismail No. 66, SURABAYA"
+KR-0740,MALANG-JUANDA,06-02-2025,charter_drop,Tasdik Setiawan,08500779805,5,04:40,"Jl. Jalan Moch. Toha No. 230, MALANG",Z-1,470000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0741,MALANG-JUANDA,07-12-2024,reguler,"R. Teddy Yolanda, S.E.I",08311216225,6,14:24,"Jl. Jl. Wonoayu No. 54, MALANG",H-2,1155000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0742,JUANDA-MALANG,01-03-2024,charter_drop,Cinta Putra,08799607872,4,20:56,"Jl. Gg. Tubagus Ismail No. 217, JUANDA",S-2,545000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0743,MALANG-JUANDA,28-05-2024,charter_drop,Umi Saputra,08930446639,9,17:53,"Jl. Jl. Joyoboyo No. 231, MALANG",H-2,570000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0744,MALANG-SURABAYA,29-11-2025,charter_harian,"Hari Sudiati, M.Ak",08632431708,7,12:32,"Jl. Jl. Raya Setiabudhi No. 46, MALANG",H-2,1500000,,,,,7.0,"Jl. Jalan R.E Martadinata No. 33, SURABAYA"
+KR-0745,SURABAYA-MALANG,23-02-2024,charter_harian,"Siska Saragih, S.H.",08081666948,9,04:45,"Jl. Jalan Stasiun Wonokromo No. 236, SURABAYA",R-1,1800000,,,,,7.0,"Jl. Gang Rungkut Industri No. 136, MALANG"
+KR-0746,MALANG-JUANDA,27-01-2024,reguler,Lintang Hastuti,08307575941,6,08:46,"Jl. Jalan Astana Anyar No. 237, MALANG",Z-1,1155000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0747,JUANDA-MALANG,30-12-2025,reguler,T. Omar Sinaga,08281365004,7,03:25,"Jl. Jalan Jamika No. 179, JUANDA",Z-1,1360000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0748,MALANG-JUANDA,21-02-2024,charter_drop,Putri Nainggolan,08721664541,3,18:45,"Jl. Jalan Kiaracondong No. 25, MALANG",Z-1,470000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0749,SURABAYA-MALANG,20-11-2024,charter_harian,Makuta Handayani,08808717053,2,00:01,"Jl. Jl. Soekarno Hatta No. 247, SURABAYA",H-2,1500000,,,,,2.0,"Jl. Gang Kebonjati No. 215, MALANG"
+KR-0750,JUANDA-MALANG,11-06-2025,charter_drop,Dewi Yuliarti,08083170335,8,13:05,"Jl. Gang Raya Setiabudhi No. 34, JUANDA",H-2,545000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0751,SURABAYA-MALANG,04-02-2024,charter_harian,Putri Oktaviani,08992651418,9,05:21,"Jl. Jalan Kutai No. 37, SURABAYA",S-2,1200000,,,,,5.0,"Jl. Gg. Kebonjati No. 141, MALANG"
+KR-0752,MALANG-SURABAYA,05-09-2025,charter_harian,Johan Thamrin,08989456864,9,00:58,"Jl. Jl. Ciumbuleuit No. 185, MALANG",H-2,1800000,,,,,10.0,"Jl. Gang Kutai No. 208, SURABAYA"
+KR-0753,MALANG-JUANDA,30-10-2025,charter_drop,"Cornelia Simbolon, S.T.",08722336633,8,02:28,"Jl. Jalan Suryakencana No. 243, MALANG",H-2,545000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0754,SURABAYA-MALANG,10-02-2024,charter_harian,Gandi Wahyuni,08882765820,8,01:27,"Jl. Jalan Pacuan Kuda No. 59, SURABAYA",S-2,1000000,,,,,1.0,"Jl. Jalan H.J Maemunah No. 206, MALANG"
+KR-0755,SURABAYA-MALANG,11-08-2024,charter_harian,Laras Adriansyah,08148835382,6,14:29,"Jl. Gg. Yos Sudarso No. 117, SURABAYA",H-2,1200000,,,,,8.0,"Jl. Gang Setiabudhi No. 5, MALANG"
+KR-0756,JUANDA-MALANG,07-01-2025,charter_drop,Adikara Pratama,08351987466,4,12:21,"Jl. Gang Moch. Toha No. 46, JUANDA",H-2,445000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0757,MALANG-JUANDA,27-10-2024,charter_drop,Hafshah Permadi,08516683343,5,02:33,"Jl. Gg. Cikutra Timur No. 93, MALANG",V-52,470000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0758,MALANG-JUANDA,25-07-2024,reguler,Wardaya Sihotang,08718127071,4,12:56,"Jl. Gang Wonoayu No. 218, MALANG",H-2,745000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0759,JUANDA-MALANG,08-06-2025,reguler,Jaya Iswahyudi,08831362603,6,09:28,"Jl. Jl. Kapten Muslihat No. 41, JUANDA",Z-1,1155000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0760,SURABAYA-MALANG,05-03-2024,charter_harian,"KH. Eman Riyanti, S.Pd",08845279849,6,03:02,"Jl. Jalan Lembong No. 100, SURABAYA",H-2,1200000,,,,,9.0,"Jl. Gang Pasteur No. 161, MALANG"
+KR-0761,MALANG-SURABAYA,28-08-2024,charter_harian,"Balamantri Dongoran, S.Pt",08806298135,9,05:44,"Jl. Gg. Yos Sudarso No. 147, MALANG",Z-1,650000,,,,,9.0,"Jl. Jl. S. Parman No. 66, SURABAYA"
+KR-0762,MALANG-JUANDA,27-01-2025,charter_drop,Najib Usamah,08570794104,7,23:37,"Jl. Jl. Sadang Serang No. 152, MALANG",H-2,670000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0763,MALANG-JUANDA,21-02-2025,reguler,Tgk. Asmianto Padmasari,08475341701,6,18:42,"Jl. Jalan Astana Anyar No. 129, MALANG",R-1,1205000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0764,SURABAYA-MALANG,21-10-2025,charter_harian,Kusuma Sinaga,08647630956,2,08:17,"Jl. Jalan Gardujati No. 142, SURABAYA",V-50,1200000,,,,,2.0,"Jl. Gg. Cihampelas No. 129, MALANG"
+KR-0765,MALANG-SURABAYA,23-03-2025,charter_harian,"dr. Zelda Aryani, S.I.Kom",08004564056,7,05:33,"Jl. Gang Abdul Muis No. 295, MALANG",V-52,650000,,,,,5.0,"Jl. Jalan Soekarno Hatta No. 31, SURABAYA"
+KR-0766,JUANDA-MALANG,20-06-2024,charter_drop,Dt. Darmana Simbolon,08604097423,2,23:02,"Jl. Jl. Ir. H. Djuanda No. 160, JUANDA",H-2,545000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0767,SURABAYA-MALANG,14-10-2024,charter_harian,"drg. Eka Kurniawan, M.Ak",08344927681,1,16:35,"Jl. Gg. Cihampelas No. 235, SURABAYA",H-2,1200000,,,,,6.0,"Jl. Jalan Tebet Barat Dalam No. 183, MALANG"
+KR-0768,SURABAYA-MALANG,19-05-2025,charter_harian,Umi Gunarto,08181251365,4,19:56,"Jl. Jl. Cihampelas No. 205, SURABAYA",H-2,1550000,,,,,4.0,"Jl. Gg. W.R. Supratman No. 295, MALANG"
+KR-0769,MALANG-SURABAYA,14-08-2024,charter_harian,"Bambang Hutasoit, S.Ked",08925704201,5,16:59,"Jl. Gg. Moch. Toha No. 219, MALANG",H-2,1000000,,,,,8.0,"Jl. Gang Suniaraja No. 162, SURABAYA"
+KR-0770,SURABAYA-MALANG,06-11-2025,charter_harian,Warsa Suryono,08497705048,1,06:59,"Jl. Gg. Moch. Toha No. 112, SURABAYA",S-2,1200000,,,,,5.0,"Jl. Gg. Indragiri No. 139, MALANG"
+KR-0771,MALANG-JUANDA,04-04-2024,reguler,R.M. Jati Safitri,08620358819,4,11:12,"Jl. Jalan Rajawali Timur No. 141, MALANG",H-2,745000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0772,SURABAYA-MALANG,31-01-2024,charter_harian,"Dt. Asmianto Mardhiyah, S.I.Kom",08423296340,1,20:19,"Jl. Gang Kutai No. 139, SURABAYA",H-2,1900000,,,,,10.0,"Jl. Gang Kapten Muslihat No. 249, MALANG"
+KR-0773,MALANG-JUANDA,29-07-2025,charter_drop,Hj. Unjani Marpaung,08719389717,2,02:08,"Jl. Jalan Rajawali Timur No. 291, MALANG",Z-1,395000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0774,JUANDA-MALANG,01-07-2025,charter_drop,Hendri Santoso,08146568824,8,20:05,"Jl. Jalan Otto Iskandardinata No. 47, JUANDA",Z-1,645000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0775,MALANG-SURABAYA,14-03-2024,charter_harian,Ibun Suartini,08357556285,5,23:22,"Jl. Gg. Gegerkalong Hilir No. 190, MALANG",Z-1,1950000,,,,,2.0,"Jl. Gg. Suniaraja No. 143, SURABAYA"
+KR-0776,MALANG-JUANDA,14-05-2025,reguler,Puji Nasyiah,08070705878,6,12:30,"Jl. Gang Pasteur No. 128, MALANG",H-2,1155000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0777,JUANDA-MALANG,25-05-2025,reguler,Belinda Hutapea,08831992158,3,00:18,"Jl. Jalan Surapati No. 251, JUANDA",X-2,540000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0778,SURABAYA-MALANG,02-07-2024,charter_harian,"Almira Mayasari, S.Farm",08599131026,4,23:44,"Jl. Gang Surapati No. 100, SURABAYA",V-51,1650000,,,,,5.0,"Jl. Gg. Monginsidi No. 88, MALANG"
+KR-0779,MALANG-JUANDA,08-04-2024,charter_drop,Drs. Gadang Sihombing,08113033794,5,08:16,"Jl. Gang Ir. H. Djuanda No. 262, MALANG",Z-1,470000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0780,MALANG-JUANDA,26-03-2024,reguler,Dr. Jasmani Wasita,08371549062,8,05:30,"Jl. Jalan Pasirkoja No. 132, MALANG",Z-1,1565000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0781,MALANG-JUANDA,12-12-2025,charter_drop,"Hani Nasyiah, S.Gz",08321673742,2,06:43,"Jl. Jalan Tubagus Ismail No. 64, MALANG",H-2,395000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0782,MALANG-SURABAYA,31-10-2024,charter_harian,"Drajat Hutasoit, S.Pd",08099326411,7,02:19,"Jl. Jl. Ahmad Dahlan No. 70, MALANG",V-51,1500000,,,,,10.0,"Jl. Gg. R.E Martadinata No. 5, SURABAYA"
+KR-0783,JUANDA-MALANG,14-11-2025,charter_drop,Zulfa Waskita,08472399670,10,08:28,"Jl. Jalan Stasiun Wonokromo No. 215, JUANDA",V-52,595000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0784,JUANDA-MALANG,22-04-2025,reguler,Kania Uyainah,08235559525,10,06:13,"Jl. Gang Setiabudhi No. 189, JUANDA",H-2,1975000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0785,MALANG-JUANDA,10-09-2024,reguler,Dt. Lamar Uwais,08683707839,4,03:57,"Jl. Jl. Dipenogoro No. 276, MALANG",X-2,745000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0786,MALANG-SURABAYA,30-07-2024,charter_harian,Dono Lazuardi,08008321433,3,15:27,"Jl. Gg. Ciumbuleuit No. 224, MALANG",Z-1,650000,,,,,8.0,"Jl. Jl. Rajawali Barat No. 224, SURABAYA"
+KR-0787,MALANG-JUANDA,23-05-2024,charter_drop,"Gading Nasyidah, S.T.",08151055666,10,06:42,"Jl. Gang Cihampelas No. 224, MALANG",X-2,595000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0788,SURABAYA-MALANG,03-09-2025,charter_harian,Aditya Yulianti,08935551622,3,07:39,"Jl. Gg. Kiaracondong No. 55, SURABAYA",Z-1,1200000,,,,,2.0,"Jl. Jl. Kebonjati No. 212, MALANG"
+KR-0789,MALANG-SURABAYA,13-04-2025,charter_harian,Hj. Juli Zulkarnain,08981955111,4,00:13,"Jl. Jalan Otto Iskandardinata No. 98, MALANG",R-1,1800000,,,,,7.0,"Jl. Jl. Sadang Serang No. 50, SURABAYA"
+KR-0790,JUANDA-MALANG,27-06-2024,reguler,"Zulaikha Prastuti, S.I.Kom",08336476752,9,03:07,"Jl. Jl. Kendalsari No. 111, JUANDA",Z-1,1770000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0791,SURABAYA-MALANG,11-04-2024,charter_harian,"R.M. Martaka Maryati, S.Pt",08490554276,7,12:35,"Jl. Gg. Jend. A. Yani No. 191, SURABAYA",H-2,650000,,,,,3.0,"Jl. Gang Pelajar Pejuang No. 217, MALANG"
+KR-0792,MALANG-SURABAYA,14-12-2025,charter_harian,Jamal Saefullah,08782376318,9,03:52,"Jl. Jalan Cikutra Timur No. 164, MALANG",H-2,1800000,,,,,9.0,"Jl. Jl. Abdul Muis No. 171, SURABAYA"
+KR-0793,MALANG-SURABAYA,25-02-2024,charter_harian,Hesti Sirait,08472904659,10,19:23,"Jl. Gg. Sukajadi No. 262, MALANG",Z-1,1250000,,,,,9.0,"Jl. Jalan Ciwastra No. 282, SURABAYA"
+KR-0794,MALANG-JUANDA,20-11-2024,reguler,"Vicky Wahyudin, M.M.",08570581758,5,10:48,"Jl. Gang Otto Iskandardinata No. 93, MALANG",V-50,950000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0795,JUANDA-MALANG,08-12-2024,reguler,"Dr. Martaka Mahendra, S.Pt",08170863688,10,02:31,"Jl. Gg. Siliwangi No. 204, JUANDA",Z-1,1975000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0796,JUANDA-MALANG,27-11-2024,reguler,Opung Mandala,08920992459,7,00:08,"Jl. Gang Ahmad Yani No. 297, JUANDA",H-2,1360000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0797,MALANG-JUANDA,23-01-2025,reguler,"Diah Wijaya, S.Gz",08317593741,5,11:03,"Jl. Jalan Surapati No. 6, MALANG",X-2,950000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0798,MALANG-SURABAYA,18-07-2025,charter_harian,Damar Simanjuntak,08282484281,7,05:43,"Jl. Jl. Jamika No. 30, MALANG",V-51,1800000,,,,,5.0,"Jl. Gg. Otto Iskandardinata No. 267, SURABAYA"
+KR-0799,MALANG-JUANDA,15-11-2024,reguler,Hendri Wacana,08692828837,7,06:21,"Jl. Gg. Raya Ujungberung No. 86, MALANG",Z-1,1360000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0800,MALANG-SURABAYA,05-02-2025,charter_harian,"Drs. Farah Nababan, S.E.I",08121665161,5,22:28,"Jl. Gg. Pasir Koja No. 220, MALANG",H-2,1350000,,,,,9.0,"Jl. Gg. Moch. Ramdan No. 155, SURABAYA"
+KR-0801,MALANG-JUANDA,08-03-2024,reguler,Tari Gunawan,08295290587,2,20:50,"Jl. Jalan S. Parman No. 92, MALANG",Z-1,460000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0802,MALANG-SURABAYA,26-06-2025,charter_harian,Dewi Kuswandari,08769033947,4,20:33,"Jl. Jl. Kapten Muslihat No. 2, MALANG",H-2,750000,,,,,7.0,"Jl. Jl. Siliwangi No. 98, SURABAYA"
+KR-0803,SURABAYA-MALANG,10-09-2024,charter_harian,Koko Prasetya,08336432603,4,05:44,"Jl. Gg. Stasiun Wonokromo No. 34, SURABAYA",H-2,1800000,,,,,8.0,"Jl. Jl. Laswi No. 297, MALANG"
+KR-0804,JUANDA-MALANG,28-08-2025,charter_drop,"R.A. Puspa Dongoran, M.Kom.",08004636899,5,14:02,"Jl. Jl. Moch. Ramdan No. 22, JUANDA",H-2,470000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0805,MALANG-JUANDA,17-06-2024,charter_drop,R. Silvia Nababan,08488836810,1,15:27,"Jl. Gg. Otto Iskandardinata No. 211, MALANG",R-1,395000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0806,SURABAYA-MALANG,28-06-2024,charter_harian,"Ir. Abyasa Kuswandari, S.Pt",08439177813,3,02:39,"Jl. Jl. Tebet Barat Dalam No. 122, SURABAYA",Z-1,1000000,,,,,5.0,"Jl. Jalan Jamika No. 77, MALANG"
+KR-0807,SURABAYA-MALANG,27-10-2024,charter_harian,"T. Bakiadi Saefullah, S.Pd",08858588549,1,13:44,"Jl. Gang Suniaraja No. 211, SURABAYA",H-2,650000,,,,,4.0,"Jl. Jl. Stasiun Wonokromo No. 144, MALANG"
+KR-0808,JUANDA-MALANG,06-10-2025,charter_drop,Ajeng Wahyuni,08927070901,4,12:42,"Jl. Gang Gegerkalong Hilir No. 105, JUANDA",V-50,445000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0809,MALANG-JUANDA,05-05-2024,reguler,Yulia Nababan,08598446790,6,23:33,"Jl. Jalan Rungkut Industri No. 35, MALANG",Z-1,1305000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0810,JUANDA-MALANG,09-03-2025,reguler,Opan Budiman,08282927774,3,03:43,"Jl. Jl. Siliwangi No. 1, JUANDA",S-2,540000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0811,JUANDA-MALANG,24-12-2025,reguler,Ikhsan Laksmiwati,08955118720,8,17:41,"Jl. Jalan H.J Maemunah No. 44, JUANDA",H-2,1565000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0812,JUANDA-MALANG,05-05-2025,reguler,"Sutan Cawuk Wacana, S.Kom",08289955171,3,01:30,"Jl. Jalan Ahmad Dahlan No. 274, JUANDA",H-2,540000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0813,SURABAYA-MALANG,01-11-2024,charter_harian,Anggabaya Anggraini,08274498294,3,22:10,"Jl. Jl. K.H. Wahid Hasyim No. 108, SURABAYA",Z-1,800000,,,,,7.0,"Jl. Gang Veteran No. 205, MALANG"
+KR-0814,MALANG-JUANDA,03-11-2024,reguler,Digdaya Handayani,08529323893,3,12:25,"Jl. Gang HOS. Cokroaminoto No. 67, MALANG",Z-1,540000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0815,MALANG-SURABAYA,07-02-2025,charter_harian,"drg. Vera Nainggolan, S.I.Kom",08693927517,2,19:19,"Jl. Jalan KH Amin Jasuta No. 210, MALANG",H-2,1550000,,,,,9.0,"Jl. Jalan Wonoayu No. 24, SURABAYA"
+KR-0816,MALANG-SURABAYA,25-11-2024,charter_harian,Cut Gasti Rahmawati,08459708652,8,00:21,"Jl. Gg. Veteran No. 209, MALANG",R-1,1800000,,,,,6.0,"Jl. Jl. M.H Thamrin No. 183, SURABAYA"
+KR-0817,JUANDA-MALANG,06-11-2024,reguler,Elma Dabukke,08203160036,4,12:32,"Jl. Jalan HOS. Cokroaminoto No. 101, JUANDA",V-52,745000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0818,MALANG-SURABAYA,25-02-2025,charter_harian,"Kasiyah Megantara, M.Kom.",08547231491,1,03:17,"Jl. Gang Suniaraja No. 238, MALANG",H-2,1000000,,,,,2.0,"Jl. Gang Ciwastra No. 245, SURABAYA"
+KR-0819,SURABAYA-MALANG,17-01-2025,charter_harian,"Septi Andriani, S.Kom",08622985182,10,03:16,"Jl. Jl. Jend. A. Yani No. 183, SURABAYA",H-2,650000,,,,,6.0,"Jl. Jalan Kebonjati No. 151, MALANG"
+KR-0820,MALANG-SURABAYA,26-08-2024,charter_harian,Ika Sitorus,08887767651,6,13:33,"Jl. Jalan Pasteur No. 193, MALANG",H-2,1800000,,,,,9.0,"Jl. Gang Kendalsari No. 115, SURABAYA"
+KR-0821,MALANG-JUANDA,05-10-2025,charter_drop,Ivan Tarihoran,08107605587,3,19:40,"Jl. Jalan Antapani Lama No. 186, MALANG",V-50,470000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0822,SURABAYA-MALANG,16-09-2024,charter_harian,"Tugiman Habibi, S.Gz",08726519941,2,20:17,"Jl. Jalan Surapati No. 205, SURABAYA",Z-1,750000,,,,,3.0,"Jl. Jalan Medokan Ayu No. 239, MALANG"
+KR-0823,SURABAYA-MALANG,11-06-2024,charter_harian,Kamaria Padmasari,08869089192,4,08:56,"Jl. Jl. Kebonjati No. 125, SURABAYA",R-1,1800000,,,,,10.0,"Jl. Jl. Suryakencana No. 21, MALANG"
+KR-0824,MALANG-SURABAYA,01-06-2024,charter_harian,"Puti Amalia Wijayanti, S.Sos",08449519489,2,19:02,"Jl. Gang Stasiun Wonokromo No. 131, MALANG",Z-1,700000,,,,,6.0,"Jl. Jl. PHH. Mustofa No. 228, SURABAYA"
+KR-0825,MALANG-JUANDA,10-08-2025,reguler,Dr. Tira Hardiansyah,08982839424,2,13:32,"Jl. Jalan Merdeka No. 16, MALANG",H-2,360000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0826,MALANG-SURABAYA,14-03-2025,charter_harian,"Cut Kasiyah Hutagalung, S.IP",08236059594,10,18:50,"Jl. Gg. Bangka Raya No. 127, MALANG",H-2,1050000,,,,,1.0,"Jl. Jalan Jend. Sudirman No. 203, SURABAYA"
+KR-0827,JUANDA-MALANG,05-10-2024,reguler,Restu Simbolon,08643487786,10,10:33,"Jl. Jalan Pasteur No. 116, JUANDA",V-52,1975000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0828,SURABAYA-MALANG,21-06-2025,charter_harian,Lurhur Budiyanto,08447574041,4,12:04,"Jl. Jl. Kebonjati No. 4, SURABAYA",Z-1,1200000,,,,,1.0,"Jl. Gg. Indragiri No. 89, MALANG"
+KR-0829,JUANDA-MALANG,19-04-2025,reguler,Aditya Zulkarnain,08941032480,6,14:41,"Jl. Gang Raya Setiabudhi No. 299, JUANDA",H-2,1155000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0830,JUANDA-MALANG,22-06-2024,charter_drop,Septi Rahmawati,08278228028,2,21:59,"Jl. Gg. Jend. Sudirman No. 138, JUANDA",S-2,495000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0831,MALANG-JUANDA,09-12-2024,charter_drop,KH. Opan Sihombing,08295036272,4,17:57,"Jl. Jl. Setiabudhi No. 291, MALANG",X-2,445000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0832,JUANDA-MALANG,30-07-2024,charter_drop,Yono Simbolon,08045420256,8,00:45,"Jl. Jalan Wonoayu No. 256, JUANDA",Z-1,545000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0833,JUANDA-MALANG,24-06-2025,reguler,Chandra Putra,08149612022,5,10:20,"Jl. Jalan Sukabumi No. 211, JUANDA",H-2,950000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0834,MALANG-SURABAYA,15-07-2025,charter_harian,Rudi Gunarto,08105945324,4,03:12,"Jl. Gang Cikutra Barat No. 245, MALANG",Z-1,1200000,,,,,6.0,"Jl. Gang Raya Setiabudhi No. 244, SURABAYA"
+KR-0835,MALANG-SURABAYA,19-05-2024,charter_harian,Karen Wulandari,08815373473,1,06:51,"Jl. Jl. Jamika No. 274, MALANG",V-52,1200000,,,,,9.0,"Jl. Jl. Siliwangi No. 68, SURABAYA"
+KR-0836,SURABAYA-MALANG,14-12-2025,charter_harian,"Hardi Haryanti, S.Ked",08212253179,1,03:14,"Jl. Gang Peta No. 22, SURABAYA",H-2,1200000,,,,,8.0,"Jl. Gg. Cikutra Timur No. 64, MALANG"
+KR-0837,SURABAYA-MALANG,27-03-2025,charter_harian,Lalita Thamrin,08611299055,1,10:10,"Jl. Jalan Rajiman No. 119, SURABAYA",Z-1,1200000,,,,,5.0,"Jl. Gang Moch. Ramdan No. 226, MALANG"
+KR-0838,MALANG-JUANDA,13-04-2024,reguler,"Murti Kusumo, M.Farm",08388797717,8,16:18,"Jl. Jalan Astana Anyar No. 43, MALANG",R-1,1565000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0839,JUANDA-MALANG,21-04-2025,charter_drop,"Tania Laksmiwati, S.Farm",08786856180,8,21:43,"Jl. Jalan Erlangga No. 95, JUANDA",H-2,645000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0840,MALANG-JUANDA,02-01-2024,charter_drop,"R. Widya Hutagalung, S.Pd",08811578232,1,20:23,"Jl. Gg. Raya Setiabudhi No. 259, MALANG",X-2,495000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0841,JUANDA-MALANG,13-06-2025,charter_drop,Wardaya Mustofa,08657429607,2,06:24,"Jl. Gang Pasir Koja No. 153, JUANDA",S-2,395000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0842,MALANG-SURABAYA,23-08-2025,charter_harian,Ade Pertiwi,08449873389,7,13:22,"Jl. Jalan Bangka Raya No. 274, MALANG",V-52,1800000,,,,,3.0,"Jl. Gg. Erlangga No. 256, SURABAYA"
+KR-0843,MALANG-SURABAYA,08-06-2025,charter_harian,"dr. Putri Nasyiah, S.Sos",08393577274,1,12:43,"Jl. Jl. Pacuan Kuda No. 34, MALANG",H-2,1000000,,,,,8.0,"Jl. Jalan Gedebage Selatan No. 288, SURABAYA"
+KR-0844,SURABAYA-MALANG,09-07-2024,charter_harian,Karimah Tarihoran,08767027149,9,02:06,"Jl. Gg. M.H Thamrin No. 198, SURABAYA",X-2,650000,,,,,5.0,"Jl. Gg. Sadang Serang No. 79, MALANG"
+KR-0845,MALANG-SURABAYA,14-04-2024,charter_harian,Olivia Wahyudin,08705126093,9,01:34,"Jl. Jalan Medokan Ayu No. 95, MALANG",H-2,1000000,,,,,2.0,"Jl. Gang Ahmad Dahlan No. 228, SURABAYA"
+KR-0846,MALANG-JUANDA,11-08-2025,charter_drop,Dewi Maryadi,08128377163,5,20:58,"Jl. Jl. Rumah Sakit No. 137, MALANG",Z-1,570000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0847,MALANG-JUANDA,01-03-2024,reguler,Maimunah Mandasari,08439247485,8,10:37,"Jl. Gang Ir. H. Djuanda No. 298, MALANG",V-52,1565000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0848,MALANG-JUANDA,31-07-2025,charter_drop,Upik Manullang,08948936021,8,21:39,"Jl. Gg. Ir. H. Djuanda No. 27, MALANG",R-1,645000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0849,MALANG-SURABAYA,09-12-2025,charter_harian,"Ir. Belinda Yuniar, S.Farm",08987750326,4,05:34,"Jl. Gg. Rumah Sakit No. 130, MALANG",H-2,1800000,,,,,8.0,"Jl. Gg. Kutisari Selatan No. 21, SURABAYA"
+KR-0850,SURABAYA-MALANG,12-10-2024,charter_harian,"dr. Timbul Suartini, S.IP",08026468780,6,06:12,"Jl. Jalan Medokan Ayu No. 45, SURABAYA",S-2,1500000,,,,,1.0,"Jl. Gang Jend. Sudirman No. 182, MALANG"
+KR-0851,MALANG-JUANDA,14-12-2025,reguler,Vino Maheswara,08594623942,2,01:32,"Jl. Gg. Asia Afrika No. 19, MALANG",Z-1,360000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0852,SURABAYA-MALANG,11-05-2024,charter_harian,Melinda Nugroho,08092487221,7,17:29,"Jl. Jalan Pelajar Pejuang No. 55, SURABAYA",Z-1,650000,,,,,6.0,"Jl. Gang Joyoboyo No. 33, MALANG"
+KR-0853,SURABAYA-MALANG,03-02-2024,charter_harian,Bagus Padmasari,08341984429,6,21:36,"Jl. Jalan Dipenogoro No. 115, SURABAYA",H-2,1600000,,,,,5.0,"Jl. Gang Veteran No. 223, MALANG"
+KR-0854,MALANG-SURABAYA,30-05-2025,charter_harian,Ellis Nugroho,08098587459,6,20:59,"Jl. Jalan Jakarta No. 226, MALANG",X-2,1600000,,,,,2.0,"Jl. Jalan Raya Setiabudhi No. 238, SURABAYA"
+KR-0855,JUANDA-MALANG,20-01-2025,charter_drop,Olga Utama,08652156193,9,11:04,"Jl. Jl. Pacuan Kuda No. 131, JUANDA",V-52,570000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0856,MALANG-SURABAYA,13-08-2025,charter_harian,Fitriani Tampubolon,08547795902,1,05:19,"Jl. Gang Cikutra Timur No. 180, MALANG",V-51,1200000,,,,,6.0,"Jl. Gg. Rajawali Timur No. 121, SURABAYA"
+KR-0857,JUANDA-MALANG,13-01-2025,reguler,Karman Laksita,08667122911,10,04:13,"Jl. Gang Kendalsari No. 149, JUANDA",Z-1,1975000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0858,SURABAYA-MALANG,29-10-2025,charter_harian,Cici Wulandari,08872045668,8,05:36,"Jl. Jalan Moch. Toha No. 31, SURABAYA",H-2,1200000,,,,,5.0,"Jl. Gg. Stasiun Wonokromo No. 228, MALANG"
+KR-0859,MALANG-SURABAYA,06-05-2024,charter_harian,Mala Melani,08931079267,5,14:41,"Jl. Gg. Dipenogoro No. 248, MALANG",Z-1,1200000,,,,,1.0,"Jl. Jalan Pasirkoja No. 173, SURABAYA"
+KR-0860,JUANDA-MALANG,14-11-2025,reguler,"Ega Yuniar, S.Pd",08860254077,2,11:09,"Jl. Gg. Astana Anyar No. 290, JUANDA",Z-1,360000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0861,MALANG-JUANDA,10-04-2024,charter_drop,Dt. Cakrawala Marbun,08859291449,4,16:16,"Jl. Jalan Setiabudhi No. 39, MALANG",H-2,445000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0862,SURABAYA-MALANG,08-07-2025,charter_harian,"Devi Yuliarti, S.H.",08899746592,6,23:26,"Jl. Gg. Pasteur No. 103, SURABAYA",S-2,1350000,,,,,9.0,"Jl. Jl. Dipatiukur No. 274, MALANG"
+KR-0863,MALANG-JUANDA,19-02-2024,charter_drop,Hari Winarsih,08363457644,1,15:28,"Jl. Gang Rungkut Industri No. 125, MALANG",Z-1,395000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0864,JUANDA-MALANG,07-11-2024,reguler,Dinda Astuti,08896305185,3,16:02,"Jl. Jl. Waringin No. 117, JUANDA",X-2,540000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0865,JUANDA-MALANG,29-05-2025,reguler,Nilam Puspasari,08589621508,9,05:56,"Jl. Gg. Jamika No. 63, JUANDA",V-52,1770000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0866,MALANG-JUANDA,02-09-2025,charter_drop,"Kajen Novitasari, S.Sos",08505049943,6,01:23,"Jl. Jalan Dipatiukur No. 64, MALANG",S-2,495000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0867,SURABAYA-MALANG,31-01-2025,charter_harian,Febi Zulaika,08234210463,3,04:06,"Jl. Gang Rajiman No. 247, SURABAYA",H-2,1000000,,,,,10.0,"Jl. Gang Cikutra Barat No. 127, MALANG"
+KR-0868,MALANG-JUANDA,06-04-2025,reguler,Hafshah Winarsih,08466990044,3,22:23,"Jl. Gang Moch. Ramdan No. 54, MALANG",Z-1,750000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0869,MALANG-SURABAYA,28-10-2024,charter_harian,"Melinda Ramadan, S.I.Kom",08718370964,1,13:03,"Jl. Gang Rungkut Industri No. 247, MALANG",Z-1,1800000,,,,,3.0,"Jl. Jl. Veteran No. 131, SURABAYA"
+KR-0870,MALANG-SURABAYA,18-07-2024,charter_harian,Vino Yuniar,08759289890,8,08:12,"Jl. Gg. Jayawijaya No. 220, MALANG",V-52,1500000,,,,,8.0,"Jl. Gang Lembong No. 92, SURABAYA"
+KR-0871,JUANDA-MALANG,21-02-2024,charter_drop,H. Raditya Firgantoro,08723139514,3,20:03,"Jl. Jl. Rungkut Industri No. 12, JUANDA",V-51,520000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0872,MALANG-SURABAYA,03-04-2025,charter_harian,Indra Wasita,08541562163,4,14:40,"Jl. Gg. Antapani Lama No. 216, MALANG",H-2,1200000,,,,,10.0,"Jl. Gang Kiaracondong No. 27, SURABAYA"
+KR-0873,MALANG-JUANDA,13-12-2024,charter_drop,Yance Sihombing,08785826756,6,04:22,"Jl. Gang Ahmad Dahlan No. 158, MALANG",H-2,495000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0874,MALANG-SURABAYA,02-09-2025,charter_harian,Lala Hardiansyah,08095879302,3,06:51,"Jl. Jl. S. Parman No. 62, MALANG",Z-1,1800000,,,,,8.0,"Jl. Jl. Sukajadi No. 7, SURABAYA"
+KR-0875,JUANDA-MALANG,10-03-2025,charter_drop,Ida Wibisono,08101249815,5,13:49,"Jl. Jalan Rawamangun No. 16, JUANDA",Z-1,470000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0876,MALANG-SURABAYA,18-10-2024,charter_harian,"Azalea Nababan, S.T.",08849034469,7,12:03,"Jl. Gg. Erlangga No. 127, MALANG",V-51,1800000,,,,,4.0,"Jl. Jl. S. Parman No. 13, SURABAYA"
+KR-0877,MALANG-JUANDA,11-05-2025,reguler,"Jessica Lazuardi, S.Pt",08762428018,6,18:26,"Jl. Gang Waringin No. 171, MALANG",V-51,1205000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0878,SURABAYA-MALANG,02-12-2024,charter_harian,Tira Pratiwi,08900305394,3,08:27,"Jl. Jalan K.H. Wahid Hasyim No. 154, SURABAYA",H-2,1200000,,,,,8.0,"Jl. Jl. Rajiman No. 216, MALANG"
+KR-0879,JUANDA-MALANG,21-01-2024,reguler,Cayadi Tamba,08614003148,9,05:15,"Jl. Gg. HOS. Cokroaminoto No. 255, JUANDA",Z-1,1770000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0880,JUANDA-MALANG,12-04-2024,charter_drop,"Kani Prastuti, S.Gz",08058583311,6,14:46,"Jl. Gg. Gedebage Selatan No. 109, JUANDA",V-52,495000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0881,MALANG-SURABAYA,20-05-2025,charter_harian,"Darsirah Nainggolan, S.Kom",08605440486,10,23:15,"Jl. Gang Cikutra Timur No. 219, MALANG",X-2,1950000,,,,,1.0,"Jl. Jalan Sentot Alibasa No. 242, SURABAYA"
+KR-0882,SURABAYA-MALANG,05-06-2025,charter_harian,Kambali Hutagalung,08787522082,4,15:18,"Jl. Jalan Kebonjati No. 191, SURABAYA",R-1,1500000,,,,,4.0,"Jl. Jalan Abdul Muis No. 149, MALANG"
+KR-0883,SURABAYA-MALANG,23-10-2025,charter_harian,Usyi Sihombing,08153474857,10,07:47,"Jl. Jl. Cikutra Barat No. 283, SURABAYA",Z-1,1800000,,,,,5.0,"Jl. Gg. Dipenogoro No. 128, MALANG"
+KR-0884,SURABAYA-MALANG,16-10-2024,charter_harian,Bahuwirya Latupono,08274618024,1,08:08,"Jl. Jalan Gardujati No. 93, SURABAYA",Z-1,1200000,,,,,3.0,"Jl. Jalan Erlangga No. 136, MALANG"
+KR-0885,MALANG-SURABAYA,18-08-2024,charter_harian,Legawa Tarihoran,08166730542,4,01:29,"Jl. Jalan Tebet Barat Dalam No. 184, MALANG",Z-1,650000,,,,,2.0,"Jl. Gg. Ahmad Dahlan No. 295, SURABAYA"
+KR-0886,JUANDA-MALANG,18-07-2024,reguler,"R. Adikara Yolanda, S.H.",08692495342,6,16:19,"Jl. Gang Sukabumi No. 39, JUANDA",Z-1,1155000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0887,SURABAYA-MALANG,27-07-2025,charter_harian,Cengkir Kuswoyo,08562286410,4,13:18,"Jl. Gang Jayawijaya No. 268, SURABAYA",H-2,1500000,,,,,1.0,"Jl. Jalan Ahmad Yani No. 154, MALANG"
+KR-0888,JUANDA-MALANG,11-01-2025,charter_drop,Karimah Hidayat,08182834558,2,06:00,"Jl. Gg. Dipenogoro No. 286, JUANDA",Z-1,395000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0889,JUANDA-MALANG,23-05-2024,reguler,Vanya Latupono,08964414105,7,20:00,"Jl. Gang Dipenogoro No. 33, JUANDA",V-51,1460000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0890,JUANDA-MALANG,18-03-2025,charter_drop,dr. Wani Oktaviani,08341255872,10,18:51,"Jl. Jl. Pelajar Pejuang No. 48, JUANDA",V-51,645000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0891,MALANG-JUANDA,08-10-2024,charter_drop,"R. Faizah Uwais, M.Kom.",08187268941,5,00:24,"Jl. Jl. Veteran No. 216, MALANG",H-2,470000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0892,JUANDA-MALANG,16-10-2024,reguler,"drg. Bakianto Riyanti, M.Kom.",08675461699,5,05:19,"Jl. Jalan Gedebage Selatan No. 155, JUANDA",V-51,950000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0893,JUANDA-MALANG,01-01-2024,charter_drop,Eja Winarsih,08156985580,6,15:56,"Jl. Jalan Cikapayang No. 170, JUANDA",Z-1,495000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0894,JUANDA-MALANG,12-02-2025,charter_drop,Usyi Puspasari,08711692474,4,01:59,"Jl. Jl. Surapati No. 140, JUANDA",Z-1,445000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0895,JUANDA-MALANG,24-08-2024,reguler,Mumpuni Sihombing,08078974935,3,07:50,"Jl. Gang Tubagus Ismail No. 42, JUANDA",Z-1,540000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0896,MALANG-SURABAYA,12-04-2025,charter_harian,Tari Hariyah,08930056800,9,20:54,"Jl. Gg. Moch. Ramdan No. 59, MALANG",X-2,750000,,,,,3.0,"Jl. Jalan Cikapayang No. 51, SURABAYA"
+KR-0897,JUANDA-MALANG,29-02-2024,charter_drop,Azalea Ramadan,08561996234,9,02:09,"Jl. Jl. Tebet Barat Dalam No. 116, JUANDA",Z-1,570000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0898,MALANG-JUANDA,13-03-2024,charter_drop,drg. Viman Rajasa,08105834961,5,17:32,"Jl. Jl. M.T Haryono No. 239, MALANG",Z-1,470000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0899,SURABAYA-MALANG,22-07-2025,charter_harian,Eka Najmudin,08067347970,8,08:37,"Jl. Jalan Rajiman No. 21, SURABAYA",X-2,1800000,,,,,2.0,"Jl. Gang Otto Iskandardinata No. 160, MALANG"
+KR-0900,MALANG-SURABAYA,24-12-2024,charter_harian,Dartono Pangestu,08628684379,2,20:20,"Jl. Jl. Suniaraja No. 12, MALANG",V-52,1300000,,,,,2.0,"Jl. Jl. Peta No. 279, SURABAYA"
+KR-0901,SURABAYA-MALANG,07-06-2025,charter_harian,Warta Najmudin,08018002338,3,04:30,"Jl. Gg. Ahmad Dahlan No. 290, SURABAYA",H-2,1200000,,,,,1.0,"Jl. Jalan Cempaka No. 66, MALANG"
+KR-0902,SURABAYA-MALANG,03-02-2025,charter_harian,Alika Habibi,08271661760,8,06:56,"Jl. Jalan Suniaraja No. 265, SURABAYA",V-50,650000,,,,,4.0,"Jl. Jl. Jamika No. 180, MALANG"
+KR-0903,MALANG-JUANDA,13-12-2025,charter_drop,"Cinta Wasita, S.T.",08882627612,2,22:02,"Jl. Gang Kiaracondong No. 299, MALANG",H-2,545000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0904,SURABAYA-MALANG,06-01-2024,charter_harian,Rahmi Nuraini,08017869394,8,02:34,"Jl. Gg. Rawamangun No. 191, SURABAYA",Z-1,1200000,,,,,6.0,"Jl. Jalan Gardujati No. 175, MALANG"
+KR-0905,SURABAYA-MALANG,23-09-2025,charter_harian,"Laras Waluyo, M.TI.",08775534118,9,15:39,"Jl. Gg. W.R. Supratman No. 134, SURABAYA",S-2,1200000,,,,,2.0,"Jl. Jalan M.H Thamrin No. 40, MALANG"
+KR-0906,MALANG-JUANDA,13-06-2024,reguler,Danuja Wibisono,08230087878,1,04:47,"Jl. Jalan Cikutra Timur No. 250, MALANG",Z-1,180000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0907,MALANG-JUANDA,13-12-2024,reguler,Digdaya Mandasari,08006530309,1,11:33,"Jl. Jalan K.H. Wahid Hasyim No. 9, MALANG",Z-1,180000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0908,MALANG-SURABAYA,13-03-2025,charter_harian,Dasa Pudjiastuti,08271352703,7,04:49,"Jl. Gang Pasir Koja No. 23, MALANG",V-50,1200000,,,,,6.0,"Jl. Gang Pacuan Kuda No. 184, SURABAYA"
+KR-0909,MALANG-SURABAYA,28-12-2024,charter_harian,KH. Irwan Riyanti,08396916311,3,15:21,"Jl. Jalan Joyoboyo No. 216, MALANG",Z-1,1500000,,,,,10.0,"Jl. Gg. S. Parman No. 282, SURABAYA"
+KR-0910,MALANG-SURABAYA,29-08-2024,charter_harian,Lukman Prabowo,08412060509,9,15:43,"Jl. Gg. Moch. Ramdan No. 182, MALANG",Z-1,1000000,,,,,3.0,"Jl. Gg. Kiaracondong No. 192, SURABAYA"
+KR-0911,JUANDA-MALANG,06-02-2024,reguler,Clara Susanti,08229020217,4,23:10,"Jl. Gang Jamika No. 114, JUANDA",R-1,895000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0912,MALANG-JUANDA,01-05-2024,charter_drop,"Setya Adriansyah, S.I.Kom",08399215981,10,16:21,"Jl. Gang Cikutra Timur No. 7, MALANG",S-2,595000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0913,SURABAYA-MALANG,26-03-2025,charter_harian,Tami Kuswandari,08571553271,4,14:54,"Jl. Jl. Jayawijaya No. 53, SURABAYA",Z-1,650000,,,,,3.0,"Jl. Jalan Bangka Raya No. 280, MALANG"
+KR-0914,JUANDA-MALANG,25-03-2024,charter_drop,dr. Mustika Mangunsong,08702790878,9,04:22,"Jl. Gang Surapati No. 127, JUANDA",Z-1,570000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0915,JUANDA-MALANG,11-04-2025,reguler,Bagiya Budiyanto,08541433040,2,16:12,"Jl. Jl. KH Amin Jasuta No. 240, JUANDA",H-2,360000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0916,MALANG-SURABAYA,01-04-2024,charter_harian,dr. Sadina Rahmawati,08430623024,9,13:14,"Jl. Gg. Stasiun Wonokromo No. 197, MALANG",Z-1,1200000,,,,,6.0,"Jl. Gang Erlangga No. 70, SURABAYA"
+KR-0917,JUANDA-MALANG,09-09-2025,charter_drop,"Drs. Luthfi Hastuti, S.Kom",08837929182,1,03:42,"Jl. Gang Asia Afrika No. 280, JUANDA",Z-1,395000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0918,MALANG-JUANDA,03-04-2025,charter_drop,Rini Putra,08889436293,7,14:37,"Jl. Gang Erlangga No. 263, MALANG",Z-1,900000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0919,SURABAYA-MALANG,14-04-2025,charter_harian,Setya Adriansyah,08961868712,7,23:50,"Jl. Gg. Dipatiukur No. 3, SURABAYA",H-2,1950000,,,,,8.0,"Jl. Gg. R.E Martadinata No. 148, MALANG"
+KR-0920,SURABAYA-MALANG,15-01-2024,charter_harian,Iriana Melani,08607349550,7,03:32,"Jl. Gang Dipenogoro No. 298, SURABAYA",Z-1,1200000,,,,,9.0,"Jl. Gang Jend. A. Yani No. 131, MALANG"
+KR-0921,JUANDA-MALANG,30-03-2025,charter_drop,Uda Permadi,08698788645,2,05:24,"Jl. Jalan Erlangga No. 140, JUANDA",H-2,900000,JT,Lion Air,Juanda International Airport,Malang International Airport,,
+KR-0922,MALANG-SURABAYA,28-03-2024,charter_harian,Hana Pertiwi,08732679540,1,15:21,"Jl. Gang Waringin No. 12, MALANG",Z-1,1200000,,,,,5.0,"Jl. Gg. Raya Setiabudhi No. 270, SURABAYA"
+KR-0923,SURABAYA-MALANG,24-06-2025,charter_harian,Cici Firgantoro,08507408506,6,15:05,"Jl. Jalan Ahmad Dahlan No. 161, SURABAYA",V-52,650000,,,,,5.0,"Jl. Gang Kiaracondong No. 49, MALANG"
+KR-0924,SURABAYA-MALANG,17-10-2024,charter_harian,Putri Prastuti,08963827666,8,16:54,"Jl. Gg. Tebet Barat Dalam No. 195, SURABAYA",Z-1,1000000,,,,,8.0,"Jl. Jl. Stasiun Wonokromo No. 221, MALANG"
+KR-0925,MALANG-JUANDA,16-04-2025,reguler,Ayu Saptono,08686773342,10,23:49,"Jl. Gg. Soekarno Hatta No. 261, MALANG",Z-1,2125000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0926,MALANG-SURABAYA,23-10-2024,charter_harian,"dr. Hilda Sirait, S.IP",08017801348,1,21:29,"Jl. Gg. W.R. Supratman No. 13, MALANG",H-2,1100000,,,,,5.0,"Jl. Jl. R.E Martadinata No. 147, SURABAYA"
+KR-0927,MALANG-SURABAYA,20-03-2025,charter_harian,Dadap Rahayu,08540162934,10,09:48,"Jl. Gg. S. Parman No. 36, MALANG",H-2,650000,,,,,9.0,"Jl. Gang Yos Sudarso No. 267, SURABAYA"
+KR-0928,MALANG-JUANDA,10-08-2025,charter_drop,"Victoria Usamah, M.TI.",08106457541,10,16:13,"Jl. Gang Setiabudhi No. 222, MALANG",H-2,595000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0929,MALANG-JUANDA,09-06-2025,reguler,"R.A. Dewi Kusumo, M.Kom.",08052587007,8,03:56,"Jl. Jl. Pacuan Kuda No. 293, MALANG",X-2,1565000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0930,MALANG-JUANDA,19-02-2024,reguler,Taufan Melani,08256636713,7,20:05,"Jl. Gg. Gegerkalong Hilir No. 176, MALANG",H-2,1460000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0931,SURABAYA-MALANG,20-01-2025,charter_harian,"Hj. Nabila Saptono, S.Sos",08559528840,3,22:21,"Jl. Jl. Cihampelas No. 94, SURABAYA",H-2,1350000,,,,,2.0,"Jl. Jalan Cihampelas No. 270, MALANG"
+KR-0932,SURABAYA-MALANG,27-11-2025,charter_harian,Nadia Setiawan,08757741886,9,10:11,"Jl. Gg. Rajawali Barat No. 261, SURABAYA",Z-1,1000000,,,,,6.0,"Jl. Jalan Cikutra Barat No. 214, MALANG"
+KR-0933,JUANDA-MALANG,27-02-2024,charter_drop,Cahyono Saptono,08443197450,3,11:25,"Jl. Gang Cempaka No. 33, JUANDA",S-2,420000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0934,MALANG-SURABAYA,07-07-2024,charter_harian,"R. Ulya Laksita, M.Ak",08638349220,7,22:15,"Jl. Jl. Dr. Djunjunan No. 37, MALANG",V-52,1950000,,,,,5.0,"Jl. Gg. Sentot Alibasa No. 257, SURABAYA"
+KR-0935,MALANG-JUANDA,26-03-2024,reguler,dr. Mila Wahyuni,08513339152,2,15:17,"Jl. Gg. Moch. Ramdan No. 99, MALANG",V-50,360000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0936,MALANG-JUANDA,21-05-2024,charter_drop,"Nasrullah Aryani, S.E.",08297048894,2,05:37,"Jl. Gang Pacuan Kuda No. 101, MALANG",H-2,395000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0937,MALANG-SURABAYA,20-05-2024,charter_harian,Restu Nasyidah,08471443353,3,09:28,"Jl. Jalan Monginsidi No. 240, MALANG",X-2,1200000,,,,,9.0,"Jl. Gg. Yos Sudarso No. 194, SURABAYA"
+KR-0938,MALANG-SURABAYA,10-12-2024,charter_harian,Daruna Kurniawan,08024202247,9,04:50,"Jl. Gg. Stasiun Wonokromo No. 5, MALANG",H-2,650000,,,,,6.0,"Jl. Gang Moch. Ramdan No. 108, SURABAYA"
+KR-0939,MALANG-SURABAYA,17-04-2024,charter_harian,"Kasiran Natsir, S.Kom",08026128693,8,13:59,"Jl. Jl. Pacuan Kuda No. 111, MALANG",Z-1,650000,,,,,6.0,"Jl. Gang Suniaraja No. 272, SURABAYA"
+KR-0940,MALANG-SURABAYA,19-07-2025,charter_harian,"dr. Patricia Hutasoit, S.Pt",08850604569,1,23:05,"Jl. Gg. Ciwastra No. 210, MALANG",V-50,1150000,,,,,2.0,"Jl. Gg. Dipenogoro No. 256, SURABAYA"
+KR-0941,SURABAYA-MALANG,02-08-2025,charter_harian,"Yulia Sirait, S.Pt",08081363559,7,21:55,"Jl. Gang Sadang Serang No. 201, SURABAYA",H-2,1100000,,,,,8.0,"Jl. Jl. Pasir Koja No. 183, MALANG"
+KR-0942,MALANG-JUANDA,26-09-2025,reguler,Ir. Kurnia Mulyani,08878065544,3,23:09,"Jl. Gg. Asia Afrika No. 213, MALANG",Z-1,690000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0943,JUANDA-MALANG,03-03-2025,charter_drop,Gawati Lazuardi,08183826600,6,02:11,"Jl. Gg. Medokan Ayu No. 117, JUANDA",H-2,495000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0944,MALANG-JUANDA,02-01-2025,reguler,Mahfud Napitupulu,08037673557,4,00:27,"Jl. Jalan H.J Maemunah No. 204, MALANG",Z-1,745000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0945,SURABAYA-MALANG,25-05-2025,charter_harian,Lintang Adriansyah,08705043385,8,03:49,"Jl. Jl. Sadang Serang No. 122, SURABAYA",V-52,1500000,,,,,2.0,"Jl. Jalan Jend. A. Yani No. 171, MALANG"
+KR-0946,MALANG-SURABAYA,22-05-2024,charter_harian,Septi Oktaviani,08112170347,5,20:57,"Jl. Jalan Rajawali Barat No. 174, MALANG",S-2,1900000,,,,,3.0,"Jl. Gang Gedebage Selatan No. 101, SURABAYA"
+KR-0947,MALANG-JUANDA,17-06-2024,reguler,Darimin Safitri,08365612505,7,07:33,"Jl. Jl. Jayawijaya No. 215, MALANG",V-50,1360000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0948,JUANDA-MALANG,12-06-2025,reguler,Dinda Anggriawan,08097165252,5,03:32,"Jl. Gg. Ahmad Dahlan No. 157, JUANDA",V-52,950000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0949,MALANG-JUANDA,30-08-2024,reguler,"Zalindra Winarsih, S.Psi",08572075641,2,15:54,"Jl. Jalan Jamika No. 124, MALANG",Z-1,360000,AK,AirAsia,Malang International Airport,Juanda International Airport,,
+KR-0950,MALANG-SURABAYA,22-02-2025,charter_harian,Ir. Tiara Saptono,08479167714,4,07:13,"Jl. Gg. Sentot Alibasa No. 184, MALANG",X-2,1800000,,,,,9.0,"Jl. Gg. Jayawijaya No. 169, SURABAYA"
+KR-0951,MALANG-JUANDA,20-07-2025,charter_drop,Endah Santoso,08467190979,3,20:25,"Jl. Jalan Setiabudhi No. 130, MALANG",H-2,520000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0952,MALANG-JUANDA,01-10-2025,reguler,R.A. Zizi Lailasari,08306904951,5,08:20,"Jl. Gg. KH Amin Jasuta No. 78, MALANG",Z-1,950000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0953,MALANG-SURABAYA,03-03-2025,charter_harian,Zizi Nainggolan,08596210467,9,00:20,"Jl. Gang Rawamangun No. 293, MALANG",H-2,1000000,,,,,5.0,"Jl. Jl. W.R. Supratman No. 144, SURABAYA"
+KR-0954,MALANG-SURABAYA,01-09-2025,charter_harian,Cakrawala Wastuti,08660230710,6,14:25,"Jl. Jl. Dr. Djunjunan No. 299, MALANG",Z-1,1800000,,,,,9.0,"Jl. Gg. Pasir Koja No. 5, SURABAYA"
+KR-0955,JUANDA-MALANG,13-02-2024,reguler,"Kania Thamrin, M.Farm",08894273571,3,15:49,"Jl. Gg. Cempaka No. 212, JUANDA",V-51,540000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0956,MALANG-SURABAYA,30-04-2025,charter_harian,H. Jarwi Kuswoyo,08158383866,1,18:01,"Jl. Jalan Merdeka No. 155, MALANG",H-2,700000,,,,,1.0,"Jl. Jl. M.H Thamrin No. 115, SURABAYA"
+KR-0957,SURABAYA-MALANG,14-12-2024,charter_harian,"KH. Kemba Hastuti, M.TI.",08339576230,8,11:02,"Jl. Jalan Cikutra Timur No. 185, SURABAYA",S-2,650000,,,,,3.0,"Jl. Gg. Ahmad Yani No. 134, MALANG"
+KR-0958,MALANG-SURABAYA,17-01-2025,charter_harian,Safina Kuswandari,08318808059,5,00:48,"Jl. Gang Jakarta No. 46, MALANG",V-52,650000,,,,,8.0,"Jl. Gg. Rawamangun No. 54, SURABAYA"
+KR-0959,JUANDA-MALANG,21-01-2025,charter_drop,Ir. Galuh Napitupulu,08926935870,5,13:57,"Jl. Jl. KH Amin Jasuta No. 31, JUANDA",Z-1,470000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0960,MALANG-JUANDA,06-07-2025,charter_drop,Kawaya Kuswandari,08445727630,5,09:12,"Jl. Jalan Pacuan Kuda No. 243, MALANG",V-50,470000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0961,SURABAYA-MALANG,15-01-2024,charter_harian,Xanana Utama,08528494888,1,01:29,"Jl. Gg. Peta No. 16, SURABAYA",V-50,1200000,,,,,4.0,"Jl. Gang W.R. Supratman No. 216, MALANG"
+KR-0962,MALANG-JUANDA,14-11-2024,charter_drop,Dr. Maida Hartati,08911078563,9,18:01,"Jl. Gang Lembong No. 195, MALANG",R-1,620000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0963,JUANDA-MALANG,31-12-2024,charter_drop,Malik Mardhiyah,08613844356,1,00:35,"Jl. Gang Cikutra Barat No. 51, JUANDA",H-2,395000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0964,SURABAYA-MALANG,11-03-2024,charter_harian,Rizki Jailani,08948352100,3,01:55,"Jl. Jl. Sadang Serang No. 198, SURABAYA",H-2,1000000,,,,,8.0,"Jl. Jl. Cikapayang No. 219, MALANG"
+KR-0965,MALANG-JUANDA,15-11-2024,reguler,"Ir. Vera Hartati, S.I.Kom",08727551110,6,04:41,"Jl. Gang Moch. Ramdan No. 201, MALANG",Z-1,1155000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0966,SURABAYA-MALANG,13-04-2024,charter_harian,Putri Gunarto,08492485572,4,20:41,"Jl. Jl. M.H Thamrin No. 84, SURABAYA",Z-1,1600000,,,,,6.0,"Jl. Jl. Kebonjati No. 78, MALANG"
+KR-0967,MALANG-JUANDA,04-08-2024,charter_drop,"R. Raharja Hidayanto, S.Ked",08262847678,7,13:14,"Jl. Gang Tebet Barat Dalam No. 268, MALANG",R-1,520000,ID,Batik Air,Malang International Airport,Juanda International Airport,,
+KR-0968,MALANG-SURABAYA,14-05-2024,charter_harian,Drs. Olivia Yulianti,08165027377,6,10:37,"Jl. Jalan Kebonjati No. 32, MALANG",H-2,1800000,,,,,1.0,"Jl. Gg. Ciumbuleuit No. 130, SURABAYA"
+KR-0969,MALANG-SURABAYA,31-03-2025,charter_harian,"Winda Uyainah, S.E.",08012732282,5,13:27,"Jl. Gang Lembong No. 212, MALANG",H-2,1500000,,,,,7.0,"Jl. Jl. Jakarta No. 159, SURABAYA"
+KR-0970,JUANDA-MALANG,06-04-2024,charter_drop,Zulaikha Saputra,08957424488,3,15:47,"Jl. Jalan BKR No. 159, JUANDA",Z-1,420000,AK,AirAsia,Juanda International Airport,Malang International Airport,,
+KR-0971,SURABAYA-MALANG,29-07-2025,charter_harian,Luthfi Fujiati,08882518630,3,01:39,"Jl. Gg. Tebet Barat Dalam No. 78, SURABAYA",Z-1,1000000,,,,,8.0,"Jl. Gang Cempaka No. 158, MALANG"
+KR-0972,MALANG-SURABAYA,06-04-2025,charter_harian,"Hj. Tantri Manullang, M.TI.",08842213448,9,12:15,"Jl. Jalan Cihampelas No. 147, MALANG",H-2,1200000,,,,,2.0,"Jl. Jl. Ronggowarsito No. 4, SURABAYA"
+KR-0973,MALANG-SURABAYA,20-06-2024,charter_harian,Novi Padmasari,08997658369,8,04:35,"Jl. Gg. K.H. Wahid Hasyim No. 177, MALANG",H-2,1000000,,,,,4.0,"Jl. Gang Jakarta No. 172, SURABAYA"
+KR-0974,MALANG-JUANDA,16-10-2025,reguler,R. Reza Samosir,08032459622,9,11:11,"Jl. Gang H.J Maemunah No. 48, MALANG",Z-1,1770000,SJ,Sriwijaya Air,Malang International Airport,Juanda International Airport,,
+KR-0975,SURABAYA-MALANG,21-10-2024,charter_harian,Paulin Suwarno,08557052092,7,03:20,"Jl. Gg. Bangka Raya No. 114, SURABAYA",Z-1,1500000,,,,,6.0,"Jl. Gg. Laswi No. 64, MALANG"
+KR-0976,JUANDA-MALANG,03-09-2025,reguler,Lanjar Sihombing,08062994379,4,11:40,"Jl. Gang Pacuan Kuda No. 52, JUANDA",Z-1,745000,GA,Garuda Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0977,JUANDA-MALANG,04-08-2024,reguler,Wulan Natsir,08709007166,5,08:33,"Jl. Gang Ahmad Dahlan No. 184, JUANDA",X-2,950000,QG,Citilink,Juanda International Airport,Malang International Airport,,
+KR-0978,MALANG-SURABAYA,08-08-2025,charter_harian,Yuni Uwais,08215095008,1,15:32,"Jl. Gang W.R. Supratman No. 162, MALANG",H-2,1000000,,,,,9.0,"Jl. Jl. Tubagus Ismail No. 108, SURABAYA"
+KR-0979,MALANG-JUANDA,01-03-2025,charter_drop,Chandra Mangunsong,08359520976,10,15:49,"Jl. Gg. Jend. Sudirman No. 250, MALANG",Z-1,595000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0980,SURABAYA-MALANG,05-04-2025,charter_harian,Irma Zulkarnain,08038768054,2,21:53,"Jl. Jl. W.R. Supratman No. 228, SURABAYA",H-2,1600000,,,,,2.0,"Jl. Gg. Siliwangi No. 37, MALANG"
+KR-0981,SURABAYA-MALANG,01-02-2025,charter_harian,Samiah Yuniar,08436471274,5,15:28,"Jl. Jalan Kutisari Selatan No. 253, SURABAYA",V-50,1000000,,,,,7.0,"Jl. Gang Abdul Muis No. 22, MALANG"
+KR-0982,SURABAYA-MALANG,29-01-2024,charter_harian,Karimah Kurniawan,08128703235,10,14:08,"Jl. Jalan Erlangga No. 289, SURABAYA",H-2,1800000,,,,,9.0,"Jl. Gang Surapati No. 284, MALANG"
+KR-0983,MALANG-JUANDA,24-07-2025,charter_drop,"Dr. Sadina Rahayu, S.E.I",08748424773,3,16:36,"Jl. Gang Pasteur No. 45, MALANG",S-2,420000,OD,Batik Air Malaysia/Malindo,Malang International Airport,Juanda International Airport,,
+KR-0984,MALANG-JUANDA,07-12-2025,charter_drop,"Ir. Cakrawala Wahyuni, S.Ked",08399363919,3,11:49,"Jl. Jl. Rajawali Barat No. 126, MALANG",H-2,420000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0985,SURABAYA-MALANG,26-04-2025,charter_harian,Kartika Fujiati,08647810409,4,19:31,"Jl. Gang Pasir Koja No. 118, SURABAYA",V-50,1250000,,,,,1.0,"Jl. Jl. Pasteur No. 129, MALANG"
+KR-0986,MALANG-JUANDA,05-07-2024,reguler,Ivan Firmansyah,08826671140,6,15:41,"Jl. Gg. Gedebage Selatan No. 184, MALANG",Z-1,1155000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0987,MALANG-SURABAYA,16-02-2025,charter_harian,"Atma Sitompul, M.Farm",08516079428,6,12:51,"Jl. Jalan Rungkut Industri No. 289, MALANG",Z-1,1500000,,,,,2.0,"Jl. Gg. Lembong No. 245, SURABAYA"
+KR-0988,JUANDA-MALANG,14-11-2024,charter_drop,Cut Citra Hutapea,08060062922,3,18:06,"Jl. Gang Dr. Djunjunan No. 137, JUANDA",R-1,470000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0989,JUANDA-MALANG,10-02-2024,reguler,Nadine Pratama,08205056813,6,12:50,"Jl. Jl. Medokan Ayu No. 34, JUANDA",Z-1,1155000,OD,Batik Air Malaysia/Malindo,Juanda International Airport,Malang International Airport,,
+KR-0990,MALANG-SURABAYA,20-10-2024,charter_harian,Karsana Wahyudin,08129243641,1,03:29,"Jl. Jl. Rajawali Barat No. 252, MALANG",H-2,650000,,,,,3.0,"Jl. Gg. Stasiun Wonokromo No. 136, SURABAYA"
+KR-0991,JUANDA-MALANG,03-05-2025,reguler,Okta Hardiansyah,08712489434,5,07:03,"Jl. Gg. Rajawali Barat No. 278, JUANDA",Z-1,950000,SJ,Sriwijaya Air,Juanda International Airport,Malang International Airport,,
+KR-0992,SURABAYA-MALANG,03-11-2025,charter_harian,"R. Icha Wacana, S.I.Kom",08207683887,7,12:47,"Jl. Gg. Lembong No. 112, SURABAYA",S-2,1200000,,,,,3.0,"Jl. Gang Yos Sudarso No. 51, MALANG"
+KR-0993,SURABAYA-MALANG,30-10-2024,charter_harian,Hasim Widodo,08614548842,6,22:25,"Jl. Gang Gardujati No. 46, SURABAYA",X-2,1350000,,,,,3.0,"Jl. Gang R.E Martadinata No. 166, MALANG"
+KR-0994,MALANG-JUANDA,13-07-2024,reguler,Rika Saptono,08835405360,7,18:51,"Jl. Jl. Cihampelas No. 166, MALANG",Z-1,1410000,QG,Citilink,Malang International Airport,Juanda International Airport,,
+KR-0995,MALANG-SURABAYA,13-01-2025,charter_harian,"Dagel Nababan, S.H.",08096687687,8,00:18,"Jl. Gg. Gegerkalong Hilir No. 125, MALANG",H-2,1500000,,,,,6.0,"Jl. Jalan Bangka Raya No. 290, SURABAYA"
+KR-0996,MALANG-JUANDA,12-03-2025,reguler,"Dt. Laksana Mahendra, M.Pd",08463548011,7,09:26,"Jl. Jl. Cikutra Timur No. 134, MALANG",V-50,1360000,GA,Garuda Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0997,MALANG-JUANDA,30-01-2025,reguler,Labuh Prayoga,08623106088,1,00:11,"Jl. Jalan Sentot Alibasa No. 6, MALANG",H-2,180000,QZ,AirAsia Indonesia,Malang International Airport,Juanda International Airport,,
+KR-0998,JUANDA-MALANG,21-02-2024,reguler,Eka Andriani,08173036751,3,20:38,"Jl. Jalan BKR No. 177, JUANDA",H-2,640000,QZ,AirAsia Indonesia,Juanda International Airport,Malang International Airport,,
+KR-0999,SURABAYA-MALANG,15-01-2025,charter_harian,R.A. Uchita Utama,08399727263,5,03:39,"Jl. Jalan PHH. Mustofa No. 177, SURABAYA",H-2,650000,,,,,5.0,"Jl. Gang Astana Anyar No. 223, MALANG"
+KR-1000,SURABAYA-MALANG,04-05-2024,charter_harian,Kayun Winarno,08327919503,2,22:37,"Jl. Gg. Dipenogoro No. 115, SURABAYA",H-2,1150000,,,,,9.0,"Jl. Gang Pasirkoja No. 8, MALANG"

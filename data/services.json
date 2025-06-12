@@ -1,0 +1,51 @@
+{
+  "services": [
+    {
+      "type": "Reguler",
+      "routes": [
+        {
+          "name": "Malang-Juanda",
+          "base_price_per_seat": 180000,
+          "additional_fees": {
+            "extra_passenger": 25000,
+            "extra_address": 25000
+          }
+        }
+      ]
+    },
+    {
+      "type": "Charter Drop",
+      "routes": [
+        {
+          "name": "Malang-Juanda",
+          "prices": {
+            "Avanza": 395000,
+            "Innova Zenix": 900000,
+            "Hiace Luxury": 1900000
+          }
+        }
+      ]
+    },
+    {
+      "type": "Charter Harian",
+      "bonus": { "free_hours_for_8h_usage": 2 },
+      "overtime_fees": { "per_hour": 50000 },
+      "routes": [
+        {
+          "name": "Malang-Surabaya",
+          "prices": {
+            "Avanza": 650000,
+            "Innova Reborn": 950000,
+            "Hiace Premio": 1500000
+          }
+        }
+      ]
+    }
+  ],
+  "special_conditions": {
+    "holiday_pricing": {
+      "Reguler": { "price_per_seat": 200000 },
+      "Charter Drop": { "Avanza": 450000 }
+    }
+  }
+}
