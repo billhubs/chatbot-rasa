@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+*.log
+logs/
+backend.log
+chatbot.log
+
+# Database files
+*.db
+backend/database/
+reservations.db
+tracker.db
+
+# Model files
+*.joblib
+*.pkl
+*.tar.gz
+llama-3.1-8b-model.tar.gz
+rf_model.joblib
+tfidf_vectorizer.joblib
+rf_model.pkl
+tfidf_vectorizer.pkl
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Frontend build
+frontend/build/
+frontend/coverage/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Others
+*.bak
+*.tmp
+*.swp
