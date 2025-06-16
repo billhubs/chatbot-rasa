@@ -1,0 +1,133 @@
+**FORMULIR RESERVASI KIRANA TRAVEL**  
+*(Dioptimalkan untuk 4 Jenis Perjalanan)*  
+
+### 1. RESERVASI BANDARA MALANG - JUANDA (PENERBANGAN)
+```
+🛫 MALANG - JUANDA  
+Tanggal          :  
+Maskapai        :  
+Jam Terbang     :  
+Kode Penerbangan:  
+========================  
+Nama Penumpang  :  
+Jumlah Penumpang:  
+No. HP          :  
+Alamat Penjemput:  
+Jam Penjemputan :  
+========================  
+📞 Kontak Kirana Travel:  
+Hotline: 0341-557755  
+Operator: 0821-4116-8062  
+Customer Care: 0881-3330-881  
+```
+
+### 2. RESERVASI BANDARA JUANDA - MALANG (KEDATANGAN)
+```
+🛬 JUANDA - MALANG  
+Tanggal          :  
+Maskapai        :  
+Jam Mendarat    :  
+Kota Asal       :  
+Kode Penerbangan:  
+========================  
+Nama Penumpang  :  
+Jumlah Penumpang:  
+No. HP          :  
+Alamat Antar    :  
+Jam Penjemputan :  
+========================  
+📞 Kontak Kirana Travel: ... (sama)  
+```
+
+### 3 & 4. RESERVASI MALANG-SURABAYA (NON-BANDARA)
+```
+🚖 MALANG ⇄ SURABAYA  
+Tanggal          :  
+========================  
+Nama Penumpang  :  
+Jumlah Penumpang:  
+No. HP          :  
+Alamat Jemput   :  
+Alamat Antar    :  
+Jam Penjemputan :  
+========================  
+📞 Kontak Kirana Travel: ... (sama)  
+```
+
+---
+
+**KLASIFIKASI LAYANAN & HARGA**  
+
+### A. JENIS LAYANAN  
+1. **Reguler** (4 Kursi, Campur dengan Penumpang Lain)  
+2. **Charter Drop** (4 Kursi, Private 1x Perjalanan)  
+3. **Charter Harian** (Private, Sewa 1-10 Jam/Hari)  
+
+### B. TIPE KENDARAAN  
+| Tipe       | Mobil                  | Kapasitas | Kode Plat |
+|------------|------------------------|-----------|-----------|
+| Umum       | Avanza/Sienta/Xpander  | 4 orang   | V/S/X     |
+| Premium    | Innova Zenix           | 4 orang   | Z         |
+| Minibus    | Hiace Premio           | 10 orang  | H         |
+
+---
+
+**DETAIL TARIF (Update 2024)**  
+
+### 1. LAYANAN REGULER  
+- **Harga Dasar**: Rp180.000/kursi (Malang-Surabaya)  
+- **Keberangkatan**: Setiap jam ganjil (01.00-17.00 WIB)  
+- **Tambahan Biaya**:  
+  - +Penumpang: Rp25.000/orang  
+  - +Alamat: Rp25.000/alamat  
+  - >3 penumpang & >3 alamat: Rp150.000/orang  
+
+### 2. CHARTER DROP  
+- **Harga Paket**:  
+  - Avanza: Rp395.000 (termasuk tol & parkir Juanda 1x)  
+  - Innova Zenix: Rp900.000  
+  - Hiace Luxury: Rp1.900.000  
+- **Kapasitas Maks**: 4 orang (kecuali Hiace: 10 orang)  
+
+### 3. CHARTER HARIAN  
+| Mobil               | Malang-Sby | Luar Jatim* |
+|---------------------|------------|-------------|
+| Avanza              | 650k       | 750k        |
+| Innova Reborn       | 1jt        | 1.1jt       |
+| Hiace Premio        | 1.5jt      | 1.6jt       |
+| *Include: BBM & Driver | *Exclude: Tol, Parkir, Makan Driver  
+
+**Bonus**: Gratis 2 jam untuk pemakaian 8 jam  
+**Denda Overtime**: Rp50.000/jam  
+
+---
+
+**KETENTUAN KHUSUS**  
+1. **Overtime Charge**:  
+   - 18.00-19.59: +Rp50.000  
+   - 20.00-21.59: +Rp100.000  
+   - >22.00: +Rp150.000  
+
+2. **Harga Hari Raya** (Contoh: Lebaran 2025):  
+   - Reguler: Rp200.000/kursi  
+   - Charter Drop Avanza: Rp450.000  
+
+---
+
+**CONTOH RESERVASI**  
+1. **Reguler Juanda-Malang**  
+   *Maryanto, 7 orang, Avanza V-51*  
+   Biaya: Rp1.360.000 (7x Rp180k + penambahan alamat)  
+
+2. **Charter Harian Surabaya-Malang**  
+   *Vega, Hiace H-2, 10 jam*  
+   Biaya: Rp1.150.000 (paket 8+2 jam)  
+
+---
+
+**CATATAN PENTING**:  
+✅ Konfirmasi reservasi maksimal H-1  
+✅ Pembayaran via transfer/dana langsung ke driver  
+✅ Ada invoice resmi setelah reservasi diverifikasi  
+
+Format ini memudahkan pelanggan memahami pilihan layanan dan menghitung estimasi biaya dengan transparan.

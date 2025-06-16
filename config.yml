@@ -10,9 +10,14 @@ pipeline:
     analyzer: char_wb
     min_ngram: 1
     max_ngram: 6
+  - name: RandomForestClassifier
+    model_path: "rf_model.joblib"
+    vectorizer_path: "tfidf_vectorizer.joblib"
+    confidence_threshold: 0.6
   - name: DIETClassifier
     epochs: 100
     constrain_similarities: true
+    fallback_factor: 0.3
   - name: EntitySynonymMapper
   - name: RegexEntityExtractor
   - name: ResponseSelector

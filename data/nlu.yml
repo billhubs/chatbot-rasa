@@ -39,9 +39,19 @@ nlu:
     - Halo, selamat pg
 - intent: booking
   examples: |
-    - Pesan [Reguler](service_type) [Malang-Juanda](route)
-    - Booking [Charter Drop](service_type) [Juanda-Malang](route)
-    - Reservasi [3 penumpang](passengers) untuk [Surabaya](route)
+    - [Bang/Mas/Pak/Bu] pesen travel [Reguler](service_type) [Malang-Juanda](route) dong
+    - Mau booking [Charter Drop](service_type) [Juanda-Malang](route) nih
+    - Aku mau reservasi untuk [3 penumpang](passengers) ke [Surabaya](route)
+    - Bisa pesen [Reguler](service_type) [Malang-Juanda](route) buat besok pagi?
+    - [Mas/Mba] carikan travel ke [Juanda](route) dari [Malang](route) ya
+    - Saya butuh jemputan [Malang](route)-[JUANDA](route) jam 5 pagi
+    - Ada travel dari [Malang](route) ke [Bandara Juanda](route) gak?
+    - Nyari travel [MLG-JUANDA](route) untuk [2 orang](passengers)
+    - Mau ke [Surabaya](route) dari [Malang](route), ada travelnya?
+    - Aku mau pesen [Reguler](service_type) [Malang-Juanda](route) untuk [3 org](passengers)
+    - Bisa bantu pesen travel [Malang](route)-[Juanda](route) hari ini?
+    - [Mba] reservasi [Charter Harian](service_type) [Juanda-Malang](route) ya
+    - Ada kursi kosong buat [MLG-JUANDA](route) tanggal 15?
     - Pesen travel [Malang-Juanda](route) buat besok
     - Booking [MLG-JUANDA](route) tgl 15
     - Mau ke bandara [Juanda](route) dr [Malang](route), ada travel?
@@ -308,6 +318,26 @@ nlu:
     - Makasih bro
 - intent: confirm_booking
   examples: |
+    - Ya, lanjutkan pemesanan
+    - Saya setuju
+    - Konfirmasi booking
+    - Lanjutkan pembayaran
+    - Ya, saya konfirmasi
+    - Setuju dengan harga
+    - Lanjut saja
+    - OK, konfirmasi
+    - Iya, lanjut
+    - Konfirmasi reservasi
+    - Ya, saya mau lanjut
+    - Sudah OK
+    - Deal
+    - Baik, lanjutkan
+    - Saya konfirmasi
+    - Iya, setuju
+    - Lanjut proses
+    - Konfirmasi sekarang
+    - Ya, bayar sekarang
+    - Saya konfirmasi booking
     - konfirmasi
     - ya
     - setuju
@@ -354,6 +384,39 @@ nlu:
     - reset pesanan
     - batalin dan mulai lagi
     - ulang reservasi
+- intent: pesan_charter_drop_malang_surabaya
+  examples: |
+    - Pesan Charter Drop Malang-Surabaya
+    - Saya ingin charter drop dari Malang ke Surabaya
+    - Booking charter drop Malang Surabaya
+    - Pesan Charter Drop Malang-Surabaya
+    - Saya ingin charter drop dari Malang ke Surabaya
+    - Booking charter drop Malang Surabaya
+
+- intent: pesan_charter_drop_surabaya_malang
+  examples: |
+    - Pesan Charter Drop Surabaya-Malang
+    - Saya ingin charter drop dari Surabaya ke Malang
+    - Booking charter drop Surabaya Malang
+    - Pesan Charter Drop Surabaya-Malang
+    - Saya ingin charter drop dari Surabaya ke Malang
+    - Booking charter drop Surabaya Malang
+
+- intent: pesan_charter_drop_malang_juanda
+  examples: |
+    - [Bang] bookingin [Charter Drop](service_type) [Malang-Juanda](route) dong
+    - Mau jemputan dari [Bandara Juanda](route) ke [Malang](route) jam 10
+    - Saya ingin charter drop dari Malang ke Juanda
+    - Booking charter drop Malang Juanda
+
+- intent: pesan_charter_harian_juanda_malang
+  examples: |
+    - Pesan Charter Harian Juanda-Malang
+    - Saya ingin charter harian dari Juanda ke Malang
+    - Booking charter harian Juanda Malang
+    - Pesan Charter Harian Juanda-Malang
+    - Saya ingin charter harian dari Juanda ke Malang
+    - Booking charter harian Juanda Malang
 lookup_tables:
   - name: route
     elements:
@@ -387,4 +450,20 @@ lookup_tables:
       - 2 alamat
       - 3 alamat
       - 4 alamat
+stories:
+- story: charter drop malang-juanda
+  steps:
+    - intent: pesan_charter_drop_malang_juanda
+    - action: reservation_form
+    - active_loop: reservation_form
+    - active_loop: null
+    - action: utter_konfirmasi_harga
+    - intent: affirm
+    - action: action_generate_pnr
+    - action: utter_confirm_booking
+- story: handle charter drop Malang-Juanda
+  steps:
+    - intent: pesan_charter_drop_malang_juanda
+    - action: reservation_form
+    - action: utter_ask_continue_booking
 

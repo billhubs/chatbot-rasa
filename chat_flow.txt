@@ -1,0 +1,88 @@
+Chat Flow for Testing Kirana Assistant Chatbot
+
+1. Greeting
+User: "Halo"
+Bot: "Halo! Selamat datang di Kirana Travel. Silakan pilih opsi berikut:
+1. Pesan travel (contoh: 'Pesan Reguler Malang-Juanda')
+2. Cek pesanan (contoh: 'Cek pesanan KIR0001')
+3. Rekomendasi layanan (contoh: 'Rekomendasi layanan untuk Malang-Juanda')
+4. Bantuan (ketik 'bantuan')
+Apa yang bisa saya bantu hari ini?"
+
+2. Booking a Reguler Service
+User: "Pesan Reguler Malang-Juanda"
+Bot: "Silakan masukkan nama pemesan (misal, Budi Santoso)."
+
+User: "Budi Santoso"
+Bot: "Berapa jumlah penumpang? (misal, 3 penumpang atau dua orang)"
+
+User: "3 penumpang"
+Bot: "Masukkan nomor telepon (misal, +628123456789 atau 08123456789)."
+
+User: "+628123456789"
+Bot: "Masukkan alamat jemput (misal, Jl. Kawi No. 10)."
+
+User: "Jl. Kawi No. 10"
+Bot: "Masukkan alamat antar (misal, Jl. Sudirman No. 5). Ketik 'tidak ada' jika tidak ada."
+
+User: "Jl. Sudirman No. 5"
+Bot: "Masukkan kode penerbangan (misal, GA123). Ketik 'tidak ada' jika tidak ada."
+
+User: "GA123"
+Bot: "Masukkan nama maskapai (misal, Garuda Indonesia). Ketik 'tidak ada' jika tidak ada."
+
+User: "Garuda Indonesia"
+Bot: "Masukkan jam jemput (misal, 07:00)."
+
+User: "07:00"
+Bot: "Masukkan tanggal jemput (misal, 2025-06-20)."
+
+User: "2025-06-20"
+Bot: "Rincian Pemesanan:
+Nama: Budi Santoso
+Layanan: Reguler
+Rute: Malang-Juanda
+Penumpang: 3
+Telepon: +628123456789
+Alamat Jemput: Jl. Kawi No. 10
+Alamat Antar: Jl. Sudirman No. 5
+Penerbangan: GA123
+Maskapai: Garuda Indonesia
+Jam Jemput: 07:00
+Tanggal Jemput: 2025-06-20
+Total Harga: RpXXX,XXX
+Silakan ketik 'konfirmasi' untuk melanjutkan, 'ulang' untuk mengisi ulang, atau 'batal' untuk membatalkan."
+
+User: "konfirmasi"
+Bot: "Pemesanan dikonfirmasi untuk Budi Santoso:
+Kode Booking: KR-XXXXXX
+Apa yang ingin dilakukan selanjutnya? Ketik: 'selesai', 'buatkan reservasi lagi', atau 'cari pesanan'."
+
+3. Searching a Reservation
+User: "cari pesanan"
+Bot: "Silakan masukkan kode booking (misalnya, KIR0001 atau KR-ABC123)."
+
+User: "KR-XXXXXX"
+Bot: "Detail pesanan:
+Kode Booking: KR-XXXXXX
+Nama: Budi Santoso
+Layanan: Reguler
+Rute: Malang-Juanda
+Status: Pending
+Apa yang ingin dilakukan selanjutnya? Ketik: 'selesai', 'buatkan reservasi lagi', atau 'cari pesanan'."
+
+4. Ending the Session
+User: "selesai"
+Bot: "Terima kasih! Silakan ketik 'Pesan Reguler Malang-Juanda' untuk memesan lagi."
+
+5. Additional Commands
+User: "bantuan"
+Bot: "Halo! Silakan ketik:
+'Pesan Reguler Malang-Juanda' untuk memesan.
+'Rekomendasi layanan Malang-Juanda' untuk saran.
+'Cek pesanan KIR0001' untuk cek status."
+
+User: "rekomendasi"
+Bot: "Untuk rute Malang-Juanda, kami sarankan layanan Reguler (RpXXX,XXX/orang) atau Charter Drop (mulai RpXXX,XXX). Ketik 'Pesan Reguler Malang-Juanda' untuk mulai."
+
+End of Chat Flow

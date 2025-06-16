@@ -1,0 +1,327 @@
+text,intent
+Hai,greet
+Halo,greet
+Selamat pagi,greet
+Selamat siang,greet
+Selamat sore,greet
+Selamat malam,greet
+Assalamualaikum,greet
+Apa kabar?,greet
+"Hi, ada yang bisa dibantu?",greet
+"Halo, selamat datang!",greet
+Hey bro,greet
+Hoi,greet
+Yo,greet
+Hallo,greet
+Hei,greet
+Apa kabar bro,greet
+Hy,greet
+Haloo,greet
+Selamat pagii,greet
+Assalamualaikum wr wb,greet
+Apa khabar,greet
+"Hei, ada apa?",greet
+Hola,greet
+Hay,greet
+Selamt pagi,greet
+Slmat siang,greet
+Halo bro,greet
+Heyy,greet
+Hiii,greet
+Apa kbr,greet
+Selamat pg,greet
+"Halo, apa kabar?",greet
+Hi bro,greet
+Assalamu’alaikum,greet
+"Halo, selamat pg",greet
+Pesan [Reguler](service_type) [Malang-Juanda](route),booking
+Booking [Charter Drop](service_type) [Juanda-Malang](route),booking
+Reservasi [3 penumpang](passengers) untuk [Surabaya](route),booking
+Pesen travel [Malang-Juanda](route) buat besok,booking
+Booking [MLG-JUANDA](route) tgl 15,booking
+"Mau ke bandara [Juanda](route) dr [Malang](route), ada travel?",booking
+Butuh jemputan [Malang](route) ke [JUANDA](route) pagi,booking
+Travel dr [Malng](route) ke bandara [JUANDA](route),booking
+Pesan kursi [MLG-JUANDA](route) utk [2 org](passengers),booking
+Carikan travel [Malang](route) [Juada](route) yg murah,booking
+Reservasi [MLG-JUANDA](route) tgl 20,booking
+"Landing [Juanda](route) jam 10, butuh ke [Malang](route)",booking
+Jemput dr bandara [Juanda](route) ke [Malang](route),booking
+Pesen travel [JUANDA-MLG](route) sore ini,booking
+"Mau ke [Surabaya](route) dr [Malang](route), ada travel?",booking
+Booking [MLG-SBY](route) utk besok,booking
+Pesen travel [Surabaya-Malang](route),booking
+"Pesan [Reguler](service_type) [Malang-Juanda](route) for [Mary](name), [3 penumpang](passengers), [+628123456789](phone), [Jl. Kawi](address_pickup), flight [GA123](flight), [09:00](pickup_time)",booking
+Pesen [Charter Harian](service_type) [Malang-Surabaya](route) dengan [Hiace](vehicle) untuk [12 jam](hours),booking
+"Pesan cepat [Malang-Juanda](route) tgl [2025-06-15](pickup_date) jam [05:00](pickup_time) untuk [2 orang](passengers) atas nama [Budi](name), HP [08123456789](phone), jemput di [Hotel Tugu](address_pickup)",booking
+"Quick book [JUANDA-MLG](route): [3 org](passengers), tgl [20/06](pickup_date), jam [04:30](pickup_time), nama [Siti](name), no [08567890123](phone), jemput [Jl. Sudirman 5](address_pickup)",booking
+Pesen instan dr bandara ke [Malang](route),booking
+Booking cepat [SBY-MLG](route),booking
+Reserv kilat [MLG-SBY](route),booking
+Mau pesen [reguler](service_type) ke [Juanda](route) dari [Malang](route),booking
+Pesen [2 org](passengers) buat [Malang-Surabaya](route),booking
+Booking travel [Malang](route) ke [Bandara Juanda](route),booking
+Jemputan [Juanda](route) ke [Malang](route) buat [4 orang](passengers),booking
+Pesan [Charter Drop](service_type) [Malang-Juanda](route) [7 orang](passengers) [4 alamat](addresses),booking
+Booking [Reguler](service_type) [Malang-Juanda](route) [3 penumpang](passengers),booking
+Pesen travel [Malang-Juanda](route) buat [lima orang](passengers),booking
+Reservasi [Juanda-Malang](route) untuk [empat penumpang](passengers),booking
+Mau travel dari [Malang](route) ke [Juanda](route),booking
+Saya mau pesan [reguler](service_type) untuk [Malang-Juanda](route),booking
+Pesen [Reguler](service_type) [Malang-Juandaa](route),booking
+Pesan [Regular](service_type) [Malang-Junda](route),booking
+Booking [Charter Drop](service_type) [Juanda-Mlng](route),booking
+Reservasi [tiga penumpang](passengers) ke [Suroboyo](route),booking
+Pesen [Malang-Juanda](route) besok,booking
+Book [MLG-JUANDA](route) tanggal 15,booking
+"Mau ke [Juanda](route) dari [Malang](route), ada gak?",booking
+Butuh jemput [Malang](route) ke [JUANDA](route) pagi ini,booking
+Travel dari [Malangg](route) ke [JUANDA](route),booking
+Pesan [MLG-JUANDA](route) buat [dua orang](passengers),booking
+Cari travel [Malang](route) ke [Juanda](route) murah,booking
+Reservasi [MLG-JUANDA](route) tgl 20 Juni,booking
+"Landing [Juandaa](route) jam 10, mau ke [Malang](route)",booking
+Jemput dari [Juanda](route) ke [Malang](route),booking
+Pesen [JUANDA-MLG](route) sore,booking
+Mau ke [Sby](route) dari [Malang](route),booking
+Booking [MLG-SBY](route) besok,booking
+Pesen [Surabaya-Mlng](route),booking
+"Pesan [Reguler](service_type) [Malang-Juanda](route) atas nama [Mery](name), [tiga org](passengers), [08123456789](phone), [Jln Kawi](address_pickup), pesawat [GA123](flight), [09.00](pickup_time)",booking
+Pesen [Charter Harian](service_type) [Malang-SBY](route) pake [Hiace](vehicle) [12 jam](hours),booking
+"Pesan [Malang-Juanda](route) tgl [15-06-2025](pickup_date) jam [5 pagi](pickup_time) buat [2 org](passengers) nama [Budi](name), [0812345678](phone), jemput [Hotel Tugu](address_pickup)",booking
+"Booking [JUANDA-MLG](route): [3 orang](passengers), [20 Juni](pickup_date), [04.30](pickup_time), nama [Sity](name), [08567890123](phone), [Jalan Sudirman 5](address_pickup)",booking
+Pesan [Reguler](service_type) [Malang-Juanda](route),booking
+Pesan [Charter Drop](service_type) [Malang-Juanda](route),booking
+[2025-06-15](pickup_date),inform
+besok,inform
+lusa,inform
+[3 penumpang](passengers),inform
+[dua orang](passengers),inform
+[satu penumpang](passengers),inform
+[empat orang](passengers),inform
+[lima penumpang](passengers),inform
+[enam orang](passengers),inform
+[tujuh penumpang](passengers),inform
+[Jl. Sudirman No. 123](address_pickup),inform
+[08:30](pickup_time),inform
+[08123456789](phone),inform
+[+628123456789](phone),inform
+[08567890123](phone),inform
+[08-5233-496932](phone),inform
+[0852-3349-6932](phone),inform
+[Garuda Indonesia](airline),inform
+[GA-123](flight),inform
+[Reguler](service_type),inform
+[Avanza](vehicle),inform
+Tanggal [5 juni](pickup_date),inform
+[Lion Air](airline),inform
+Jam [14:30](pickup_time),inform
+Nama [Budi Santoso](name),inform
+Jemput di [Hotel Tugu Malang](address_pickup),inform
+Antar ke [Terminal Bungurasih](address_dropoff),inform
+[Charter Harian](service_type),inform
+[Innova Zenix](vehicle),inform
+[tidak ada](address_dropoff),inform
+[ga ada](address_dropoff),inform
+[nggak ada](address_dropoff),inform
+[tanpa penerbangan](flight),inform
+[nggak pakai pesawat](airline),inform
+[07:00](pickup_time),inform
+[2025-06-20](pickup_date),inform
+[dua penumpang](passengers),inform
+[tiga orang](passengers),inform
+[Budi](name),inform
+[Jl. Candi 2](address_pickup),inform
+[Bandara Juanda](address_dropoff),inform
+[QZ 323](flight),inform
+[AirAsia](airline),inform
+[dekat stasiun](address_pickup),inform
+[di hotel](address_pickup),inform
+[4 alamat](addresses),inform
+[15 Juni 2025](pickup_date),inform
+[besok lusa](pickup_date),inform
+[3 org](passengers),inform
+[2 penumpang](passengers),inform
+[1 orang](passengers),inform
+[4 org](passengers),inform
+[5 penumpang](passengers),inform
+[6 orang](passengers),inform
+[7 org](passengers),inform
+[Jalan Sudirman 123](address_pickup),inform
+[08.30](pickup_time),inform
+[0812-345-6789](phone),inform
+[0856-789-0123](phone),inform
+[Garuda](airline),inform
+[GA123](flight),inform
+[Regular](service_type),inform
+[Avansa](vehicle),inform
+[5 Juni 2025](pickup_date),inform
+[LionAir](airline),inform
+[14.30](pickup_time),inform
+[Budy Santoso](name),inform
+[Hotel Tugu](address_pickup),inform
+[Terminal Bungur](address_dropoff),inform
+[Charter Drop](service_type),inform
+[Inova](vehicle),inform
+[gk ada](address_dropoff),inform
+[tdk ada](address_dropoff),inform
+[tanpa flight](flight),inform
+[ga pake pesawat](airline),inform
+[7 pagi](pickup_time),inform
+[20-06-2025](pickup_date),inform
+[dua org](passengers),inform
+[tiga penumpang](passengers),inform
+[Budy](name),inform
+[Jln Candi 2](address_pickup),inform
+[Juanda](address_dropoff),inform
+[QZ323](flight),inform
+[Air Asia](airline),inform
+[dkt stasiun](address_pickup),inform
+[hotel](address_pickup),inform
+[empat alamat](addresses),inform
+[1](passengers),inform
+[2](passengers),inform
+[3](passengers),inform
+[Billy Tian Sunarto](name),inform
+[Budi Santoso](name),inform
+[Siti Aminah](name),inform
+1 orang,inform
+7 penumpang,inform
+Billy Tian Sunarto,inform
+KR-0A3CC9,inform
+085233496932,inform
+Jl. Candi No.2,inform
+Bandara Juanda,inform
+4 alamat,inform
+QZ323,inform
+AirAsia,inform
+07:30,inform
+2025-08-15,inform
+Recommend a package for [Malang-Juanda](route),recommend_service
+Suggest a service for [Juanda-Malang](route) during [Hari Raya](holiday),recommend_service
+Sarankan layanan untuk [Malang-Surabaya](route),recommend_service
+Rekomendasi travel [Malang-Juanda](route),recommend_service
+Apa layanan terbaik buat [Surabaya-Malang](route)?,recommend_service
+Saran transportasi [Malang-Juanda](route) untuk [4 orang](passengers),recommend_service
+Rekomendasi untuk [Juanda-Malang](route) di [Lebaran](holiday),recommend_service
+What is the price for [Reguler](service_type) [Malang-Juanda](route) with [7 passengers](passengers),get_price
+Price for [Charter Harian](service_type) [Malang-Surabaya](route) with [Hiace](vehicle) for [12 hours](hours),get_price
+Harga [Charter Drop](service_type) [Avanza](vehicle) selama [Lebaran](holiday),get_price
+Berapa harga [Reguler](service_type) [Malang-Juanda](route) buat [3 orang](passengers)?,get_price
+Harga [Charter Drop](service_type) [Malang-Juanda](route) [4 alamat](addresses),get_price
+Berapa biaya [Reguler](service_type) untuk [lima penumpang](passengers) [Malang-Surabaya](route)?,get_price
+Harga travel [Juanda-Malang](route) untuk [empat orang](passengers),get_price
+Ya,affirm
+Iya,affirm
+Betul,affirm
+Benar,affirm
+Oke,affirm
+Setuju,affirm
+Baik,affirm
+Konfirmasi,affirm
+Yoi,affirm
+Yup,affirm
+Bener,affirm
+Okelah,affirm
+Iya dong,affirm
+Lanjut,affirm
+Lanjutkan,affirm
+Tidak,deny
+Bukan,deny
+Enggak,deny
+Nggak,deny
+Tidak setuju,deny
+Beda,deny
+Salah,deny
+Nope,deny
+Gak jadi,deny
+Batal,deny
+Ga tak,deny
+Belum punya,deny
+Nggak ada,deny
+Ga ada,deny
+Tidak ada,deny
+Gak punya,deny
+Belum,deny
+Batalkan,deny
+Selamat tinggal,goodbye
+Dadah,goodbye
+Sampai jumpa,goodbye
+Bye,goodbye
+"Makasih, sampai ketemu lagi",goodbye
+Saya pergi dulu,goodbye
+"Terima kasih, bye",goodbye
+"Baik, sampai nanti",goodbye
+Adios,goodbye
+See you,goodbye
+Dah,goodbye
+Ciao,goodbye
+Cek pesanan,check_reservation
+Cari pesanan,check_reservation
+Apakah kode booking [KIR0001](pnr) aktif?,check_reservation
+Cek status pesanan [KIR1234](pnr),check_reservation
+Lihat detail booking [KR-ABC123](pnr),check_reservation
+Pesanan saya dengan kode [KIR0001](pnr),check_reservation
+Apakah booking [KR-XYZ789](pnr) masih valid?,check_reservation
+Cek pemesanan atas nama [Budi](name),check_reservation
+Status booking saya,check_reservation
+Lihat pesanan dengan nomor [KIR5678](pnr),check_reservation
+Cek kode [KR-123456](pnr),check_reservation
+Cari reservasi [KR-DEF456](pnr),check_reservation
+Cek [KR-0A3CC9](pnr),check_reservation
+Cari pesanan [KR-123456](pnr),check_reservation
+Status [KR-ABCDEF](pnr),check_reservation
+cari pesanan KR-0A3CC9,check_reservation
+cek pesanan KIR0001,check_reservation
+Terima kasih,thank_you
+Makasih,thank_you
+Thanks,thank_you
+Thank you,thank_you
+Terima kasih banyak,thank_you
+Makasih ya,thank_you
+Syukron,thank_you
+Terimakasih atas bantuannya,thank_you
+Makasih banyak,thank_you
+Thank you so much,thank_you
+Thx,thank_you
+Makasih bro,thank_you
+konfirmasi,confirm_booking
+ya,confirm_booking
+setuju,confirm_booking
+ok,confirm_booking
+oke,confirm_booking
+lanjut,confirm_booking
+lanjutkan,confirm_booking
+iya,confirm_booking
+betul,confirm_booking
+bener,confirm_booking
+batal,cancel_booking
+cancel,cancel_booking
+tidak,cancel_booking
+no,cancel_booking
+ga jadi,cancel_booking
+nggak jadi,cancel_booking
+batalkan,cancel_booking
+gak mau,cancel_booking
+stop,cancel_booking
+nggak lanjut,cancel_booking
+batalkan pesanan,cancel_booking
+selesai,next_action
+buatkan reservasi lagi,next_action
+reservasi baru,next_action
+cari pesanan,next_action
+cek pesanan,next_action
+ulang,next_action
+pesan lagi,next_action
+booking baru,next_action
+pesen ulang,next_action
+ulang dari awal,restart
+reset,restart
+mulai ulang,restart
+ulang semua,restart
+restart,restart
+mulai dari awal,restart
+ulangi dari pertama,restart
+reset pesanan,restart
+batalin dan mulai lagi,restart
+ulang reservasi,restart

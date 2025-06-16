@@ -1,0 +1,22 @@
+RASA Training Data Report
+
+1. NLU Data (nlu.yml):
+- Defines 15 intents including greet, booking, inform, get_price, recommend_service, thank_you, goodbye, restart, affirm, deny, nlu_fallback, check_reservation, confirm_booking, cancel_booking, and next_action.
+- Provides extensive examples for each intent to train the NLU model.
+- Includes lookup tables for entities such as route, passengers, and addresses to improve entity recognition.
+
+2. Rules (rules.yml):
+- Contains rules mapping intents to actions and responses.
+- Handles greetings, booking, confirmation, cancellation, next actions, fallback, and other chatbot intents.
+- Ensures smooth conversational flow by defining expected user intents and corresponding bot actions.
+
+3. Domain (domain.yml):
+- Lists all intents, entities, and slots used in the chatbot.
+- Defines responses for various intents like utter_greet, utter_thank_you, utter_goodbye, etc.
+- Specifies custom actions such as action_handle_chatbot and action_restart.
+- Configures session settings including expiration time and slot carry-over.
+
+Summary:
+The training data is comprehensive and consistent across NLU, rules, and domain files, supporting a robust chatbot experience for booking and related interactions.
+
+Please let me know if you need further details or assistance.

@@ -1,6 +1,10 @@
 version: "3.1"
 intents:
   - greet
+  - pesan_charter_drop_malang_surabaya
+  - pesan_charter_drop_surabaya_malang
+  - pesan_charter_drop_malang_juanda
+  - pesan_charter_harian_juanda_malang
   - booking
   - inform
   - get_price
@@ -12,9 +16,10 @@ intents:
   - deny
   - nlu_fallback
   - check_reservation
-  - confirm_booking
   - cancel_booking
   - next_action
+  - confirm_booking
+  
 entities:
   - route
   - service_type
@@ -120,12 +125,16 @@ slots:
 responses:
   utter_greet:
     - text: |
-        Halo! Selamat datang di Kirana Travel. Silakan pilih opsi berikut:
-        1. Pesan travel (contoh: "Pesan Reguler Malang-Juanda")
-        2. Cek pesanan (contoh: "Cek pesanan KIR0001")
-        3. Rekomendasi layanan (contoh: "Rekomendasi layanan untuk Malang-Juanda")
-        4. Bantuan (ketik "bantuan")
-        Apa yang bisa saya bantu hari ini?
+        Halo! Selamat datang di Kirana Travel. Silakan pilih layanan:
+        
+        [1] Pesan Travel Reguler (Malang-Juanda, Surabaya-Malang)
+        [2] Pesan Charter Drop (Malang-Juanda, Surabaya-Malang)
+        [3] Pesan Charter Harian (Juanda-Malang)
+        [4] Cek Status Pesanan
+        [5] Rekomendasi Layanan
+        [6] Bantuan
+        
+        Ketik nomor pilihan Anda (contoh: "1" untuk Pesan Travel Reguler)
   utter_thank_you:
     - text: |
         Terima kasih! Senang bisa membantu. Apa lagi yang bisa saya lakukan?
@@ -137,11 +146,7 @@ responses:
         Sampai jumpa! Semoga perjalananmu lancar. Jika butuh bantuan lagi, silakan kembali. Pilih:
         1. Mulai lagi
         2. Selesai
-  utter_okay:
-    - text: |
-        Baik, lanjutkan? Pilih:
-        1. Ya
-        2. Tidak
+  # Removed unused utter_okay to avoid warnings
   utter_ask_again:
     - text: |
         Maaf, saya tidak mengerti. Silakan pilih opsi berikut:
@@ -162,20 +167,27 @@ responses:
         3. Cari pesanan
   utter_booking_summary:
     - text: |
-        Rincian Pemesanan:
-        Nama: {name}
-        Layanan: {service_type}
-        Rute: {route}
-        Penumpang: {passengers}
-        Telepon: {phone}
-        Alamat Jemput: {address_pickup}
-        Alamat Antar: {address_dropoff}
-        Penerbangan: {flight}
-        Maskapai: {airline}
-        Jam Jemput: {pickup_time}
-        Tanggal Jemput: {pickup_date}
-        Total Harga: Rp{price}
-        Silakan ketik 'konfirmasi' untuk melanjutkan, 'ulang' untuk mengisi ulang, atau 'batal' untuk membatalkan.
+        RINCIAN PEMESANAN:
+        
+        [Layanan] {service_type}
+        [Rute] {route}
+        [Penumpang] {passengers}
+        [Nama] {name}
+        [Telepon] {phone}
+        [Alamat Jemput] {address_pickup}
+        [Alamat Antar] {address_dropoff}
+        [Penerbangan] {flight} ({airline})
+        [Tanggal] {pickup_date}
+        [Jam] {pickup_time}
+        [Kendaraan] {vehicle}
+        [Total Harga] Rp{price}
+        
+        Silakan pilih:
+        1. Konfirmasi (lanjutkan pembayaran)
+        2. Ulang (perbaiki data)
+        3. Batal (batalkan pemesanan)
+        
+        Ketik nomor pilihan Anda (contoh: "1" untuk Konfirmasi)
   utter_booking_confirmed:
     - text: |
         Pemesanan dikonfirmasi untuk {name}: Kode Booking: {pnr}
@@ -199,6 +211,12 @@ responses:
         1. Pesan travel baru
         2. Kembali ke menu utama
         3. Selesai
+  utter_ask_continue_booking:
+    - text: "Apakah Anda ingin melanjutkan pemesanan ini?"
+  utter_konfirmasi_harga:
+    - text: "Total harga reservasi Anda adalah {harga_total}. Apakah Anda ingin melanjutkan?"
+  utter_confirm_booking:
+    - text: "Pemesanan dikonfirmasi. Kode booking Anda: {kode_booking}."
 actions:
   - action_handle_chatbot
   - action_restart
@@ -206,6 +224,26 @@ actions:
   - action_confirm_booking
   - action_check_reservation
   - action_cancel_booking
+  - action_generate_pnr
+forms:
+  reservation_form:
+    required_slots:
+      - name
+      - route
+      - service_type
+      - passengers
+      - phone
+      - address_pickup
+      - address_dropoff
+      - flight
+      - airline
+      - pickup_time
+      - pickup_date
+      - vehicle
+      - hours
+      - holiday
+      - pnr
+      - addresses
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

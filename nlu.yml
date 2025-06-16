@@ -1,0 +1,166 @@
+version: "3.1"
+nlu:
+- intent: greet
+  examples: |
+    - Hai
+    - Halo
+    - Selamat pagi
+    - Selamat siang
+    - Selamat sore
+    - Selamat malam
+    - Assalamualaikum
+    - Apa kabar?
+    - Hi, ada yang bisa dibantu?
+    - Halo, selamat datang!
+- intent: booking
+  examples: |
+    - Pesan [Reguler](service_type) [Malang-Juanda](route)
+    - Booking [Charter Drop](service_type) [Juanda-Malang](route)
+    - Reservasi [3 penumpang](passengers) untuk [Surabaya](route)
+    - Pesen travel [Malang-Juanda](route) buat besok
+    - Booking [MLG-JUANDA](route) tgl 15
+    - Mau ke bandara [Juanda](route) dr [Malang](route), ada travel?
+    - Butuh jemputan [Malang](route) ke [JUANDA](route) pagi
+    - Travel dr [Malng](route) ke bandara [JUANDA](route)
+    - Pesan kursi [MLG-JUANDA](route) utk [2 org](passengers)
+    - Carikan travel [Malang](route) [Juanda](route) yg murah
+    - Reservasi [MLG-JUANDA](route) tgl 20
+    - Landing [Juanda](route) jam 10, butuh ke [Malang](route)
+    - Jemput dr bandara [Juanda](route) ke [Malang](route)
+    - Pesen travel [JUANDA-MLG](route) sore ini
+    - Mau ke [Surabaya](route) dr [Malang](route), ada travel?
+    - Booking [MLG-SBY](route) utk besok
+    - Pesen travel [Surabaya-Malang](route)
+    - Pesan [Reguler](service_type) [Malang-Juanda](route) for [Mary](name), [3 passengers](passengers), [+628123456789](phone), [Jl. Kawi](address_pickup), flight [GA123](flight), [09:00](pickup_time)
+    - Pesen [Charter Harian](service_type) [Malang-Surabaya](route) dengan [Hiace](vehicle) untuk [12 jam](hours)
+    - Pesan cepat [Malang-Juanda](route) tgl [2025-06-15](pickup_date) jam [05:00](pickup_time) untuk [2 orang](passengers) atas nama [Budi](name), HP [08123456789](phone), jemput di [Hotel Tugu](address_pickup)
+    - Quick book [JUANDA-MLG](route): [3 org](passengers), tgl [20/06](pickup_date), jam [04:30](pickup_time), nama [Siti](name), no [08567890123](phone), jemput [Jl. Sudirman 5](address_pickup)
+    - Pesen instan dr bandara ke [Malang](route)
+    - Booking cepat [SBY-MLG](route)
+    - Reserv kilat [MLG-SBY](route)
+- intent: inform
+  examples: |
+    - [2025-06-15](pickup_date)
+    - besok
+    - lusa
+    - [3 penumpang](passengers)
+    - [Jl. Sudirman No. 123](address_pickup)
+    - [08:30](pickup_time)
+    - [08123456789](phone)
+    - [Garuda Indonesia](airline)
+    - [GA-123](flight)
+    - [Reguler](service_type)
+    - [Avanza](vehicle)
+    - Tanggal [5 juni](pickup_date)
+    - [Lion Air](airline)
+    - Jam [14:30](pickup_time)
+    - Nama [Budi Santoso](name)
+    - Jemput di [Hotel Tugu Malang](address_pickup)
+    - Antar ke [Terminal Bungurasih](address_dropoff)
+    - [Charter Harian](service_type)
+    - [Innova Zenix](vehicle)
+- intent: recommend_service
+  examples: |
+    - Recommend a package for [Malang-Juanda](route)
+    - Suggest a service for [Juanda-Malang](route) during [Hari Raya](holiday)
+    - Sarankan layanan untuk [Malang-Surabaya](route)
+- intent: get_price
+  examples: |
+    - What is the price for [Reguler](service_type) [Malang-Juanda](route) with [7 passengers](passengers)
+    - Price for [Charter Harian](service_type) [Malang-Surabaya](route) with [Hiace](vehicle) for [12 hours](hours)
+    - Harga [Charter Drop](service_type) [Avanza](vehicle) selama [Lebaran](holiday)
+- intent: affirm
+  examples: |
+    - Ya
+    - Iya
+    - Betul
+    - Benar
+    - Oke
+    - Setuju
+    - Baik
+    - Konfirmasi
+    - Yoi
+    - Yup
+- intent: deny
+  examples: |
+    - Tidak
+    - Bukan
+    - Enggak
+    - Nggak
+    - Tidak setuju
+    - Beda
+    - Salah
+    - Nope
+    - Gak jadi
+    - Batal
+- intent: goodbye
+  examples: |
+    - Selamat tinggal
+    - Dadah
+    - Sampai jumpa
+    - Bye
+    - Makasih, sampai ketemu lagi
+    - Saya pergi dulu
+    - Terima kasih, bye
+    - Baik, sampai nanti
+    - Adios
+    - See you
+- intent: check_reservation
+  examples: |
+    - Cek pesanan
+    - Cari pesanan
+    - Apakah kode booking [KIR0001](pnr) aktif?
+    - Cek status pesanan [KIR1234](pnr)
+    - Lihat detail booking [KR-ABC123](pnr)
+    - Pesanan saya dengan kode [KIR0001](pnr)
+    - Apakah booking [KR-XYZ789](pnr) masih valid?
+    - Cek pemesanan atas nama [Budi](name)
+    - Status booking saya
+    - Lihat pesanan dengan nomor [KIR5678](pnr)
+- intent: thank_you
+  examples: |
+    - Terima kasih
+    - Makasih
+    - Thanks
+    - Thank you
+    - Terima kasih banyak
+    - Makasih ya
+    - Syukron
+    - Terimakasih atas bantuannya
+    - Makasih banyak
+    - Thank you so much
+- intent: confirm_booking
+  examples: |
+    - konfirmasi
+    - ya
+    - setuju
+    - ok
+- intent: cancel_booking
+  examples: |
+    - batal
+    - cancel
+    - tidak
+    - no
+- intent: next_action
+  examples: |
+    - selesai
+    - buatkan reservasi lagi
+    - reservasi baru
+    - cari pesanan
+    - cek pesanan
+- intent: pesan_charter_drop_malang_juanda
+  examples: |
+    - Pesan Charter Drop Malang-Juanda
+    - Saya ingin charter drop dari Malang ke Juanda
+    - Booking charter drop Malang Juanda
+stories:
+- story: charter drop malang-juanda
+  steps:
+    - intent: pesan_charter_drop_malang_juanda
+    - action: reservation_form
+    - active_loop: reservation_form
+    - active_loop: null
+    - action: utter_konfirmasi_harga
+    - intent: affirm
+    - action: action_generate_pnr
+    - action: utter_confirm_booking

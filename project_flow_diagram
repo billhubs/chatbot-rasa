@@ -1,0 +1,13 @@
+// Project Flow Diagram
+digraph {
+	FE [label="Frontend UI\n(React Chat Interface,\nSystem Flow Widget)" color=lightblue shape=box style=filled]
+	RASA [label="Rasa Backend\n(Intent Classification,\nRandom Forest ML,\nCustom Actions)" color=lightgreen shape=box style=filled]
+	LLAMA [label="LLaMA Agent\n(Fallback Response,\nLanguage Model API)" color=orange shape=box style=filled]
+	DB [label="Database\n(Reservations Storage,\nBooking Data)" color=yellow shape=box style=filled]
+	FE -> RASA [label="User messages"]
+	RASA -> LLAMA [label="Fallback requests"]
+	LLAMA -> RASA [label="Fallback responses"]
+	RASA -> FE [label="Bot responses"]
+	RASA -> DB [label="Read/Write bookings"]
+	DB -> RASA [label="Booking data"]
+}

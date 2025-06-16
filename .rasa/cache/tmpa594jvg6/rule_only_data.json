@@ -1,0 +1,7 @@
+{
+  "rule_only_slots": [
+    "pnr",
+    "requested_slot"
+  ],
+  "rule_only_loops": []
+}

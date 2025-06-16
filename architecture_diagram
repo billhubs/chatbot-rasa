@@ -1,0 +1,26 @@
+// Architecture Diagram
+digraph {
+	subgraph cluster_frontend {
+		label=Frontend
+		FE_UI [label="React UI
+(Chat Interface,
+System Flow Widget)" color=lightblue shape=box style=filled]
+	}
+	subgraph cluster_backend {
+		label=Backend
+		RASA [label="Rasa Server
+(Intent Classification,
+Custom Actions,
+Random Forest ML)" color=lightgreen shape=box style=filled]
+		LLAMA [label="LLaMA Agent
+(Fallback API)" color=orange shape=box style=filled]
+		DB [label="Database
+(Reservations Storage)" color=yellow shape=cylinder style=filled]
+	}
+	FE_UI -> RASA [label="User Messages"]
+	RASA -> LLAMA [label="Fallback Requests"]
+	LLAMA -> RASA [label="Fallback Responses"]
+	RASA -> FE_UI [label="Bot Responses"]
+	RASA -> DB [label="Read/Write Bookings"]
+	DB -> RASA [label="Booking Data"]
+}

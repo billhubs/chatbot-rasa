@@ -1,0 +1,113 @@
+version: "3.1"
+stories:
+- story: greet and book regular travel
+  steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: booking
+    - action: reservation_form
+    - active_loop: reservation_form
+    - active_loop: null
+    - action: utter_booking_summary
+    - intent: affirm
+    - action: utter_konfirmasi_harga
+    - intent: affirm
+    - action: action_generate_pnr
+    - action: utter_confirm_booking
+    - action: utter_ask_next_action
+
+- story: charter drop malang-juanda
+  steps:
+    - intent: pesan_charter_drop_malang_juanda
+    - action: reservation_form
+    - active_loop: reservation_form
+    - active_loop: null
+    - action: utter_booking_summary
+    - intent: confirm_booking
+    - action: utter_konfirmasi_harga
+    - intent: confirm_booking
+    - action: action_generate_pnr
+    - action: utter_confirm_booking
+    - action: utter_ask_continue_booking
+
+- story: charter drop malang-surabaya
+  steps:
+    - intent: pesan_charter_drop_malang_surabaya
+    - action: reservation_form
+    - active_loop: reservation_form
+    - active_loop: null
+    - action: utter_booking_summary
+    - intent: confirm_booking
+    - action: utter_konfirmasi_harga
+    - intent: confirm_booking
+    - action: action_generate_pnr
+    - action: utter_confirm_booking
+    - action: utter_ask_continue_booking
+
+- story: booking cancellation
+  steps:
+    - intent: cancel_booking
+    - action: action_cancel_booking
+    - action: utter_booking_cancelled
+
+- story: check reservation with PNR
+  steps:
+    - intent: check_reservation
+      entities:
+        - pnr: "KIR0001"
+    - action: action_check_reservation
+    - action: utter_reservation_details
+
+- story: handle thank you
+  steps:
+    - intent: thank_you
+    - action: utter_thank_you
+
+- story: handle goodbye
+  steps:
+    - intent: goodbye
+    - action: utter_goodbye
+
+intents:
+- greet
+- booking
+- pesan_charter_drop_malang_juanda
+- cancel_booking
+- check_reservation
+- thank_you
+- goodbye
+
+entities:
+- service_type
+- route
+- passengers
+- pnr
+
+slots:
+  service_type:
+    type: text
+  route:
+    type: text
+  passengers:
+    type: text
+  pnr:
+    type: text
+  requested_slot:
+    type: text
+
+actions:
+- utter_greet
+- action_collect_booking_details
+- utter_booking_summary
+- action_confirm_booking
+- utter_booking_confirmed
+- utter_ask_next_action
+- utter_thank_you
+- utter_goodbye
+- action_cancel_booking
+- action_check_reservation
+- utter_reservation_details
+- utter_check_reservation
+- reservation_form
+- action_generate_pnr
+- utter_konfirmasi_harga

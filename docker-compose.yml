@@ -1,0 +1,50 @@
+version: '3.8'
+
+services:
+  rasa:
+    build: .
+    ports:
+      - "5005:5005"
+      - "5055:5055"
+    volumes:
+      - ./:/app
+    command: >
+      sh -c "rasa run --enable-api --cors 'http://192.168.0.9:3000' --host 0.0.0.0 &
+             rasa run actions --host 0.0.0.0"
+
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend:/app/backend
+    working_dir: /app/backend
+    command: python chatbot.py
+
+  rasa-x:
+    image: rasa/rasa-x:latest
+    ports:
+      - "5002:5002"
+    volumes:
+      - ./:/app
+    environment:
+      RASA_X_PASSWORD: "rasa"
+      RASA_X_USERNAME: "admin"
+      RASA_X_TOKEN: "rasa_x_token"
+      RASA_PRODUCTION_HOST: "http://localhost:5005"
+      RASA_PRODUCTION_PORT: 5005
+      RASA_WORKER_HOST: "http://localhost:5005"
+      RASA_WORKER_PORT: 5005
+    depends_on:
+      - rasa
+
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app/frontend
+    working_dir: /app/frontend
+    command: npm start

@@ -1,0 +1,143 @@
+must be for optimised for indonesian user.
+
+this is the Sample Human Centered Design of Kirana Travel form reservations:
+Form Reservasi pertama,
+
+MALANG - JUANDA
+Tanggal : 
+Maskapai : 
+Terbang Jam : 
+Tujuan - Kode flight : 
+========================
+Nama : 
+Jumlah penumpang : 
+No HP : 
+Alamat Jemput : 
+Jam Penjemputan :
+========================
+Kirana Tour & Travel Malang
+Hotline ☎️ 0341 - 55 77 55
+Operator 🤳 082 141 168 062
+Customer Care 📲 0881 333 0881
+
+Form Reservasi kedua,
+
+JUANDA-MALANG
+Tanggal : 
+Maskapai : 
+Mendarat Jam : 
+Dari Kota - Kode flight : 
+========================
+Nama : 
+Jumlah penumpang : 
+No HP : 
+Alamat Antar : 
+Jam Penjemputan :
+========================
+Kirana Tour & Travel Malang
+Hotline ☎️ 0341 - 55 77 55
+Operator 🤳 082 141 168 062
+Customer Care 📲 0881 333 0881
+
+Form Reservasi ketiga,
+
+MALANG-SURABAYA
+Tanggal : 
+========================
+Nama : 
+Jumlah penumpang : 
+No HP : 
+Alamat Jemput : 
+Alamat Antar : 
+Jam Penjemputan :
+========================
+Kirana Tour & Travel Malang
+Hotline ☎️ 0341 - 55 77 55
+Operator 🤳 082 141 168 062
+Customer Care 📲 0881 333 0881
+
+Form Reservasi keempat,
+
+SURABAYA-MALANG
+Tanggal : 
+========================
+Nama : 
+Jumlah penumpang : 
+No HP : 
+Alamat Jemput : 
+Alamat Antar : 
+Jam Penjemputan :
+========================
+Kirana Tour & Travel Malang
+Hotline ☎️ 0341 - 55 77 55
+Operator 🤳 082 141 168 062
+Customer Care 📲 0881 333 0881
+
+-------------------------------------------------
+classification and pricing:
+ada 3 klasifikasi tipe reservasi:
+a. Reguler (4 Kursi, Tamu Campur)
+b. Charter Drop (4 Kursi, Private)
+c. Charter Harian (4 Kursi, Private, Sewa 1-10 Jam per hari)
+
+3 Tipe Kendaraan:
+a. Umum: V-50,V-51,V-52 (V = Avanza),S-2 (S = Sienta),X-2 (X = Xpander) ,R-1 (R = Raize) (Kapasitas 4)
+b. Premium: Z-1 (Z = Innova Zenix) (Kapasitas 4)
+c. Minibus: H-2 (H = Hiace Premio) (Kapasitas 10)
+
+4.Pricelist
+-Normal Price
+a.Charter drop IDR 395.000 (harga include tol, Parkir Juanda x1, 1-2 Penumpang, Malang-Surabaya Kota/Juanda)
+b.Reguler IDR 180.000 (per seat, belum termasuk tol, Malang-Surabaya Kota/Juanda, Keberangkatan di setiap jam ganjil (start dari pukul 01.00-17.00 WIB))
+Note untuk Charter drop dan Reguler: Jika ada tambahan penumpang biaya @25k/org dan biaya perbedaan alamat @25rb/alamat
+Jumlah 3 penumpang atau lebih, dengan lebih dari 3 alamat terhitung harga Reguler @150k/org
+Harga diatas belum termasuk tambahan overarea alamat penjemputan ataupun pengantaran
+
+Mohon dicatat, apabila waktu kedatangan mendekati atau melebihi pukul 18.00, biaya tambahan (Over Time) akan dikenakan sesuai ketentuan berikut:  
+- Pukul 18.00–19.59: Rp 50.000  
+- Pukul 20.00–21.59: Rp 100.000  
+- Lebih dari pukul 22.00: Rp 150.000
+ 
+c.Charter Harian (
+> Area Malang - Surabaya
+Avanza                    Rp 650.000 
+Innova Reborn       Rp 1.000.000
+Innova Zenix          Rp 1.200.000
+Hiace Commuter  Rp 1.200.000 (14 seat)
+Hiace Premio        Rp1.500.000 (14 seat)
+Hiace Luxury        Rp 1.800.000 (10> seat)
+
+> Area Malang - Luar Jatim termasuk Banyuwangi
+Avanza                    Rp 750.000 
+Innova Reborn       Rp 1.100.000
+Innova Zenix          Rp 1.300.000
+Hiace Commuter  Rp 1.300.000 (14 seat)
+Hiace Premio        Rp1.600.000 (14 seat)
+Hiace Luxury        Rp 1.900.000 (10 seat)
+
+Kententuan Harga : 
+a. Termasuk BBM dan Driver.
+b. Belum termasuk:
+-Tol
+-Parkir
+-Uang Makan dan minum Driver
+
+Jangka Waktu pemakaian per 8 jam + Bonus Gratis 2 Jam
+Kelebihan pemakaian/Overtime: IDR 50.000/jam)
+
+
+-Periode Tuslah (Hari Raya dan Hari Libur Panjang di Indonesia sesuaikan dengan calender contoh Tgl 25 mar 2025 - 7 apr 2025)
+
+- Reguler Rp 200.000 (per seat) 
+- Carter Drop ke Sby/Juanda Avanza/setaraf Rp 450.000 (2 penumpang) 
+- Carter Drop Sby/Juanda Innova/setaraf Rp 900.000 (2 penumpang) 
+- Hiace Luxury Drop Sby/Juanda 1.900.000 (10 penumpang)
+
+sample contoh dari reservasi customers Kirana Travel:
+ID_Reservasi,Rute,Tanggal,Tipe_Reservasi,Nama,No_HP,Jumlah_Penumpang,Waktu_Penjemputan,Alamat_Jemput,Kendaraan,Harga,Airlines_Code,Airlines_Company,Departure_Airport,Arrival_Airport,Durasi,Alamat_Antar
+KR-0001,JUANDA-MALANG,24-11-2024,reguler,Maryanto Wibowo,08172883986,7,16:27,"Jl. Jalan Jakarta No. 76, JUANDA",V-51,1360000,ID,Batik Air,Juanda International Airport,Malang International Airport,,
+KR-0002,MALANG-JUANDA,10-10-2024,reguler,Dadap Manullang,08916637688,1,10:25,"Jl. Gg. Pasir Koja No. 49, MALANG",V-51,180000,JT,Lion Air,Malang International Airport,Juanda International Airport,,
+KR-0003,SURABAYA-MALANG,25-08-2024,charter_harian,Vega Mustofa,08666315787,7,22:26,"Jl. Jl. Kapten Muslihat No. 209, SURABAYA",H-2,1150000,,,,,10.0,"Jl. Gang Peta No. 94, MALANG"
+---
+
+
